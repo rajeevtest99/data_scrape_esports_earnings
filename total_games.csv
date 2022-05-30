@@ -1,0 +1,3567 @@
+country,total_earnings,players,game
+China,"$76,536,565.41 ",609,Dota 2
+Russian Federation,"$24,967,656.90 ",531,Dota 2
+Ukraine,"$16,999,134.45 ",206,Dota 2
+Finland,"$16,896,850.35 ",84,Dota 2
+United States,"$14,723,036.90 ",208,Dota 2
+Sweden,"$12,695,243.89 ",135,Dota 2
+Denmark,"$12,354,863.61 ",54,Dota 2
+Malaysia,"$11,914,185.87 ",156,Dota 2
+Philippines,"$8,770,596.15 ",145,Dota 2
+Germany,"$8,007,523.86 ",111,Dota 2
+Australia,"$7,985,433.03 ",111,Dota 2
+Canada,"$7,412,239.33 ",99,Dota 2
+Jordan,"$7,213,321.92 ",22,Dota 2
+France,"$5,844,320.30 ",31,Dota 2
+Bulgaria,"$5,148,780.59 ",24,Dota 2
+Pakistan,"$4,462,267.26 ",34,Dota 2
+Lebanon,"$4,311,423.65 ",19,Dota 2
+"Korea, Republic of","$3,839,752.54 ",114,Dota 2
+Estonia,"$3,624,137.82 ",4,Dota 2
+Peru,"$3,528,873.64 ",135,Dota 2
+Israel,"$3,248,111.99 ",4,Dota 2
+Romania,"$2,734,356.18 ",50,Dota 2
+Singapore,"$2,583,023.72 ",53,Dota 2
+Poland,"$1,805,250.76 ",54,Dota 2
+Brazil,"$1,803,409.39 ",152,Dota 2
+Thailand,"$1,399,426.83 ",81,Dota 2
+Indonesia,"$1,383,270.15 ",93,Dota 2
+Macao,"$1,337,308.37 ",1,Dota 2
+North Macedonia,"$1,282,709.92 ",3,Dota 2
+Belarus,"$1,258,239.55 ",56,Dota 2
+Greece,"$1,024,752.94 ",20,Dota 2
+Kyrgyzstan,"$516,169.13 ",32,Dota 2
+Netherlands,"$508,741.58 ",24,Dota 2
+Bolivia,"$483,548.99 ",8,Dota 2
+Czech Republic,"$411,868.18 ",59,Dota 2
+"Moldova, Republic of","$410,117.21 ",1,Dota 2
+Kazakhstan,"$310,196.00 ",86,Dota 2
+Norway,"$303,760.72 ",6,Dota 2
+Slovakia,"$159,769.57 ",18,Dota 2
+Serbia,"$152,809.03 ",37,Dota 2
+Mongolia,"$134,854.04 ",32,Dota 2
+United Kingdom,"$119,728.41 ",130,Dota 2
+Argentina,"$114,366.94 ",14,Dota 2
+Viet Nam,"$105,075.00 ",44,Dota 2
+India,"$101,768.71 ",108,Dota 2
+Lao People's Democratic Republic,"$98,900.94 ",26,Dota 2
+Bosnia and Herzegovina,"$90,652.89 ",5,Dota 2
+Mexico,"$82,095.48 ",12,Dota 2
+Austria,"$76,668.91 ",21,Dota 2
+Croatia,"$59,084.38 ",9,Dota 2
+South Africa,"$55,764.43 ",35,Dota 2
+Turkey,"$49,239.44 ",28,Dota 2
+Myanmar,"$26,156.75 ",15,Dota 2
+Georgia,"$21,538.24 ",9,Dota 2
+Ecuador,"$20,907.58 ",8,Dota 2
+Egypt,"$20,030.66 ",12,Dota 2
+Japan,"$20,000.00 ",5,Dota 2
+Belgium,"$17,427.08 ",1,Dota 2
+Uruguay,"$16,480.67 ",1,Dota 2
+Slovenia,"$15,635.25 ",1,Dota 2
+Albania,"$11,437.92 ",7,Dota 2
+Chile,"$11,150.39 ",11,Dota 2
+Cambodia,"$10,822.50 ",14,Dota 2
+Uzbekistan,"$9,461.31 ",6,Dota 2
+New Zealand,"$5,742.29 ",16,Dota 2
+Nepal,"$4,936.40 ",15,Dota 2
+Hungary,"$4,486.87 ",16,Dota 2
+Venezuela,"$3,650.00 ",2,Dota 2
+Switzerland,"$3,463.04 ",15,Dota 2
+"Kosovo, Republic of","$3,200.00 ",4,Dota 2
+Syrian Arab Republic,"$2,995.20 ",5,Dota 2
+Portugal,"$1,997.84 ",1,Dota 2
+Italy,"$1,927.90 ",4,Dota 2
+United Arab Emirates,"$1,733.65 ",4,Dota 2
+Bahrain,"$1,662.44 ",1,Dota 2
+Armenia,"$1,661.45 ",6,Dota 2
+Lithuania,"$1,614.95 ",6,Dota 2
+"Iran, Islamic Republic of","$1,425.62 ",27,Dota 2
+Bangladesh,"$1,335.40 ",6,Dota 2
+Brunei Darussalam,"$1,000.00 ",5,Dota 2
+Colombia,$733.33 ,1,Dota 2
+Iraq,$657.70 ,1,Dota 2
+Spain,$600.00 ,1,Dota 2
+"Taiwan, Republic of China",$516.80 ,2,Dota 2
+Ireland,$407.05 ,3,Dota 2
+Azerbaijan,$294.60 ,15,Dota 2
+Malta,$239.00 ,2,Dota 2
+Bermuda,$200.00 ,1,Dota 2
+Sri Lanka,$155.95 ,5,Dota 2
+Iceland,$131.00 ,1,Dota 2
+Montenegro,$100.01 ,1,Dota 2
+Cuba,$100.00 ,5,Dota 2
+Algeria,$57.88 ,1,Dota 2
+Latvia,$55.72 ,1,Dota 2
+Saudi Arabia,$45.56 ,2,Dota 2
+Denmark,"$18,579,920.73 ",534,Counter-Strike: Global Offensive
+United States,"$12,953,260.01 ",2284,Counter-Strike: Global Offensive
+Sweden,"$11,657,319.94 ",898,Counter-Strike: Global Offensive
+Russian Federation,"$11,296,091.86 ",762,Counter-Strike: Global Offensive
+Brazil,"$9,995,827.41 ",691,Counter-Strike: Global Offensive
+France,"$8,817,331.10 ",690,Counter-Strike: Global Offensive
+Poland,"$6,951,474.56 ",583,Counter-Strike: Global Offensive
+Ukraine,"$5,029,004.98 ",264,Counter-Strike: Global Offensive
+Canada,"$4,853,408.35 ",549,Counter-Strike: Global Offensive
+Germany,"$3,552,913.33 ",668,Counter-Strike: Global Offensive
+Finland,"$3,477,154.75 ",414,Counter-Strike: Global Offensive
+China,"$3,164,067.86 ",484,Counter-Strike: Global Offensive
+Kazakhstan,"$2,758,454.77 ",80,Counter-Strike: Global Offensive
+Bulgaria,"$2,390,066.30 ",132,Counter-Strike: Global Offensive
+Australia,"$2,315,143.27 ",554,Counter-Strike: Global Offensive
+Norway,"$1,844,898.40 ",267,Counter-Strike: Global Offensive
+Slovakia,"$1,688,122.58 ",87,Counter-Strike: Global Offensive
+Turkey,"$1,674,321.03 ",223,Counter-Strike: Global Offensive
+Bosnia and Herzegovina,"$1,369,681.17 ",25,Counter-Strike: Global Offensive
+United Kingdom,"$1,330,004.10 ",531,Counter-Strike: Global Offensive
+Estonia,"$984,937.93 ",114,Counter-Strike: Global Offensive
+Spain,"$965,222.25 ",251,Counter-Strike: Global Offensive
+Netherlands,"$935,506.90 ",157,Counter-Strike: Global Offensive
+Belgium,"$850,541.01 ",115,Counter-Strike: Global Offensive
+South Africa,"$824,613.71 ",238,Counter-Strike: Global Offensive
+Czech Republic,"$813,588.05 ",115,Counter-Strike: Global Offensive
+Serbia,"$719,444.70 ",89,Counter-Strike: Global Offensive
+Latvia,"$714,922.08 ",137,Counter-Strike: Global Offensive
+Portugal,"$691,059.64 ",229,Counter-Strike: Global Offensive
+Lithuania,"$545,948.21 ",131,Counter-Strike: Global Offensive
+Mongolia,"$530,067.07 ",88,Counter-Strike: Global Offensive
+Argentina,"$476,528.56 ",169,Counter-Strike: Global Offensive
+"Korea, Republic of","$466,252.32 ",171,Counter-Strike: Global Offensive
+Thailand,"$435,230.85 ",123,Counter-Strike: Global Offensive
+Saudi Arabia,"$400,020.39 ",13,Counter-Strike: Global Offensive
+Indonesia,"$361,486.50 ",75,Counter-Strike: Global Offensive
+Hungary,"$342,703.37 ",135,Counter-Strike: Global Offensive
+New Zealand,"$330,094.78 ",50,Counter-Strike: Global Offensive
+Uzbekistan,"$329,260.34 ",21,Counter-Strike: Global Offensive
+Romania,"$298,840.33 ",132,Counter-Strike: Global Offensive
+India,"$293,395.24 ",200,Counter-Strike: Global Offensive
+Singapore,"$274,233.52 ",111,Counter-Strike: Global Offensive
+Jordan,"$255,113.14 ",21,Counter-Strike: Global Offensive
+Israel,"$245,113.44 ",61,Counter-Strike: Global Offensive
+Belarus,"$228,515.05 ",89,Counter-Strike: Global Offensive
+Malaysia,"$227,195.05 ",118,Counter-Strike: Global Offensive
+Mexico,"$191,016.06 ",44,Counter-Strike: Global Offensive
+Switzerland,"$190,469.56 ",73,Counter-Strike: Global Offensive
+Montenegro,"$185,940.56 ",3,Counter-Strike: Global Offensive
+Hong Kong,"$152,012.53 ",72,Counter-Strike: Global Offensive
+"Kosovo, Republic of","$135,293.13 ",18,Counter-Strike: Global Offensive
+North Macedonia,"$133,348.97 ",33,Counter-Strike: Global Offensive
+Japan,"$124,809.25 ",82,Counter-Strike: Global Offensive
+Philippines,"$107,877.46 ",97,Counter-Strike: Global Offensive
+United Arab Emirates,"$101,451.64 ",45,Counter-Strike: Global Offensive
+Syrian Arab Republic,"$85,688.54 ",12,Counter-Strike: Global Offensive
+Viet Nam,"$82,784.68 ",114,Counter-Strike: Global Offensive
+Uruguay,"$78,709.16 ",13,Counter-Strike: Global Offensive
+Austria,"$73,079.43 ",84,Counter-Strike: Global Offensive
+Chile,"$52,033.88 ",101,Counter-Strike: Global Offensive
+Iraq,"$49,021.43 ",15,Counter-Strike: Global Offensive
+Iceland,"$46,374.23 ",65,Counter-Strike: Global Offensive
+Pakistan,"$45,801.78 ",51,Counter-Strike: Global Offensive
+Colombia,"$44,740.68 ",30,Counter-Strike: Global Offensive
+"Taiwan, Republic of China","$44,547.60 ",58,Counter-Strike: Global Offensive
+Azerbaijan,"$43,443.62 ",25,Counter-Strike: Global Offensive
+Italy,"$42,681.56 ",66,Counter-Strike: Global Offensive
+Algeria,"$41,458.56 ",25,Counter-Strike: Global Offensive
+Lebanon,"$39,585.16 ",33,Counter-Strike: Global Offensive
+Ireland,"$38,155.18 ",32,Counter-Strike: Global Offensive
+Guatemala,"$32,664.29 ",11,Counter-Strike: Global Offensive
+Peru,"$30,706.49 ",102,Counter-Strike: Global Offensive
+Tunisia,"$29,796.40 ",22,Counter-Strike: Global Offensive
+"Iran, Islamic Republic of","$26,659.13 ",54,Counter-Strike: Global Offensive
+Albania,"$25,554.74 ",19,Counter-Strike: Global Offensive
+Greece,"$22,717.72 ",52,Counter-Strike: Global Offensive
+Croatia,"$20,504.28 ",24,Counter-Strike: Global Offensive
+Morocco,"$19,788.90 ",18,Counter-Strike: Global Offensive
+Kuwait,"$18,752.49 ",23,Counter-Strike: Global Offensive
+Malta,"$16,156.94 ",58,Counter-Strike: Global Offensive
+Slovenia,"$14,543.78 ",31,Counter-Strike: Global Offensive
+Kyrgyzstan,"$13,965.32 ",11,Counter-Strike: Global Offensive
+Venezuela,"$9,379.87 ",32,Counter-Strike: Global Offensive
+Faroe Islands,"$9,261.06 ",22,Counter-Strike: Global Offensive
+Luxembourg,"$9,212.13 ",2,Counter-Strike: Global Offensive
+Georgia,"$9,090.89 ",38,Counter-Strike: Global Offensive
+Myanmar,"$5,673.97 ",38,Counter-Strike: Global Offensive
+Mauritius,"$5,185.71 ",6,Counter-Strike: Global Offensive
+Cambodia,"$4,000.00 ",43,Counter-Strike: Global Offensive
+Brunei Darussalam,"$3,959.50 ",39,Counter-Strike: Global Offensive
+Sri Lanka,"$3,507.45 ",11,Counter-Strike: Global Offensive
+"Moldova, Republic of","$2,826.46 ",14,Counter-Strike: Global Offensive
+Lao People's Democratic Republic,"$2,207.99 ",23,Counter-Strike: Global Offensive
+Cuba,"$1,433.57 ",2,Counter-Strike: Global Offensive
+Bangladesh,"$1,081.56 ",8,Counter-Strike: Global Offensive
+Qatar,"$1,000.00 ",1,Counter-Strike: Global Offensive
+Ecuador,$969.49 ,3,Counter-Strike: Global Offensive
+Afghanistan,$830.54 ,2,Counter-Strike: Global Offensive
+"Palestinian Territory, Occupied",$821.32 ,2,Counter-Strike: Global Offensive
+Bahrain,$766.67 ,1,Counter-Strike: Global Offensive
+Armenia,$730.00 ,1,Counter-Strike: Global Offensive
+Paraguay,$687.19 ,4,Counter-Strike: Global Offensive
+Dominican Republic,$250.67 ,2,Counter-Strike: Global Offensive
+Panama,$173.14 ,4,Counter-Strike: Global Offensive
+Costa Rica,$150.00 ,1,Counter-Strike: Global Offensive
+Cyprus,$123.33 ,1,Counter-Strike: Global Offensive
+New Caledonia,$112.97 ,1,Counter-Strike: Global Offensive
+Egypt,$108.92 ,1,Counter-Strike: Global Offensive
+Maldives,$101.54 ,1,Counter-Strike: Global Offensive
+Jersey,$60.00 ,1,Counter-Strike: Global Offensive
+Saint Martin,$50.00 ,1,Counter-Strike: Global Offensive
+Bolivia,$20.00 ,1,Counter-Strike: Global Offensive
+United States,"$37,628,345.19 ",2103,Fortnite
+France,"$6,066,787.78 ",569,Fortnite
+United Kingdom,"$5,309,235.12 ",313,Fortnite
+Canada,"$4,229,274.46 ",160,Fortnite
+Denmark,"$3,571,979.80 ",190,Fortnite
+Sweden,"$3,342,570.14 ",187,Fortnite
+Germany,"$3,256,607.49 ",281,Fortnite
+Netherlands,"$2,998,812.87 ",113,Fortnite
+Austria,"$2,959,314.34 ",25,Fortnite
+Norway,"$2,853,392.54 ",96,Fortnite
+Poland,"$2,390,418.87 ",161,Fortnite
+Russian Federation,"$2,330,701.51 ",188,Fortnite
+Australia,"$2,257,237.20 ",391,Fortnite
+Brazil,"$1,960,027.18 ",269,Fortnite
+Argentina,"$1,529,002.03 ",113,Fortnite
+Switzerland,"$1,476,667.03 ",42,Fortnite
+Japan,"$1,435,158.80 ",332,Fortnite
+Slovenia,"$1,163,711.19 ",15,Fortnite
+Belgium,"$859,241.73 ",40,Fortnite
+"Korea, Republic of","$839,830.20 ",84,Fortnite
+Spain,"$781,238.89 ",120,Fortnite
+Lithuania,"$773,061.26 ",11,Fortnite
+Slovakia,"$693,795.00 ",9,Fortnite
+New Zealand,"$602,099.80 ",36,Fortnite
+Finland,"$561,740.00 ",72,Fortnite
+Turkey,"$495,728.24 ",38,Fortnite
+China,"$468,466.44 ",98,Fortnite
+Ukraine,"$392,105.07 ",41,Fortnite
+Latvia,"$319,087.84 ",7,Fortnite
+Italy,"$312,368.69 ",116,Fortnite
+Czech Republic,"$235,595.00 ",30,Fortnite
+Saudi Arabia,"$214,470.00 ",74,Fortnite
+Belarus,"$213,678.74 ",3,Fortnite
+Ireland,"$164,127.48 ",27,Fortnite
+Mexico,"$152,145.25 ",9,Fortnite
+Croatia,"$137,580.00 ",5,Fortnite
+Portugal,"$135,186.33 ",11,Fortnite
+Dominican Republic,"$96,825.00 ",5,Fortnite
+Indonesia,"$92,250.00 ",18,Fortnite
+Israel,"$78,250.00 ",20,Fortnite
+Philippines,"$76,001.40 ",11,Fortnite
+Bosnia and Herzegovina,"$73,338.05 ",4,Fortnite
+United Arab Emirates,"$62,677.42 ",19,Fortnite
+Greece,"$59,225.00 ",8,Fortnite
+Georgia,"$56,266.67 ",1,Fortnite
+Hungary,"$49,650.00 ",13,Fortnite
+Colombia,"$48,020.70 ",7,Fortnite
+Serbia,"$38,990.00 ",8,Fortnite
+Luxembourg,"$33,758.20 ",3,Fortnite
+Chile,"$33,175.00 ",25,Fortnite
+Viet Nam,"$32,200.00 ",6,Fortnite
+Singapore,"$27,565.00 ",11,Fortnite
+"Palestinian Territory, Occupied","$24,350.00 ",3,Fortnite
+Panama,"$23,225.00 ",1,Fortnite
+Oman,"$20,770.00 ",3,Fortnite
+Peru,"$20,634.11 ",4,Fortnite
+Bahrain,"$19,800.00 ",4,Fortnite
+Romania,"$19,750.00 ",16,Fortnite
+Costa Rica,"$15,175.00 ",1,Fortnite
+Syrian Arab Republic,"$14,850.00 ",8,Fortnite
+Malta,"$14,728.19 ",32,Fortnite
+Iceland,"$13,400.00 ",3,Fortnite
+Algeria,"$13,375.00 ",2,Fortnite
+Puerto Rico,"$13,250.00 ",1,Fortnite
+Estonia,"$11,330.00 ",3,Fortnite
+Albania,"$10,650.00 ",2,Fortnite
+Jordan,"$10,100.00 ",6,Fortnite
+Kuwait,"$9,050.00 ",5,Fortnite
+Greenland,"$9,025.00 ",2,Fortnite
+Pakistan,"$8,880.00 ",12,Fortnite
+Thailand,"$8,300.00 ",5,Fortnite
+Morocco,"$7,525.00 ",1,Fortnite
+Lebanon,"$4,815.00 ",2,Fortnite
+Iraq,"$4,510.00 ",3,Fortnite
+Qatar,"$4,500.00 ",7,Fortnite
+Malaysia,"$4,000.00 ",5,Fortnite
+Uruguay,"$4,000.00 ",7,Fortnite
+Paraguay,"$3,650.00 ",6,Fortnite
+Egypt,"$3,050.00 ",2,Fortnite
+North Macedonia,"$2,700.00 ",1,Fortnite
+India,"$2,260.00 ",7,Fortnite
+Tunisia,"$2,250.00 ",3,Fortnite
+Sri Lanka,$900.00 ,1,Fortnite
+Senegal,$750.00 ,1,Fortnite
+Jamaica,$650.00 ,1,Fortnite
+Brunei Darussalam,$444.00 ,2,Fortnite
+Bulgaria,$358.00 ,3,Fortnite
+"Iran, Islamic Republic of",$200.00 ,1,Fortnite
+"Korea, Republic of","$30,850,196.27 ",842,League of Legends
+China,"$16,888,189.40 ",497,League of Legends
+"Taiwan, Republic of China","$5,038,800.70 ",205,League of Legends
+United States,"$4,252,288.44 ",505,League of Legends
+Denmark,"$3,491,352.15 ",259,League of Legends
+Poland,"$2,314,593.66 ",389,League of Legends
+Germany,"$2,102,793.39 ",522,League of Legends
+France,"$1,953,991.03 ",395,League of Legends
+Canada,"$1,739,189.42 ",191,League of Legends
+Viet Nam,"$1,562,025.16 ",259,League of Legends
+Russian Federation,"$1,460,858.81 ",148,League of Legends
+Sweden,"$1,328,124.80 ",214,League of Legends
+Brazil,"$1,302,651.14 ",284,League of Legends
+Spain,"$991,400.41 ",211,League of Legends
+Hong Kong,"$956,308.47 ",90,League of Legends
+Belgium,"$765,696.39 ",86,League of Legends
+Netherlands,"$758,564.66 ",224,League of Legends
+Turkey,"$740,529.05 ",132,League of Legends
+United Kingdom,"$704,908.07 ",183,League of Legends
+Australia,"$651,942.02 ",100,League of Legends
+Czech Republic,"$637,939.00 ",146,League of Legends
+Croatia,"$615,139.78 ",36,League of Legends
+Bulgaria,"$520,621.07 ",61,League of Legends
+Japan,"$489,669.05 ",49,League of Legends
+Ukraine,"$447,877.59 ",57,League of Legends
+Philippines,"$444,677.51 ",101,League of Legends
+Slovenia,"$422,986.61 ",28,League of Legends
+Saudi Arabia,"$400,970.41 ",17,League of Legends
+Greece,"$393,894.83 ",192,League of Legends
+Thailand,"$385,234.02 ",80,League of Legends
+Romania,"$362,059.71 ",84,League of Legends
+Singapore,"$337,912.55 ",101,League of Legends
+Chile,"$322,989.57 ",63,League of Legends
+Norway,"$301,336.04 ",87,League of Legends
+Argentina,"$297,464.29 ",53,League of Legends
+Finland,"$290,130.12 ",115,League of Legends
+Mexico,"$256,136.50 ",43,League of Legends
+Portugal,"$209,260.03 ",145,League of Legends
+Lithuania,"$203,382.13 ",85,League of Legends
+Hungary,"$199,000.16 ",85,League of Legends
+Malaysia,"$191,792.27 ",64,League of Legends
+Estonia,"$152,899.85 ",33,League of Legends
+Serbia,"$148,357.70 ",54,League of Legends
+Armenia,"$148,218.34 ",1,League of Legends
+Tunisia,"$146,203.06 ",13,League of Legends
+Lebanon,"$145,712.55 ",4,League of Legends
+Italy,"$133,050.27 ",59,League of Legends
+Austria,"$128,815.84 ",66,League of Legends
+Peru,"$120,264.54 ",11,League of Legends
+Jordan,"$115,225.12 ",12,League of Legends
+Egypt,"$103,551.01 ",18,League of Legends
+Slovakia,"$99,328.20 ",45,League of Legends
+New Zealand,"$86,504.83 ",9,League of Legends
+Uruguay,"$73,075.04 ",8,League of Legends
+Venezuela,"$58,211.85 ",11,League of Legends
+Belarus,"$51,817.38 ",2,League of Legends
+Indonesia,"$51,732.08 ",28,League of Legends
+Switzerland,"$50,742.45 ",45,League of Legends
+Latvia,"$47,029.61 ",37,League of Legends
+Colombia,"$33,893.45 ",30,League of Legends
+Costa Rica,"$29,136.58 ",30,League of Legends
+United Arab Emirates,"$28,120.00 ",8,League of Legends
+Macao,"$21,098.98 ",8,League of Legends
+Morocco,"$19,530.54 ",15,League of Legends
+Algeria,"$18,524.33 ",4,League of Legends
+Iraq,"$16,657.14 ",1,League of Legends
+"Iran, Islamic Republic of","$14,838.56 ",1,League of Legends
+Puerto Rico,"$14,413.39 ",10,League of Legends
+"Moldova, Republic of","$13,480.69 ",2,League of Legends
+Israel,"$12,507.03 ",15,League of Legends
+Malta,"$12,347.90 ",83,League of Legends
+Kazakhstan,"$8,844.81 ",19,League of Legends
+Ecuador,"$8,618.51 ",2,League of Legends
+Kuwait,"$7,105.32 ",3,League of Legends
+North Macedonia,"$6,571.91 ",8,League of Legends
+Afghanistan,"$6,428.43 ",1,League of Legends
+Dominican Republic,"$5,848.25 ",10,League of Legends
+Syrian Arab Republic,"$5,603.95 ",2,League of Legends
+Pakistan,"$5,000.00 ",5,League of Legends
+Panama,"$4,673.37 ",8,League of Legends
+Luxembourg,"$4,612.63 ",2,League of Legends
+Albania,"$4,457.95 ",9,League of Legends
+Iceland,"$4,154.78 ",14,League of Legends
+El Salvador,"$3,628.13 ",7,League of Legends
+South Africa,"$3,601.59 ",21,League of Legends
+Bolivia,"$3,230.69 ",1,League of Legends
+"Palestinian Territory, Occupied","$3,000.00 ",2,League of Legends
+Guatemala,"$2,025.06 ",4,League of Legends
+India,"$1,804.60 ",5,League of Legends
+Nicaragua,"$1,223.96 ",2,League of Legends
+Trinidad and Tobago,"$1,216.26 ",2,League of Legends
+Ireland,$770.80 ,6,League of Legends
+Paraguay,$600.00 ,1,League of Legends
+Bosnia and Herzegovina,$522.12 ,4,League of Legends
+Montenegro,$503.58 ,6,League of Legends
+Bangladesh,$500.00 ,5,League of Legends
+Georgia,$483.90 ,6,League of Legends
+Lao People's Democratic Republic,$478.33 ,1,League of Legends
+Andorra,$139.71 ,1,League of Legends
+Aruba,$104.17 ,1,League of Legends
+Jamaica,$104.17 ,1,League of Legends
+Cyprus,$45.85 ,1,League of Legends
+Faroe Islands,$11.55 ,1,League of Legends
+China,"$36,182,217.50 ",474,Arena of Valor
+Thailand,"$3,888,993.01 ",142,Arena of Valor
+"Taiwan, Republic of China","$2,672,870.77 ",99,Arena of Valor
+Viet Nam,"$2,098,011.77 ",111,Arena of Valor
+"Korea, Republic of","$1,187,764.72 ",62,Arena of Valor
+Hong Kong,"$373,080.22 ",17,Arena of Valor
+Macao,"$306,119.41 ",14,Arena of Valor
+Indonesia,"$232,545.13 ",32,Arena of Valor
+Malaysia,"$182,817.92 ",19,Arena of Valor
+United States,"$169,766.44 ",23,Arena of Valor
+France,"$49,999.98 ",6,Arena of Valor
+Germany,"$39,337.83 ",10,Arena of Valor
+Brazil,"$31,000.00 ",9,Arena of Valor
+Spain,"$29,004.50 ",12,Arena of Valor
+Italy,"$26,658.83 ",12,Arena of Valor
+Canada,"$19,200.00 ",2,Arena of Valor
+Japan,"$17,085.74 ",10,Arena of Valor
+Singapore,"$16,625.00 ",7,Arena of Valor
+Russian Federation,"$11,333.33 ",1,Arena of Valor
+Romania,"$10,333.33 ",1,Arena of Valor
+Turkey,"$10,000.00 ",5,Arena of Valor
+Netherlands,"$7,333.33 ",2,Arena of Valor
+Ukraine,"$5,021.33 ",1,Arena of Valor
+Philippines,"$4,775.00 ",5,Arena of Valor
+Switzerland,"$4,000.00 ",1,Arena of Valor
+Uruguay,"$4,000.00 ",1,Arena of Valor
+United Kingdom,"$2,500.00 ",5,Arena of Valor
+Sweden,"$2,500.00 ",5,Arena of Valor
+"Iran, Islamic Republic of","$2,000.00 ",1,Arena of Valor
+India,"$1,000.00 ",5,Arena of Valor
+China,"$10,940,438.98 ",476,PLAYERUNKNOWN’S BATTLEGROUNDS
+"Korea, Republic of","$9,345,461.20 ",383,PLAYERUNKNOWN’S BATTLEGROUNDS
+United States,"$5,075,047.29 ",353,PLAYERUNKNOWN’S BATTLEGROUNDS
+Russian Federation,"$2,195,266.71 ",118,PLAYERUNKNOWN’S BATTLEGROUNDS
+Finland,"$1,876,992.97 ",41,PLAYERUNKNOWN’S BATTLEGROUNDS
+Thailand,"$1,507,976.65 ",162,PLAYERUNKNOWN’S BATTLEGROUNDS
+Australia,"$1,260,592.01 ",95,PLAYERUNKNOWN’S BATTLEGROUNDS
+Canada,"$1,001,425.53 ",33,PLAYERUNKNOWN’S BATTLEGROUNDS
+Viet Nam,"$956,563.65 ",153,PLAYERUNKNOWN’S BATTLEGROUNDS
+Norway,"$814,676.32 ",41,PLAYERUNKNOWN’S BATTLEGROUNDS
+Turkey,"$775,689.64 ",68,PLAYERUNKNOWN’S BATTLEGROUNDS
+United Kingdom,"$724,516.95 ",43,PLAYERUNKNOWN’S BATTLEGROUNDS
+Denmark,"$709,477.64 ",40,PLAYERUNKNOWN’S BATTLEGROUNDS
+"Taiwan, Republic of China","$682,741.82 ",127,PLAYERUNKNOWN’S BATTLEGROUNDS
+Sweden,"$673,030.88 ",34,PLAYERUNKNOWN’S BATTLEGROUNDS
+Japan,"$636,474.99 ",158,PLAYERUNKNOWN’S BATTLEGROUNDS
+Brazil,"$509,138.14 ",145,PLAYERUNKNOWN’S BATTLEGROUNDS
+Ukraine,"$459,736.87 ",16,PLAYERUNKNOWN’S BATTLEGROUNDS
+Germany,"$400,492.39 ",121,PLAYERUNKNOWN’S BATTLEGROUNDS
+Argentina,"$388,465.42 ",24,PLAYERUNKNOWN’S BATTLEGROUNDS
+France,"$371,974.10 ",67,PLAYERUNKNOWN’S BATTLEGROUNDS
+Netherlands,"$346,743.47 ",11,PLAYERUNKNOWN’S BATTLEGROUNDS
+Philippines,"$327,554.40 ",52,PLAYERUNKNOWN’S BATTLEGROUNDS
+Hong Kong,"$167,491.86 ",32,PLAYERUNKNOWN’S BATTLEGROUNDS
+Indonesia,"$163,430.00 ",55,PLAYERUNKNOWN’S BATTLEGROUNDS
+Ireland,"$147,726.51 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Uruguay,"$139,649.65 ",3,PLAYERUNKNOWN’S BATTLEGROUNDS
+Spain,"$127,316.45 ",18,PLAYERUNKNOWN’S BATTLEGROUNDS
+Gibraltar,"$126,204.51 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Cuba,"$124,829.24 ",3,PLAYERUNKNOWN’S BATTLEGROUNDS
+Lithuania,"$123,828.02 ",4,PLAYERUNKNOWN’S BATTLEGROUNDS
+Czech Republic,"$114,083.86 ",26,PLAYERUNKNOWN’S BATTLEGROUNDS
+Belgium,"$93,354.02 ",8,PLAYERUNKNOWN’S BATTLEGROUNDS
+Poland,"$87,032.92 ",17,PLAYERUNKNOWN’S BATTLEGROUNDS
+New Zealand,"$68,772.58 ",14,PLAYERUNKNOWN’S BATTLEGROUNDS
+Georgia,"$66,483.78 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Kazakhstan,"$55,787.00 ",9,PLAYERUNKNOWN’S BATTLEGROUNDS
+Chile,"$50,046.91 ",12,PLAYERUNKNOWN’S BATTLEGROUNDS
+Croatia,"$46,353.18 ",12,PLAYERUNKNOWN’S BATTLEGROUNDS
+Albania,"$42,855.94 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Serbia,"$38,457.68 ",4,PLAYERUNKNOWN’S BATTLEGROUNDS
+Tunisia,"$37,686.25 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Italy,"$35,623.97 ",10,PLAYERUNKNOWN’S BATTLEGROUNDS
+Malaysia,"$31,763.76 ",36,PLAYERUNKNOWN’S BATTLEGROUNDS
+Puerto Rico,"$29,718.44 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Venezuela,"$23,719.69 ",2,PLAYERUNKNOWN’S BATTLEGROUNDS
+Austria,"$22,122.82 ",11,PLAYERUNKNOWN’S BATTLEGROUNDS
+Switzerland,"$21,295.86 ",7,PLAYERUNKNOWN’S BATTLEGROUNDS
+Macao,"$18,430.14 ",3,PLAYERUNKNOWN’S BATTLEGROUNDS
+Singapore,"$15,126.29 ",11,PLAYERUNKNOWN’S BATTLEGROUNDS
+"Moldova, Republic of","$14,428.75 ",3,PLAYERUNKNOWN’S BATTLEGROUNDS
+Portugal,"$11,666.85 ",7,PLAYERUNKNOWN’S BATTLEGROUNDS
+Hungary,"$11,428.48 ",12,PLAYERUNKNOWN’S BATTLEGROUNDS
+Greece,"$11,087.50 ",5,PLAYERUNKNOWN’S BATTLEGROUNDS
+Bosnia and Herzegovina,"$9,708.33 ",5,PLAYERUNKNOWN’S BATTLEGROUNDS
+Iceland,"$7,419.25 ",2,PLAYERUNKNOWN’S BATTLEGROUNDS
+Slovakia,"$6,802.03 ",4,PLAYERUNKNOWN’S BATTLEGROUNDS
+Romania,"$6,450.00 ",8,PLAYERUNKNOWN’S BATTLEGROUNDS
+Estonia,"$5,319.32 ",2,PLAYERUNKNOWN’S BATTLEGROUNDS
+Belarus,"$4,874.50 ",4,PLAYERUNKNOWN’S BATTLEGROUNDS
+Paraguay,"$4,675.00 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Malta,"$3,775.00 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Latvia,"$2,962.50 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Panama,"$2,300.00 ",2,PLAYERUNKNOWN’S BATTLEGROUNDS
+Peru,"$2,000.00 ",3,PLAYERUNKNOWN’S BATTLEGROUNDS
+Bulgaria,"$1,650.00 ",1,PLAYERUNKNOWN’S BATTLEGROUNDS
+"Kosovo, Republic of","$1,600.00 ",2,PLAYERUNKNOWN’S BATTLEGROUNDS
+Mexico,"$1,000.00 ",2,PLAYERUNKNOWN’S BATTLEGROUNDS
+South Africa,$762.50 ,1,PLAYERUNKNOWN’S BATTLEGROUNDS
+Cambodia,$500.00 ,4,PLAYERUNKNOWN’S BATTLEGROUNDS
+Myanmar,$500.00 ,4,PLAYERUNKNOWN’S BATTLEGROUNDS
+Mongolia,$310.00 ,3,PLAYERUNKNOWN’S BATTLEGROUNDS
+"Korea, Republic of","$22,256,059.52 ",642,StarCraft II
+China,"$1,545,886.72 ",266,StarCraft II
+Finland,"$1,319,918.05 ",46,StarCraft II
+United States,"$1,313,797.15 ",308,StarCraft II
+France,"$1,158,035.41 ",105,StarCraft II
+Germany,"$1,139,489.02 ",113,StarCraft II
+Poland,"$1,077,647.75 ",68,StarCraft II
+Canada,"$913,911.27 ",117,StarCraft II
+Sweden,"$725,317.17 ",63,StarCraft II
+Mexico,"$571,021.07 ",18,StarCraft II
+"Taiwan, Republic of China","$569,826.25 ",75,StarCraft II
+Italy,"$530,048.73 ",21,StarCraft II
+Norway,"$458,693.69 ",58,StarCraft II
+Netherlands,"$440,704.62 ",36,StarCraft II
+Ukraine,"$392,377.17 ",37,StarCraft II
+Australia,"$314,621.91 ",58,StarCraft II
+Russian Federation,"$306,198.68 ",93,StarCraft II
+Brazil,"$229,449.47 ",30,StarCraft II
+Spain,"$194,677.68 ",32,StarCraft II
+Denmark,"$158,016.88 ",35,StarCraft II
+United Kingdom,"$134,765.19 ",53,StarCraft II
+Chile,"$54,707.45 ",13,StarCraft II
+Peru,"$54,344.96 ",17,StarCraft II
+New Zealand,"$52,351.89 ",15,StarCraft II
+Singapore,"$35,147.09 ",39,StarCraft II
+Kazakhstan,"$34,786.25 ",10,StarCraft II
+Philippines,"$34,009.90 ",11,StarCraft II
+Turkey,"$32,894.75 ",9,StarCraft II
+Romania,"$25,013.68 ",6,StarCraft II
+Hong Kong,"$23,495.48 ",5,StarCraft II
+Austria,"$23,126.25 ",7,StarCraft II
+Viet Nam,"$23,085.93 ",8,StarCraft II
+Serbia,"$18,939.83 ",1,StarCraft II
+Belgium,"$17,346.66 ",10,StarCraft II
+Croatia,"$17,045.78 ",9,StarCraft II
+Switzerland,"$17,031.78 ",15,StarCraft II
+Slovenia,"$16,476.88 ",1,StarCraft II
+Japan,"$15,542.34 ",6,StarCraft II
+Lithuania,"$14,847.11 ",9,StarCraft II
+India,"$13,956.70 ",1,StarCraft II
+South Africa,"$13,474.95 ",15,StarCraft II
+Belarus,"$12,866.37 ",4,StarCraft II
+Thailand,"$11,366.68 ",17,StarCraft II
+Venezuela,"$10,371.42 ",5,StarCraft II
+Colombia,"$10,023.50 ",3,StarCraft II
+Malaysia,"$8,686.93 ",28,StarCraft II
+Portugal,"$8,611.73 ",6,StarCraft II
+Argentina,"$6,271.40 ",16,StarCraft II
+Czech Republic,"$5,831.82 ",17,StarCraft II
+Mongolia,"$4,887.50 ",1,StarCraft II
+Bulgaria,"$4,429.81 ",11,StarCraft II
+Israel,"$3,275.89 ",5,StarCraft II
+Slovakia,"$2,615.49 ",4,StarCraft II
+Bolivia,"$2,600.00 ",3,StarCraft II
+Ireland,"$2,572.34 ",4,StarCraft II
+Indonesia,"$2,400.00 ",8,StarCraft II
+Myanmar,"$1,425.00 ",7,StarCraft II
+Brunei Darussalam,"$1,350.00 ",4,StarCraft II
+Lao People's Democratic Republic,"$1,350.00 ",6,StarCraft II
+Estonia,"$1,223.89 ",3,StarCraft II
+Saudi Arabia,"$1,198.60 ",1,StarCraft II
+Syrian Arab Republic,"$1,198.60 ",1,StarCraft II
+Panama,"$1,000.00 ",2,StarCraft II
+Costa Rica,$637.00 ,2,StarCraft II
+United Arab Emirates,$400.00 ,1,StarCraft II
+Greece,$384.44 ,2,StarCraft II
+"Iran, Islamic Republic of",$333.90 ,2,StarCraft II
+Luxembourg,$173.51 ,1,StarCraft II
+Hungary,$161.80 ,2,StarCraft II
+Uruguay,$50.00 ,1,StarCraft II
+"Moldova, Republic of",$7.50 ,1,StarCraft II
+"Korea, Republic of","$17,288,337.53 ",719,Overwatch
+United States,"$3,207,208.07 ",396,Overwatch
+China,"$2,960,434.76 ",487,Overwatch
+Sweden,"$1,059,497.52 ",97,Overwatch
+Finland,"$942,170.06 ",161,Overwatch
+France,"$894,020.47 ",153,Overwatch
+United Kingdom,"$713,027.51 ",124,Overwatch
+Australia,"$692,814.15 ",182,Overwatch
+Canada,"$557,238.99 ",73,Overwatch
+"Taiwan, Republic of China","$524,539.98 ",59,Overwatch
+Brazil,"$419,161.24 ",145,Overwatch
+Japan,"$343,434.85 ",69,Overwatch
+Denmark,"$341,027.51 ",58,Overwatch
+Saudi Arabia,"$313,148.71 ",25,Overwatch
+Russian Federation,"$259,998.37 ",32,Overwatch
+Germany,"$240,065.24 ",47,Overwatch
+Thailand,"$232,794.18 ",59,Overwatch
+Spain,"$214,774.88 ",65,Overwatch
+Netherlands,"$181,664.20 ",41,Overwatch
+Norway,"$127,863.03 ",41,Overwatch
+Israel,"$117,661.76 ",16,Overwatch
+Argentina,"$106,884.93 ",44,Overwatch
+Iceland,"$100,832.36 ",11,Overwatch
+Belgium,"$83,053.25 ",12,Overwatch
+New Zealand,"$82,618.19 ",17,Overwatch
+Singapore,"$73,618.53 ",36,Overwatch
+Hong Kong,"$73,535.43 ",14,Overwatch
+Portugal,"$70,672.48 ",61,Overwatch
+Viet Nam,"$62,119.20 ",13,Overwatch
+United Arab Emirates,"$57,968.70 ",23,Overwatch
+Italy,"$56,554.69 ",48,Overwatch
+Austria,"$54,254.22 ",36,Overwatch
+Kuwait,"$43,813.42 ",20,Overwatch
+Switzerland,"$41,698.16 ",15,Overwatch
+Latvia,"$40,022.31 ",10,Overwatch
+Romania,"$38,296.44 ",11,Overwatch
+Poland,"$33,833.24 ",49,Overwatch
+Chile,"$33,422.85 ",22,Overwatch
+Mexico,"$32,773.36 ",16,Overwatch
+Estonia,"$32,501.70 ",14,Overwatch
+Czech Republic,"$29,864.01 ",29,Overwatch
+Puerto Rico,"$28,867.44 ",1,Overwatch
+Ireland,"$24,666.27 ",17,Overwatch
+Ethiopia,"$23,669.95 ",1,Overwatch
+Jordan,"$17,936.62 ",3,Overwatch
+Turkey,"$16,249.53 ",11,Overwatch
+Dominican Republic,"$16,168.08 ",1,Overwatch
+Ukraine,"$13,998.26 ",5,Overwatch
+Lebanon,"$11,686.17 ",2,Overwatch
+Egypt,"$11,111.11 ",1,Overwatch
+Colombia,"$8,579.73 ",9,Overwatch
+India,"$7,524.70 ",8,Overwatch
+Peru,"$7,185.27 ",3,Overwatch
+South Africa,"$7,044.80 ",18,Overwatch
+Bulgaria,"$6,727.75 ",7,Overwatch
+Uruguay,"$6,528.62 ",4,Overwatch
+Philippines,"$6,190.89 ",6,Overwatch
+Belarus,"$6,094.19 ",4,Overwatch
+Croatia,"$5,798.80 ",17,Overwatch
+Paraguay,"$5,054.97 ",8,Overwatch
+Malta,"$3,263.46 ",23,Overwatch
+Hungary,"$2,158.71 ",10,Overwatch
+Pakistan,"$1,616.67 ",2,Overwatch
+Lithuania,"$1,512.91 ",2,Overwatch
+Kenya,"$1,482.62 ",1,Overwatch
+Venezuela,"$1,178.43 ",2,Overwatch
+Serbia,"$1,170.26 ",2,Overwatch
+Malaysia,$607.58 ,14,Overwatch
+Syrian Arab Republic,$408.39 ,1,Overwatch
+Greece,$316.07 ,2,Overwatch
+Morocco,$249.61 ,1,Overwatch
+Tunisia,$249.61 ,1,Overwatch
+French Polynesia,$245.63 ,1,Overwatch
+Indonesia,$148.89 ,1,Overwatch
+Slovakia,$82.24 ,4,Overwatch
+Slovenia,$58.66 ,1,Overwatch
+China,"$16,804,355.89 ",202,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Japan,"$2,518,446.66 ",81,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+"Taiwan, Republic of China","$1,875,100.93 ",39,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Thailand,"$1,385,068.75 ",88,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Turkey,"$1,208,359.63 ",51,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Russian Federation,"$1,192,808.89 ",58,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Indonesia,"$1,085,071.43 ",138,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+India,"$851,534.39 ",176,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+United States,"$679,551.83 ",116,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+"Korea, Republic of","$567,649.85 ",25,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Malaysia,"$555,876.30 ",84,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Brazil,"$524,351.00 ",74,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Mongolia,"$495,291.19 ",30,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Viet Nam,"$473,940.92 ",62,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Iraq,"$460,271.71 ",47,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Nepal,"$230,718.57 ",69,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Chile,"$182,161.25 ",9,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Saudi Arabia,"$139,915.73 ",60,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Algeria,"$113,086.17 ",12,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Ukraine,"$104,870.83 ",27,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Kazakhstan,"$96,781.68 ",14,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+France,"$91,858.97 ",16,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Romania,"$90,246.33 ",24,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Belarus,"$86,385.42 ",5,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Morocco,"$84,579.17 ",20,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Germany,"$80,189.65 ",43,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Argentina,"$77,192.25 ",16,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Uruguay,"$57,515.72 ",7,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Spain,"$56,099.84 ",19,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Cambodia,"$49,323.76 ",18,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Mexico,"$47,891.69 ",22,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Azerbaijan,"$46,350.00 ",1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Pakistan,"$42,400.02 ",93,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Philippines,"$33,374.66 ",38,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Syrian Arab Republic,"$31,935.19 ",9,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Lithuania,"$29,943.34 ",2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Lebanon,"$28,162.50 ",12,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Colombia,"$22,487.50 ",4,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Bangladesh,"$22,250.02 ",15,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+United Arab Emirates,"$22,091.67 ",14,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Italy,"$21,300.02 ",6,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Canada,"$19,535.09 ",11,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Kuwait,"$19,268.51 ",18,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+United Kingdom,"$18,549.99 ",8,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Egypt,"$17,083.33 ",12,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Switzerland,"$15,811.16 ",4,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Myanmar,"$15,600.00 ",7,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Netherlands,"$14,628.56 ",3,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Jordan,"$14,425.03 ",11,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Hungary,"$13,035.12 ",7,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Venezuela,"$11,313.75 ",2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Albania,"$11,099.99 ",7,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Kyrgyzstan,"$10,615.00 ",1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Israel,"$10,325.00 ",10,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Belgium,"$10,000.00 ",4,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+North Macedonia,"$8,525.00 ",2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Libyan Arab Jamahiriya,"$8,333.35 ",5,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+"Palestinian Territory, Occupied","$8,042.63 ",3,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Dominican Republic,"$5,600.00 ",8,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Poland,"$4,636.66 ",4,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+"Kosovo, Republic of","$4,166.66 ",2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Ireland,"$4,000.00 ",2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Nigeria,"$4,000.00 ",4,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Bulgaria,"$3,925.00 ",2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Afghanistan,"$3,686.67 ",2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Hong Kong,"$3,600.00 ",6,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Sweden,"$2,741.67 ",5,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Austria,"$2,595.00 ",3,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Slovenia,"$2,558.33 ",1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Panama,"$1,400.00 ",1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Angola,"$1,200.00 ",3,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+South Africa,"$1,083.33 ",1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Zimbabwe,"$1,083.33 ",1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Tunisia,$925.00 ,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Luxembourg,$750.00 ,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Brunei Darussalam,$500.00 ,8,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Czech Republic,$500.00 ,2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Sri Lanka,$500.00 ,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Singapore,$320.00 ,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Belize,$250.00 ,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Nicaragua,$225.00 ,2,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Paraguay,$170.00 ,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+Ecuador,$100.00 ,1,PLAYERUNKNOWN'S BATTLEGROUNDS Mobile
+China,"$4,209,515.20 ",441,Hearthstone
+United States,"$3,655,990.44 ",356,Hearthstone
+"Korea, Republic of","$1,781,136.90 ",226,Hearthstone
+Germany,"$1,653,102.80 ",115,Hearthstone
+"Taiwan, Republic of China","$1,317,341.35 ",91,Hearthstone
+Canada,"$1,276,376.56 ",116,Hearthstone
+Japan,"$1,261,873.37 ",100,Hearthstone
+France,"$1,229,084.70 ",214,Hearthstone
+Russian Federation,"$966,059.63 ",136,Hearthstone
+Ukraine,"$819,974.24 ",41,Hearthstone
+Sweden,"$734,277.27 ",55,Hearthstone
+Netherlands,"$725,832.55 ",37,Hearthstone
+Czech Republic,"$485,434.80 ",58,Hearthstone
+United Kingdom,"$431,466.91 ",86,Hearthstone
+Denmark,"$422,611.20 ",47,Hearthstone
+Norway,"$414,017.46 ",25,Hearthstone
+Argentina,"$368,679.66 ",24,Hearthstone
+Hong Kong,"$348,296.10 ",34,Hearthstone
+Brazil,"$320,741.87 ",73,Hearthstone
+Italy,"$308,291.62 ",92,Hearthstone
+Spain,"$305,199.92 ",82,Hearthstone
+Greece,"$280,374.96 ",56,Hearthstone
+Romania,"$270,571.89 ",24,Hearthstone
+Poland,"$258,308.77 ",97,Hearthstone
+Philippines,"$251,920.27 ",19,Hearthstone
+Turkey,"$215,578.39 ",27,Hearthstone
+Finland,"$187,266.05 ",54,Hearthstone
+Belgium,"$158,607.96 ",32,Hearthstone
+Singapore,"$147,041.77 ",32,Hearthstone
+Australia,"$129,426.89 ",41,Hearthstone
+Thailand,"$123,887.75 ",29,Hearthstone
+Kazakhstan,"$86,935.98 ",11,Hearthstone
+Portugal,"$81,077.85 ",26,Hearthstone
+New Zealand,"$75,925.72 ",14,Hearthstone
+Mexico,"$58,662.00 ",14,Hearthstone
+Switzerland,"$55,781.32 ",28,Hearthstone
+Hungary,"$51,213.73 ",22,Hearthstone
+Viet Nam,"$46,617.07 ",23,Hearthstone
+Croatia,"$38,348.09 ",14,Hearthstone
+Bulgaria,"$37,557.32 ",16,Hearthstone
+Peru,"$35,620.28 ",17,Hearthstone
+Israel,"$35,092.15 ",14,Hearthstone
+Indonesia,"$31,888.00 ",13,Hearthstone
+Chile,"$30,203.42 ",17,Hearthstone
+South Africa,"$28,885.19 ",10,Hearthstone
+Malaysia,"$25,884.08 ",19,Hearthstone
+Austria,"$25,766.26 ",24,Hearthstone
+Belarus,"$23,323.69 ",13,Hearthstone
+Lithuania,"$21,552.62 ",5,Hearthstone
+Slovakia,"$21,487.76 ",19,Hearthstone
+Colombia,"$16,283.42 ",2,Hearthstone
+India,"$15,547.75 ",3,Hearthstone
+"Palestinian Territory, Occupied","$15,000.00 ",1,Hearthstone
+Luxembourg,"$14,682.80 ",1,Hearthstone
+Algeria,"$13,244.37 ",5,Hearthstone
+Tunisia,"$6,974.96 ",6,Hearthstone
+Iceland,"$5,343.45 ",3,Hearthstone
+Estonia,"$4,808.30 ",2,Hearthstone
+Egypt,"$3,746.50 ",3,Hearthstone
+Uruguay,"$3,050.00 ",3,Hearthstone
+Bahrain,"$2,250.00 ",1,Hearthstone
+Serbia,"$2,226.59 ",4,Hearthstone
+Slovenia,"$1,500.00 ",2,Hearthstone
+Syrian Arab Republic,"$1,498.25 ",1,Hearthstone
+Azerbaijan,"$1,200.00 ",1,Hearthstone
+Jordan,"$1,198.60 ",1,Hearthstone
+Costa Rica,"$1,000.00 ",1,Hearthstone
+Honduras,"$1,000.00 ",1,Hearthstone
+Latvia,"$1,000.00 ",1,Hearthstone
+Mauritania,$759.00 ,1,Hearthstone
+Venezuela,$630.00 ,2,Hearthstone
+Madagascar,$458.00 ,1,Hearthstone
+Bosnia and Herzegovina,$202.32 ,2,Hearthstone
+Cyprus,$138.36 ,2,Hearthstone
+Kuwait,$125.00 ,1,Hearthstone
+Lebanon,$125.00 ,1,Hearthstone
+Kyrgyzstan,$119.31 ,1,Hearthstone
+Cuba,$100.00 ,1,Hearthstone
+"Iran, Islamic Republic of",$100.00 ,3,Hearthstone
+--UNDEFINED--,$77.84 ,2,Hearthstone
+Brazil,"$5,608,883.82 ",170,Rainbow Six Siege
+United States,"$5,391,907.85 ",275,Rainbow Six Siege
+Russian Federation,"$1,610,290.79 ",70,Rainbow Six Siege
+France,"$1,525,636.57 ",173,Rainbow Six Siege
+Finland,"$1,005,083.70 ",73,Rainbow Six Siege
+Canada,"$904,006.63 ",80,Rainbow Six Siege
+Japan,"$889,376.88 ",101,Rainbow Six Siege
+Australia,"$810,902.05 ",114,Rainbow Six Siege
+"Korea, Republic of","$699,748.51 ",111,Rainbow Six Siege
+United Kingdom,"$657,317.65 ",141,Rainbow Six Siege
+Germany,"$553,893.30 ",116,Rainbow Six Siege
+Sweden,"$486,053.20 ",30,Rainbow Six Siege
+Spain,"$439,284.52 ",87,Rainbow Six Siege
+Mexico,"$416,816.75 ",15,Rainbow Six Siege
+Denmark,"$390,893.10 ",17,Rainbow Six Siege
+Saudi Arabia,"$335,687.00 ",74,Rainbow Six Siege
+Singapore,"$280,338.34 ",27,Rainbow Six Siege
+Thailand,"$268,935.76 ",29,Rainbow Six Siege
+Estonia,"$170,964.23 ",2,Rainbow Six Siege
+Greece,"$136,737.06 ",6,Rainbow Six Siege
+Poland,"$126,420.51 ",67,Rainbow Six Siege
+Belgium,"$112,486.84 ",30,Rainbow Six Siege
+Italy,"$102,303.88 ",33,Rainbow Six Siege
+Hungary,"$69,114.15 ",16,Rainbow Six Siege
+Croatia,"$61,545.57 ",7,Rainbow Six Siege
+Netherlands,"$60,506.19 ",68,Rainbow Six Siege
+Switzerland,"$49,624.60 ",22,Rainbow Six Siege
+China,"$47,758.48 ",8,Rainbow Six Siege
+New Zealand,"$40,901.61 ",9,Rainbow Six Siege
+Turkey,"$29,647.82 ",21,Rainbow Six Siege
+Indonesia,"$24,533.39 ",31,Rainbow Six Siege
+"Taiwan, Republic of China","$20,050.00 ",15,Rainbow Six Siege
+Austria,"$15,953.27 ",25,Rainbow Six Siege
+India,"$14,357.14 ",19,Rainbow Six Siege
+Bulgaria,"$11,710.14 ",1,Rainbow Six Siege
+Bangladesh,"$10,928.56 ",7,Rainbow Six Siege
+Czech Republic,"$8,893.36 ",6,Rainbow Six Siege
+Pakistan,"$8,539.28 ",7,Rainbow Six Siege
+Malaysia,"$8,453.34 ",8,Rainbow Six Siege
+Jordan,"$5,382.17 ",2,Rainbow Six Siege
+Norway,"$4,373.10 ",7,Rainbow Six Siege
+Ireland,"$4,329.37 ",4,Rainbow Six Siege
+Slovakia,"$4,276.18 ",2,Rainbow Six Siege
+Hong Kong,"$3,780.00 ",8,Rainbow Six Siege
+Portugal,"$2,498.50 ",5,Rainbow Six Siege
+Latvia,"$2,311.01 ",2,Rainbow Six Siege
+Luxembourg,"$2,263.99 ",1,Rainbow Six Siege
+Sri Lanka,"$1,500.00 ",4,Rainbow Six Siege
+Slovenia,"$1,190.96 ",1,Rainbow Six Siege
+Kuwait,"$1,066.67 ",1,Rainbow Six Siege
+Iraq,"$1,066.28 ",1,Rainbow Six Siege
+Lebanon,"$1,066.28 ",1,Rainbow Six Siege
+Kazakhstan,$845.97 ,1,Rainbow Six Siege
+Ukraine,$770.50 ,4,Rainbow Six Siege
+Macao,$770.00 ,2,Rainbow Six Siege
+South Africa,$491.67 ,1,Rainbow Six Siege
+Venezuela,$462.16 ,1,Rainbow Six Siege
+Tunisia,$452.32 ,1,Rainbow Six Siege
+Viet Nam,$250.00 ,1,Rainbow Six Siege
+Puerto Rico,$200.00 ,1,Rainbow Six Siege
+Belarus,$163.93 ,1,Rainbow Six Siege
+Serbia,$35.45 ,1,Rainbow Six Siege
+"Korea, Republic of","$5,814,962.72 ",143,Heroes of the Storm
+China,"$3,261,767.20 ",201,Heroes of the Storm
+United States,"$2,527,124.77 ",161,Heroes of the Storm
+Sweden,"$1,300,218.99 ",31,Heroes of the Storm
+Germany,"$773,632.58 ",52,Heroes of the Storm
+United Kingdom,"$508,934.27 ",25,Heroes of the Storm
+France,"$475,468.52 ",48,Heroes of the Storm
+Canada,"$468,349.60 ",33,Heroes of the Storm
+"Taiwan, Republic of China","$463,354.82 ",63,Heroes of the Storm
+Australia,"$363,315.70 ",87,Heroes of the Storm
+Poland,"$310,943.11 ",53,Heroes of the Storm
+Denmark,"$285,650.48 ",11,Heroes of the Storm
+Bulgaria,"$203,599.79 ",5,Heroes of the Storm
+Brazil,"$169,044.76 ",49,Heroes of the Storm
+Spain,"$139,877.08 ",27,Heroes of the Storm
+Slovenia,"$111,344.32 ",3,Heroes of the Storm
+Singapore,"$83,584.15 ",39,Heroes of the Storm
+Norway,"$80,069.73 ",5,Heroes of the Storm
+Philippines,"$78,800.00 ",23,Heroes of the Storm
+Russian Federation,"$75,775.09 ",24,Heroes of the Storm
+Croatia,"$72,193.01 ",1,Heroes of the Storm
+Netherlands,"$47,186.41 ",11,Heroes of the Storm
+Austria,"$42,242.63 ",1,Heroes of the Storm
+Ukraine,"$33,867.12 ",8,Heroes of the Storm
+Mexico,"$27,733.30 ",13,Heroes of the Storm
+Peru,"$27,683.33 ",14,Heroes of the Storm
+Latvia,"$27,007.30 ",2,Heroes of the Storm
+Hong Kong,"$24,195.48 ",6,Heroes of the Storm
+New Zealand,"$22,187.50 ",7,Heroes of the Storm
+Argentina,"$18,270.60 ",18,Heroes of the Storm
+Portugal,"$15,588.36 ",6,Heroes of the Storm
+Thailand,"$14,387.55 ",11,Heroes of the Storm
+Switzerland,"$12,181.19 ",3,Heroes of the Storm
+Malaysia,"$11,650.00 ",21,Heroes of the Storm
+Serbia,"$10,500.00 ",1,Heroes of the Storm
+Italy,"$9,200.57 ",9,Heroes of the Storm
+Chile,"$7,066.67 ",20,Heroes of the Storm
+Hungary,"$4,663.32 ",8,Heroes of the Storm
+Venezuela,"$3,583.33 ",3,Heroes of the Storm
+Belgium,"$2,098.94 ",6,Heroes of the Storm
+Finland,"$1,828.92 ",6,Heroes of the Storm
+Czech Republic,"$1,500.00 ",5,Heroes of the Storm
+Japan,"$1,002.00 ",5,Heroes of the Storm
+Greece,$578.92 ,6,Heroes of the Storm
+Iceland,$328.92 ,1,Heroes of the Storm
+Cuba,$94.90 ,1,Heroes of the Storm
+Lithuania,$44.68 ,1,Heroes of the Storm
+Jamaica,$30.00 ,1,Heroes of the Storm
+United States,"$5,154,347.23 ",410,Rocket League
+France,"$2,250,404.45 ",125,Rocket League
+United Kingdom,"$1,584,177.29 ",221,Rocket League
+Canada,"$1,275,186.74 ",84,Rocket League
+Australia,"$1,183,998.24 ",169,Rocket League
+Netherlands,"$875,195.34 ",121,Rocket League
+Brazil,"$607,033.11 ",69,Rocket League
+Spain,"$590,674.57 ",72,Rocket League
+Sweden,"$533,822.18 ",31,Rocket League
+Germany,"$468,583.80 ",117,Rocket League
+Denmark,"$302,052.79 ",40,Rocket League
+Finland,"$279,834.51 ",22,Rocket League
+Saudi Arabia,"$265,406.89 ",60,Rocket League
+Italy,"$205,249.62 ",49,Rocket League
+Austria,"$167,845.86 ",28,Rocket League
+Belgium,"$167,349.13 ",42,Rocket League
+Argentina,"$167,024.86 ",16,Rocket League
+Norway,"$154,055.52 ",48,Rocket League
+New Zealand,"$135,997.32 ",15,Rocket League
+Japan,"$120,808.35 ",49,Rocket League
+Chile,"$94,099.92 ",12,Rocket League
+Switzerland,"$82,143.35 ",69,Rocket League
+South Africa,"$79,608.75 ",37,Rocket League
+Ireland,"$66,988.59 ",23,Rocket League
+Indonesia,"$47,943.66 ",13,Rocket League
+Morocco,"$44,800.99 ",1,Rocket League
+Singapore,"$38,099.15 ",12,Rocket League
+Mexico,"$18,374.97 ",15,Rocket League
+Portugal,"$14,228.79 ",20,Rocket League
+India,"$12,786.68 ",9,Rocket League
+Poland,"$10,560.36 ",12,Rocket League
+Czech Republic,"$9,665.38 ",11,Rocket League
+Malaysia,"$9,575.83 ",3,Rocket League
+Iceland,"$8,587.93 ",1,Rocket League
+Puerto Rico,"$6,462.48 ",6,Rocket League
+Yemen,"$5,503.33 ",1,Rocket League
+Hungary,"$4,865.11 ",23,Rocket League
+Uruguay,"$4,166.66 ",3,Rocket League
+Croatia,"$3,422.20 ",8,Rocket League
+Thailand,"$3,050.00 ",2,Rocket League
+Philippines,"$3,000.00 ",4,Rocket League
+Malta,"$1,725.69 ",21,Rocket League
+Peru,"$1,435.06 ",1,Rocket League
+Lithuania,"$1,245.78 ",3,Rocket League
+Slovakia,"$1,094.47 ",2,Rocket League
+Brunei Darussalam,"$1,041.66 ",1,Rocket League
+Egypt,"$1,012.49 ",1,Rocket League
+Israel,$816.50 ,2,Rocket League
+Kuwait,$786.11 ,1,Rocket League
+Turkey,$746.56 ,3,Rocket League
+Guernsey,$689.90 ,1,Rocket League
+Russian Federation,$617.23 ,5,Rocket League
+Oman,$500.00 ,1,Rocket League
+Hong Kong,$359.99 ,2,Rocket League
+Bangladesh,$300.00 ,1,Rocket League
+Latvia,$276.24 ,1,Rocket League
+Serbia,$225.35 ,2,Rocket League
+Qatar,$162.49 ,1,Rocket League
+Slovenia,$159.97 ,1,Rocket League
+Colombia,$100.00 ,1,Rocket League
+Ecuador,$75.00 ,1,Rocket League
+Panama,$75.00 ,1,Rocket League
+Ukraine,$63.08 ,1,Rocket League
+Dominican Republic,$19.94 ,1,Rocket League
+Sweden,"$2,846,498.01 ",397,Counter-Strike
+Germany,"$1,503,448.74 ",391,Counter-Strike
+United States,"$1,491,894.17 ",473,Counter-Strike
+Russian Federation,"$1,127,428.11 ",441,Counter-Strike
+Denmark,"$1,030,472.47 ",199,Counter-Strike
+China,"$856,974.39 ",269,Counter-Strike
+Poland,"$762,200.13 ",87,Counter-Strike
+Ukraine,"$719,584.97 ",280,Counter-Strike
+Norway,"$451,292.82 ",122,Counter-Strike
+France,"$409,672.02 ",240,Counter-Strike
+Finland,"$405,465.63 ",121,Counter-Strike
+Brazil,"$382,444.80 ",118,Counter-Strike
+"Korea, Republic of","$348,212.86 ",77,Counter-Strike
+Canada,"$237,696.66 ",102,Counter-Strike
+Austria,"$162,732.91 ",31,Counter-Strike
+Spain,"$139,491.16 ",102,Counter-Strike
+Kazakhstan,"$82,757.70 ",71,Counter-Strike
+United Kingdom,"$54,660.56 ",27,Counter-Strike
+Portugal,"$35,924.45 ",79,Counter-Strike
+Singapore,"$31,912.68 ",23,Counter-Strike
+Turkey,"$30,686.33 ",24,Counter-Strike
+Bulgaria,"$28,768.71 ",56,Counter-Strike
+Bosnia and Herzegovina,"$25,478.64 ",2,Counter-Strike
+Romania,"$25,248.08 ",44,Counter-Strike
+Netherlands,"$19,461.88 ",33,Counter-Strike
+Australia,"$19,011.76 ",25,Counter-Strike
+Hungary,"$15,799.56 ",12,Counter-Strike
+Argentina,"$15,753.45 ",35,Counter-Strike
+"Taiwan, Republic of China","$13,893.10 ",22,Counter-Strike
+Japan,"$10,983.90 ",10,Counter-Strike
+Belarus,"$9,276.18 ",44,Counter-Strike
+Belgium,"$6,992.23 ",14,Counter-Strike
+Estonia,"$6,652.25 ",18,Counter-Strike
+Czech Republic,"$6,522.64 ",14,Counter-Strike
+Malaysia,"$6,139.00 ",11,Counter-Strike
+Serbia,"$5,490.56 ",34,Counter-Strike
+Chile,"$4,948.35 ",20,Counter-Strike
+Peru,"$4,750.00 ",8,Counter-Strike
+North Macedonia,"$4,732.64 ",8,Counter-Strike
+Thailand,"$4,308.61 ",1,Counter-Strike
+Indonesia,"$3,953.25 ",8,Counter-Strike
+Iceland,"$3,887.69 ",7,Counter-Strike
+United Arab Emirates,"$3,603.00 ",11,Counter-Strike
+Uzbekistan,"$3,058.30 ",7,Counter-Strike
+Italy,"$3,016.18 ",18,Counter-Strike
+Hong Kong,"$2,080.45 ",10,Counter-Strike
+India,"$2,036.00 ",6,Counter-Strike
+Greece,"$1,941.30 ",15,Counter-Strike
+Viet Nam,"$1,917.60 ",1,Counter-Strike
+Slovakia,"$1,599.40 ",15,Counter-Strike
+Switzerland,"$1,579.25 ",3,Counter-Strike
+Pakistan,"$1,563.00 ",7,Counter-Strike
+Latvia,"$1,474.00 ",11,Counter-Strike
+Israel,"$1,062.20 ",5,Counter-Strike
+Lithuania,$716.50 ,5,Counter-Strike
+Ecuador,$530.36 ,1,Counter-Strike
+"Iran, Islamic Republic of",$508.96 ,2,Counter-Strike
+Ireland,$306.14 ,2,Counter-Strike
+Algeria,$222.27 ,1,Counter-Strike
+Venezuela,$145.48 ,1,Counter-Strike
+Philippines,$100.00 ,1,Counter-Strike
+"Moldova, Republic of",$98.00 ,5,Counter-Strike
+Jamaica,$83.33 ,1,Counter-Strike
+Egypt,$77.98 ,1,Counter-Strike
+China,"$4,605,748.37 ",129,CrossFire
+Brazil,"$1,779,560.30 ",57,CrossFire
+Germany,"$712,330.00 ",122,CrossFire
+Viet Nam,"$417,340.18 ",29,CrossFire
+Russian Federation,"$290,887.50 ",36,CrossFire
+Philippines,"$260,000.00 ",23,CrossFire
+United States,"$163,092.80 ",44,CrossFire
+Colombia,"$90,690.00 ",8,CrossFire
+Egypt,"$71,896.96 ",23,CrossFire
+Canada,"$70,603.50 ",11,CrossFire
+Slovakia,"$38,976.41 ",2,CrossFire
+Portugal,"$36,486.15 ",72,CrossFire
+Netherlands,"$31,337.83 ",12,CrossFire
+Indonesia,"$26,000.00 ",8,CrossFire
+Japan,"$22,525.70 ",14,CrossFire
+"Korea, Republic of","$20,000.00 ",13,CrossFire
+Croatia,"$14,405.37 ",6,CrossFire
+Slovenia,"$10,065.20 ",2,CrossFire
+Austria,"$7,274.30 ",2,CrossFire
+Venezuela,"$6,000.00 ",6,CrossFire
+Turkey,"$5,506.50 ",7,CrossFire
+Malaysia,"$5,000.00 ",5,CrossFire
+"Taiwan, Republic of China","$5,000.00 ",5,CrossFire
+France,"$4,354.21 ",10,CrossFire
+Belarus,"$4,200.00 ",2,CrossFire
+Belgium,"$3,093.91 ",11,CrossFire
+Mexico,"$2,400.00 ",2,CrossFire
+Sweden,"$2,385.85 ",14,CrossFire
+Italy,"$1,956.33 ",1,CrossFire
+Greece,"$1,752.49 ",9,CrossFire
+Peru,"$1,600.00 ",2,CrossFire
+Morocco,$967.22 ,2,CrossFire
+Romania,$777.50 ,11,CrossFire
+United Kingdom,$271.74 ,9,CrossFire
+Poland,$271.70 ,4,CrossFire
+Serbia,$141.83 ,1,CrossFire
+Switzerland,$141.28 ,3,CrossFire
+Kazakhstan,$140.00 ,1,CrossFire
+Finland,$54.34 ,1,CrossFire
+Spain,$32.60 ,1,CrossFire
+"Palestinian Territory, Occupied",$20.00 ,1,CrossFire
+United States,"$3,302,580.48 ",437,Apex Legends
+"Korea, Republic of","$653,738.67 ",56,Apex Legends
+Russian Federation,"$423,976.99 ",67,Apex Legends
+Thailand,"$422,588.61 ",50,Apex Legends
+Brazil,"$402,444.59 ",90,Apex Legends
+Japan,"$344,251.15 ",119,Apex Legends
+Canada,"$334,774.03 ",36,Apex Legends
+France,"$315,214.99 ",61,Apex Legends
+United Kingdom,"$287,960.30 ",49,Apex Legends
+Sweden,"$286,737.74 ",37,Apex Legends
+Germany,"$282,615.11 ",64,Apex Legends
+Australia,"$264,733.46 ",67,Apex Legends
+Indonesia,"$254,245.54 ",31,Apex Legends
+Denmark,"$222,999.05 ",15,Apex Legends
+Belarus,"$146,302.27 ",5,Apex Legends
+Turkey,"$136,307.34 ",42,Apex Legends
+Croatia,"$120,360.33 ",2,Apex Legends
+Ukraine,"$118,543.72 ",6,Apex Legends
+Finland,"$117,254.51 ",19,Apex Legends
+Chile,"$109,325.00 ",16,Apex Legends
+Argentina,"$102,639.65 ",28,Apex Legends
+Spain,"$71,896.55 ",21,Apex Legends
+Norway,"$66,561.78 ",8,Apex Legends
+Italy,"$61,241.13 ",23,Apex Legends
+Poland,"$60,643.03 ",15,Apex Legends
+"Taiwan, Republic of China","$58,394.73 ",27,Apex Legends
+Portugal,"$46,245.15 ",6,Apex Legends
+China,"$43,972.02 ",26,Apex Legends
+Netherlands,"$38,986.01 ",21,Apex Legends
+Ireland,"$33,957.00 ",6,Apex Legends
+Colombia,"$25,686.33 ",11,Apex Legends
+Czech Republic,"$23,181.10 ",10,Apex Legends
+South Africa,"$20,410.00 ",10,Apex Legends
+Malaysia,"$19,033.67 ",5,Apex Legends
+Saudi Arabia,"$18,626.67 ",11,Apex Legends
+Mexico,"$15,802.32 ",9,Apex Legends
+Belgium,"$10,593.43 ",6,Apex Legends
+Switzerland,"$9,702.33 ",2,Apex Legends
+Slovenia,"$9,136.67 ",1,Apex Legends
+United Arab Emirates,"$8,243.33 ",4,Apex Legends
+Peru,"$7,688.33 ",3,Apex Legends
+Singapore,"$7,276.66 ",7,Apex Legends
+Austria,"$6,690.12 ",3,Apex Legends
+Hungary,"$5,150.00 ",4,Apex Legends
+Israel,"$4,490.00 ",4,Apex Legends
+Philippines,"$4,398.99 ",4,Apex Legends
+Latvia,"$3,570.00 ",1,Apex Legends
+Yemen,"$3,386.67 ",1,Apex Legends
+Slovakia,"$3,026.33 ",2,Apex Legends
+Serbia,"$2,687.33 ",2,Apex Legends
+Bosnia and Herzegovina,"$2,665.00 ",2,Apex Legends
+Tunisia,"$1,639.67 ",2,Apex Legends
+Greece,"$1,371.00 ",1,Apex Legends
+Pakistan,"$1,350.00 ",1,Apex Legends
+Cyprus,"$1,269.99 ",4,Apex Legends
+Lithuania,"$1,248.33 ",2,Apex Legends
+Hong Kong,"$1,141.25 ",5,Apex Legends
+Malta,$971.00 ,1,Apex Legends
+New Zealand,$874.75 ,2,Apex Legends
+"Iran, Islamic Republic of",$740.00 ,1,Apex Legends
+Iraq,$600.00 ,1,Apex Legends
+Egypt,$540.00 ,2,Apex Legends
+Jordan,$330.00 ,1,Apex Legends
+India,$310.00 ,1,Apex Legends
+Puerto Rico,$255.00 ,1,Apex Legends
+Romania,$253.33 ,2,Apex Legends
+United States,"$5,443,659.76 ",723,Call of Duty: Warzone
+United Kingdom,"$1,894,500.96 ",127,Call of Duty: Warzone
+Canada,"$615,449.09 ",66,Call of Duty: Warzone
+Russian Federation,"$299,503.38 ",47,Call of Duty: Warzone
+France,"$207,946.01 ",64,Call of Duty: Warzone
+Spain,"$156,640.95 ",48,Call of Duty: Warzone
+Germany,"$135,827.00 ",67,Call of Duty: Warzone
+Italy,"$91,898.78 ",47,Call of Duty: Warzone
+Turkey,"$89,667.97 ",47,Call of Duty: Warzone
+Poland,"$81,515.00 ",38,Call of Duty: Warzone
+Mexico,"$28,150.00 ",13,Call of Duty: Warzone
+Latvia,"$25,941.66 ",3,Call of Duty: Warzone
+Ireland,"$25,350.00 ",5,Call of Duty: Warzone
+Lebanon,"$18,000.00 ",1,Call of Duty: Warzone
+Netherlands,"$17,930.66 ",30,Call of Duty: Warzone
+Australia,"$14,433.34 ",11,Call of Duty: Warzone
+Georgia,"$14,250.00 ",1,Call of Duty: Warzone
+Belgium,"$13,851.45 ",13,Call of Duty: Warzone
+Brazil,"$12,599.99 ",7,Call of Duty: Warzone
+Portugal,"$11,900.00 ",2,Call of Duty: Warzone
+Sweden,"$10,562.32 ",14,Call of Duty: Warzone
+Israel,"$10,225.00 ",1,Call of Duty: Warzone
+Norway,"$9,829.52 ",12,Call of Duty: Warzone
+Denmark,"$6,216.67 ",8,Call of Duty: Warzone
+Austria,"$6,146.74 ",6,Call of Duty: Warzone
+Ukraine,"$5,000.00 ",1,Call of Duty: Warzone
+Puerto Rico,"$4,166.67 ",2,Call of Duty: Warzone
+Hungary,"$3,900.00 ",13,Call of Duty: Warzone
+Afghanistan,"$3,000.00 ",1,Call of Duty: Warzone
+Estonia,"$2,425.00 ",1,Call of Duty: Warzone
+Philippines,"$1,950.00 ",4,Call of Duty: Warzone
+Jamaica,"$1,850.00 ",1,Call of Duty: Warzone
+Saudi Arabia,"$1,750.00 ",1,Call of Duty: Warzone
+Czech Republic,"$1,475.00 ",3,Call of Duty: Warzone
+Colombia,"$1,300.00 ",1,Call of Duty: Warzone
+Gibraltar,"$1,125.00 ",1,Call of Duty: Warzone
+Finland,$900.00 ,1,Call of Duty: Warzone
+Morocco,$900.00 ,1,Call of Duty: Warzone
+Guyana,$700.00 ,1,Call of Duty: Warzone
+Honduras,$500.00 ,1,Call of Duty: Warzone
+Japan,$500.00 ,1,Call of Duty: Warzone
+Belarus,$425.00 ,1,Call of Duty: Warzone
+Albania,$400.00 ,1,Call of Duty: Warzone
+Singapore,$300.00 ,1,Call of Duty: Warzone
+Romania,$250.00 ,2,Call of Duty: Warzone
+Malta,$203.47 ,9,Call of Duty: Warzone
+Lithuania,$200.00 ,1,Call of Duty: Warzone
+Serbia,$175.00 ,1,Call of Duty: Warzone
+Venezuela,$33.33 ,1,Call of Duty: Warzone
+Tunisia,$12.18 ,1,Call of Duty: Warzone
+United States,"$3,790,644.34 ",189,SMITE
+Sweden,"$1,175,197.64 ",8,SMITE
+United Kingdom,"$978,527.81 ",52,SMITE
+Canada,"$753,289.33 ",22,SMITE
+Denmark,"$599,902.64 ",15,SMITE
+Germany,"$265,551.00 ",7,SMITE
+China,"$166,800.00 ",22,SMITE
+Norway,"$157,945.35 ",4,SMITE
+Ukraine,"$149,200.00 ",1,SMITE
+Australia,"$148,443.00 ",45,SMITE
+Portugal,"$112,325.80 ",2,SMITE
+Brazil,"$109,877.69 ",70,SMITE
+Netherlands,"$108,796.73 ",13,SMITE
+Croatia,"$86,775.00 ",4,SMITE
+Argentina,"$78,630.60 ",15,SMITE
+Poland,"$59,205.58 ",3,SMITE
+"Korea, Republic of","$53,741.98 ",3,SMITE
+Romania,"$38,600.00 ",1,SMITE
+Bulgaria,"$38,300.00 ",1,SMITE
+France,"$36,400.00 ",3,SMITE
+Chile,"$26,461.20 ",4,SMITE
+Malaysia,"$26,251.96 ",1,SMITE
+Peru,"$25,780.16 ",4,SMITE
+Venezuela,"$21,861.20 ",3,SMITE
+Kuwait,"$19,800.00 ",1,SMITE
+Israel,"$15,950.00 ",5,SMITE
+Colombia,"$14,400.00 ",6,SMITE
+Austria,"$13,106.00 ",4,SMITE
+Uruguay,"$9,800.00 ",3,SMITE
+New Zealand,"$9,127.67 ",3,SMITE
+Russian Federation,"$9,057.14 ",1,SMITE
+Georgia,"$6,000.00 ",1,SMITE
+Ecuador,"$5,000.00 ",1,SMITE
+Italy,"$4,833.33 ",2,SMITE
+Belgium,"$4,500.00 ",3,SMITE
+Hungary,"$4,400.00 ",1,SMITE
+Finland,"$2,650.00 ",2,SMITE
+Guatemala,"$2,200.00 ",1,SMITE
+Mexico,"$2,000.00 ",2,SMITE
+Indonesia,"$1,579.85 ",3,SMITE
+Czech Republic,"$1,500.00 ",1,SMITE
+Estonia,"$1,250.00 ",1,SMITE
+Ireland,"$1,000.00 ",1,SMITE
+Hong Kong,$800.00 ,2,SMITE
+Spain,$500.00 ,5,SMITE
+Serbia,$150.00 ,1,SMITE
+India,$0.00 ,1,SMITE
+Iraq,$0.00 ,1,SMITE
+Singapore,$0.00 ,1,SMITE
+United States,"$1,948,761.46 ",683,VALORANT
+Russian Federation,"$759,871.21 ",187,VALORANT
+"Korea, Republic of","$697,651.97 ",133,VALORANT
+Canada,"$635,071.09 ",119,VALORANT
+Turkey,"$545,366.67 ",212,VALORANT
+Brazil,"$530,221.61 ",226,VALORANT
+United Kingdom,"$328,883.71 ",63,VALORANT
+Poland,"$311,649.54 ",164,VALORANT
+Japan,"$283,170.55 ",111,VALORANT
+Spain,"$255,646.92 ",61,VALORANT
+France,"$238,408.81 ",118,VALORANT
+Finland,"$219,743.11 ",39,VALORANT
+Sweden,"$207,122.10 ",56,VALORANT
+Chile,"$203,932.13 ",60,VALORANT
+Thailand,"$203,844.75 ",118,VALORANT
+India,"$177,835.19 ",72,VALORANT
+Belgium,"$141,258.44 ",20,VALORANT
+Philippines,"$130,242.35 ",144,VALORANT
+Argentina,"$118,278.92 ",41,VALORANT
+Germany,"$85,016.63 ",124,VALORANT
+Lithuania,"$85,012.25 ",19,VALORANT
+Indonesia,"$71,650.07 ",65,VALORANT
+Colombia,"$69,648.91 ",34,VALORANT
+Denmark,"$59,567.44 ",20,VALORANT
+Czech Republic,"$53,258.61 ",57,VALORANT
+Belarus,"$47,663.38 ",15,VALORANT
+"Taiwan, Republic of China","$47,472.56 ",57,VALORANT
+Croatia,"$44,745.48 ",10,VALORANT
+Latvia,"$40,882.05 ",6,VALORANT
+Singapore,"$40,866.46 ",60,VALORANT
+Pakistan,"$36,488.95 ",28,VALORANT
+Australia,"$31,536.50 ",40,VALORANT
+Ukraine,"$30,781.30 ",16,VALORANT
+Portugal,"$30,190.69 ",49,VALORANT
+Egypt,"$27,556.60 ",11,VALORANT
+Mexico,"$24,905.55 ",40,VALORANT
+Kazakhstan,"$21,870.69 ",4,VALORANT
+Viet Nam,"$19,708.00 ",60,VALORANT
+Malaysia,"$17,425.64 ",47,VALORANT
+Bosnia and Herzegovina,"$14,105.74 ",8,VALORANT
+China,"$13,860.60 ",17,VALORANT
+Mongolia,"$10,650.00 ",1,VALORANT
+Norway,"$10,638.60 ",5,VALORANT
+Hong Kong,"$9,754.01 ",35,VALORANT
+Hungary,"$9,699.09 ",17,VALORANT
+Tunisia,"$9,433.22 ",7,VALORANT
+Morocco,"$8,500.00 ",10,VALORANT
+Serbia,"$7,266.97 ",23,VALORANT
+Netherlands,"$7,051.03 ",7,VALORANT
+Guatemala,"$5,891.22 ",4,VALORANT
+Jordan,"$5,800.00 ",5,VALORANT
+Puerto Rico,"$5,667.42 ",3,VALORANT
+Greece,"$5,229.98 ",1,VALORANT
+Dominican Republic,"$4,750.00 ",3,VALORANT
+Israel,"$4,573.36 ",5,VALORANT
+Switzerland,"$4,501.73 ",7,VALORANT
+Kuwait,"$4,200.00 ",3,VALORANT
+Sri Lanka,"$4,166.20 ",1,VALORANT
+Iceland,"$3,923.35 ",3,VALORANT
+Austria,"$3,420.31 ",13,VALORANT
+Saudi Arabia,"$2,600.00 ",8,VALORANT
+Venezuela,"$2,319.62 ",2,VALORANT
+Romania,"$1,967.86 ",2,VALORANT
+Estonia,"$1,929.80 ",11,VALORANT
+United Arab Emirates,"$1,600.00 ",2,VALORANT
+Algeria,"$1,591.52 ",11,VALORANT
+Italy,"$1,508.97 ",8,VALORANT
+Slovakia,"$1,494.76 ",9,VALORANT
+Qatar,"$1,429.09 ",1,VALORANT
+Lebanon,"$1,400.00 ",1,VALORANT
+Bulgaria,"$1,374.85 ",8,VALORANT
+North Macedonia,"$1,083.59 ",9,VALORANT
+Ireland,$973.15 ,2,VALORANT
+South Africa,$958.40 ,3,VALORANT
+Ecuador,$901.20 ,5,VALORANT
+Panama,$550.00 ,3,VALORANT
+Bahrain,$549.87 ,1,VALORANT
+New Zealand,$445.20 ,2,VALORANT
+Macao,$400.00 ,2,VALORANT
+Bangladesh,$360.27 ,1,VALORANT
+"Iran, Islamic Republic of",$296.80 ,1,VALORANT
+Luxembourg,$294.97 ,1,VALORANT
+Costa Rica,$200.00 ,2,VALORANT
+Honduras,$200.00 ,2,VALORANT
+Syrian Arab Republic,$200.00 ,1,VALORANT
+"Moldova, Republic of",$43.09 ,2,VALORANT
+United States,"$1,736,725.00 ",142,Magic: The Gathering Arena
+Japan,"$653,300.00 ",29,Magic: The Gathering Arena
+France,"$549,750.00 ",19,Magic: The Gathering Arena
+Brazil,"$494,025.00 ",7,Magic: The Gathering Arena
+Italy,"$375,825.00 ",13,Magic: The Gathering Arena
+Germany,"$367,100.00 ",10,Magic: The Gathering Arena
+Poland,"$342,150.00 ",9,Magic: The Gathering Arena
+Czech Republic,"$295,125.00 ",6,Magic: The Gathering Arena
+Spain,"$247,125.00 ",13,Magic: The Gathering Arena
+Argentina,"$231,500.00 ",3,Magic: The Gathering Arena
+Portugal,"$215,400.00 ",5,Magic: The Gathering Arena
+Canada,"$136,300.00 ",14,Magic: The Gathering Arena
+United Kingdom,"$126,550.00 ",7,Magic: The Gathering Arena
+Finland,"$98,000.00 ",5,Magic: The Gathering Arena
+Lebanon,"$93,500.00 ",1,Magic: The Gathering Arena
+Denmark,"$43,000.00 ",4,Magic: The Gathering Arena
+Hong Kong,"$40,875.00 ",3,Magic: The Gathering Arena
+Australia,"$39,500.00 ",4,Magic: The Gathering Arena
+Sweden,"$34,850.00 ",5,Magic: The Gathering Arena
+China,"$32,500.00 ",4,Magic: The Gathering Arena
+Mexico,"$29,750.00 ",3,Magic: The Gathering Arena
+Netherlands,"$29,000.00 ",4,Magic: The Gathering Arena
+Austria,"$12,000.00 ",2,Magic: The Gathering Arena
+Russian Federation,"$12,000.00 ",2,Magic: The Gathering Arena
+"Korea, Republic of","$10,000.00 ",2,Magic: The Gathering Arena
+Belgium,"$8,750.00 ",1,Magic: The Gathering Arena
+Ukraine,"$6,000.00 ",1,Magic: The Gathering Arena
+--UNDEFINED--,"$5,000.00 ",1,Magic: The Gathering Arena
+"Tanzania, United Republic of","$4,500.00 ",1,Magic: The Gathering Arena
+Guatemala,"$4,000.00 ",1,Magic: The Gathering Arena
+Israel,"$4,000.00 ",1,Magic: The Gathering Arena
+Slovakia,"$4,000.00 ",1,Magic: The Gathering Arena
+Chile,"$2,000.00 ",1,Magic: The Gathering Arena
+Ireland,"$1,200.00 ",1,Magic: The Gathering Arena
+Switzerland,$250.00 ,1,Magic: The Gathering Arena
+South Africa,$250.00 ,1,Magic: The Gathering Arena
+United States,"$4,992,350.00 ",188,Call of Duty: Modern Warfare
+United Kingdom,"$1,161,476.88 ",74,Call of Duty: Modern Warfare
+Canada,"$481,800.00 ",21,Call of Duty: Modern Warfare
+Saudi Arabia,"$345,250.00 ",1,Call of Duty: Modern Warfare
+Australia,"$189,120.00 ",40,Call of Duty: Modern Warfare
+Denmark,"$74,730.64 ",5,Call of Duty: Modern Warfare
+Japan,"$48,250.00 ",22,Call of Duty: Modern Warfare
+France,"$47,250.00 ",19,Call of Duty: Modern Warfare
+Spain,"$38,150.00 ",22,Call of Duty: Modern Warfare
+Afghanistan,"$34,000.00 ",1,Call of Duty: Modern Warfare
+Belgium,"$27,000.00 ",2,Call of Duty: Modern Warfare
+Italy,"$5,500.00 ",7,Call of Duty: Modern Warfare
+Portugal,"$5,212.50 ",7,Call of Duty: Modern Warfare
+Ireland,"$2,800.00 ",2,Call of Duty: Modern Warfare
+New Zealand,"$1,340.00 ",2,Call of Duty: Modern Warfare
+South Africa,$800.00 ,1,Call of Duty: Modern Warfare
+Mexico,$500.00 ,1,Call of Duty: Modern Warfare
+"Korea, Republic of","$6,647,684.29 ",531,StarCraft: Brood War
+China,"$100,685.22 ",27,StarCraft: Brood War
+United States,"$88,409.14 ",36,StarCraft: Brood War
+Canada,"$85,682.61 ",23,StarCraft: Brood War
+Russian Federation,"$73,381.97 ",67,StarCraft: Brood War
+Germany,"$55,218.94 ",21,StarCraft: Brood War
+Poland,"$28,029.67 ",32,StarCraft: Brood War
+Ukraine,"$20,745.11 ",13,StarCraft: Brood War
+Sweden,"$18,934.61 ",20,StarCraft: Brood War
+France,"$18,002.04 ",5,StarCraft: Brood War
+Netherlands,"$11,974.43 ",5,StarCraft: Brood War
+Norway,"$11,428.65 ",4,StarCraft: Brood War
+Australia,"$6,280.00 ",1,StarCraft: Brood War
+Bulgaria,"$5,875.25 ",6,StarCraft: Brood War
+Hungary,"$5,456.40 ",4,StarCraft: Brood War
+Kazakhstan,"$5,095.00 ",2,StarCraft: Brood War
+Spain,"$5,063.89 ",3,StarCraft: Brood War
+Peru,"$4,521.17 ",8,StarCraft: Brood War
+Brazil,"$3,657.56 ",3,StarCraft: Brood War
+"Taiwan, Republic of China","$3,217.12 ",1,StarCraft: Brood War
+Czech Republic,"$1,498.65 ",3,StarCraft: Brood War
+Mexico,"$1,350.00 ",3,StarCraft: Brood War
+Croatia,$525.00 ,1,StarCraft: Brood War
+Uruguay,$500.00 ,1,StarCraft: Brood War
+United Kingdom,$406.94 ,4,StarCraft: Brood War
+Colombia,$300.00 ,1,StarCraft: Brood War
+Chile,$282.30 ,2,StarCraft: Brood War
+Finland,$165.00 ,2,StarCraft: Brood War
+Italy,$160.00 ,2,StarCraft: Brood War
+Belarus,$151.51 ,1,StarCraft: Brood War
+Lithuania,$133.33 ,1,StarCraft: Brood War
+Japan,$69.43 ,1,StarCraft: Brood War
+Romania,$10.97 ,1,StarCraft: Brood War
+United States,"$5,391,437.23 ",103,Halo 5: Guardians
+Canada,"$593,009.38 ",13,Halo 5: Guardians
+United Kingdom,"$395,160.84 ",35,Halo 5: Guardians
+Saudi Arabia,"$179,625.00 ",1,Halo 5: Guardians
+Australia,"$91,083.33 ",32,Halo 5: Guardians
+Mexico,"$87,187.50 ",18,Halo 5: Guardians
+France,"$61,505.56 ",17,Halo 5: Guardians
+Germany,"$51,875.00 ",4,Halo 5: Guardians
+Italy,"$39,625.83 ",1,Halo 5: Guardians
+New Zealand,"$24,041.67 ",4,Halo 5: Guardians
+Singapore,"$22,500.00 ",3,Halo 5: Guardians
+Denmark,"$13,845.15 ",1,Halo 5: Guardians
+Ireland,"$9,947.09 ",4,Halo 5: Guardians
+Philippines,"$7,500.00 ",1,Halo 5: Guardians
+Colombia,"$3,312.50 ",5,Halo 5: Guardians
+Netherlands,"$2,500.00 ",1,Halo 5: Guardians
+Brazil,"$1,500.00 ",12,Halo 5: Guardians
+United States,"$2,058,820.81 ",150,World of WarCraft
+Germany,"$631,821.89 ",30,World of WarCraft
+Sweden,"$568,831.01 ",22,World of WarCraft
+Canada,"$494,975.02 ",10,World of WarCraft
+United Kingdom,"$419,013.48 ",21,World of WarCraft
+"Korea, Republic of","$405,133.35 ",50,World of WarCraft
+France,"$347,608.33 ",23,World of WarCraft
+Australia,"$337,060.83 ",41,World of WarCraft
+Denmark,"$189,891.60 ",11,World of WarCraft
+Italy,"$145,387.44 ",1,World of WarCraft
+New Zealand,"$122,841.67 ",2,World of WarCraft
+China,"$116,333.32 ",30,World of WarCraft
+Slovakia,"$112,283.33 ",1,World of WarCraft
+Russian Federation,"$112,249.20 ",7,World of WarCraft
+Spain,"$103,850.00 ",6,World of WarCraft
+Norway,"$88,383.27 ",4,World of WarCraft
+Finland,"$65,803.57 ",4,World of WarCraft
+Netherlands,"$54,366.66 ",5,World of WarCraft
+Morocco,"$45,000.00 ",1,World of WarCraft
+Croatia,"$36,533.33 ",1,World of WarCraft
+"Taiwan, Republic of China","$29,400.01 ",19,World of WarCraft
+Brazil,"$23,583.32 ",11,World of WarCraft
+Belarus,"$22,583.33 ",1,World of WarCraft
+Romania,"$19,950.00 ",1,World of WarCraft
+Austria,"$18,850.00 ",5,World of WarCraft
+Mexico,"$18,275.00 ",1,World of WarCraft
+Belgium,"$16,903.57 ",2,World of WarCraft
+Bulgaria,"$15,033.34 ",4,World of WarCraft
+Chile,"$13,500.00 ",3,World of WarCraft
+Guatemala,"$11,750.00 ",1,World of WarCraft
+Hungary,"$9,500.00 ",2,World of WarCraft
+Iceland,"$5,000.00 ",1,World of WarCraft
+Ukraine,$37.10 ,1,World of WarCraft
+United States,"$4,747,874.52 ",209,Call of Duty: Black Ops 4
+United Kingdom,"$885,747.39 ",69,Call of Duty: Black Ops 4
+Canada,"$365,745.86 ",25,Call of Duty: Black Ops 4
+Spain,"$170,672.10 ",36,Call of Duty: Black Ops 4
+Australia,"$118,017.33 ",43,Call of Duty: Black Ops 4
+Japan,"$95,647.00 ",20,Call of Duty: Black Ops 4
+France,"$86,136.95 ",29,Call of Duty: Black Ops 4
+Afghanistan,"$73,870.60 ",1,Call of Duty: Black Ops 4
+Ireland,"$54,125.00 ",1,Call of Duty: Black Ops 4
+Saudi Arabia,"$35,070.00 ",1,Call of Duty: Black Ops 4
+Italy,"$22,362.50 ",2,Call of Duty: Black Ops 4
+Germany,"$10,200.00 ",5,Call of Duty: Black Ops 4
+Denmark,"$8,600.00 ",1,Call of Duty: Black Ops 4
+Singapore,"$5,600.00 ",4,Call of Duty: Black Ops 4
+Malaysia,"$4,800.00 ",2,Call of Duty: Black Ops 4
+South Africa,"$3,250.00 ",15,Call of Duty: Black Ops 4
+Philippines,"$2,400.00 ",1,Call of Duty: Black Ops 4
+Belgium,$850.00 ,2,Call of Duty: Black Ops 4
+New Zealand,$688.50 ,2,Call of Duty: Black Ops 4
+Portugal,$567.80 ,5,Call of Duty: Black Ops 4
+"Korea, Republic of",$400.00 ,2,Call of Duty: Black Ops 4
+"Korea, Republic of","$2,241,209.01 ",176,WarCraft III
+China,"$1,828,240.06 ",142,WarCraft III
+Germany,"$465,981.37 ",111,WarCraft III
+Netherlands,"$312,345.11 ",4,WarCraft III
+Russian Federation,"$296,171.27 ",113,WarCraft III
+France,"$192,853.62 ",39,WarCraft III
+Sweden,"$176,591.71 ",40,WarCraft III
+United States,"$111,120.19 ",28,WarCraft III
+Ukraine,"$106,171.25 ",18,WarCraft III
+Bulgaria,"$74,097.60 ",21,WarCraft III
+Norway,"$69,167.91 ",9,WarCraft III
+Spain,"$31,193.04 ",7,WarCraft III
+Finland,"$22,876.07 ",19,WarCraft III
+Denmark,"$20,833.04 ",18,WarCraft III
+Croatia,"$20,357.74 ",3,WarCraft III
+United Kingdom,"$19,406.82 ",11,WarCraft III
+Czech Republic,"$13,841.03 ",12,WarCraft III
+"Taiwan, Republic of China","$12,580.16 ",2,WarCraft III
+Singapore,"$10,300.00 ",2,WarCraft III
+Kazakhstan,"$10,145.06 ",14,WarCraft III
+Belarus,"$7,673.70 ",9,WarCraft III
+Lithuania,"$6,645.86 ",2,WarCraft III
+Peru,"$6,147.77 ",5,WarCraft III
+Romania,"$5,587.18 ",1,WarCraft III
+Argentina,"$4,000.00 ",2,WarCraft III
+Brazil,"$4,000.00 ",8,WarCraft III
+Poland,"$3,889.17 ",2,WarCraft III
+Canada,"$3,113.42 ",5,WarCraft III
+Serbia,"$2,226.12 ",5,WarCraft III
+Mexico,"$1,300.00 ",1,WarCraft III
+Belgium,"$1,144.15 ",2,WarCraft III
+Austria,"$1,000.00 ",1,WarCraft III
+Switzerland,"$1,000.00 ",1,WarCraft III
+"Moldova, Republic of",$900.85 ,1,WarCraft III
+Australia,$646.56 ,2,WarCraft III
+Greece,$631.00 ,2,WarCraft III
+Italy,$287.18 ,1,WarCraft III
+Indonesia,$189.98 ,1,WarCraft III
+Ireland,$16.67 ,1,WarCraft III
+Slovakia,$13.22 ,1,WarCraft III
+Turkey,$13.22 ,1,WarCraft III
+Hungary,$5.50 ,1,WarCraft III
+United States,"$3,875,166.63 ",132,Call of Duty: Black Ops Cold War
+United Kingdom,"$1,175,500.00 ",57,Call of Duty: Black Ops Cold War
+Canada,"$344,083.33 ",14,Call of Duty: Black Ops Cold War
+Denmark,"$285,625.00 ",1,Call of Duty: Black Ops Cold War
+Spain,"$99,125.00 ",15,Call of Duty: Black Ops Cold War
+Afghanistan,"$73,750.00 ",1,Call of Duty: Black Ops Cold War
+France,"$64,750.00 ",3,Call of Duty: Black Ops Cold War
+Saudi Arabia,"$55,000.00 ",1,Call of Duty: Black Ops Cold War
+Belgium,"$19,500.00 ",2,Call of Duty: Black Ops Cold War
+Ireland,"$12,750.00 ",1,Call of Duty: Black Ops Cold War
+Italy,"$10,000.00 ",5,Call of Duty: Black Ops Cold War
+Poland,"$4,750.00 ",4,Call of Duty: Black Ops Cold War
+New Zealand,"$1,500.00 ",1,Call of Duty: Black Ops Cold War
+Portugal,"$1,375.00 ",1,Call of Duty: Black Ops Cold War
+Sweden,"$1,375.00 ",3,Call of Duty: Black Ops Cold War
+Australia,$750.00 ,1,Call of Duty: Black Ops Cold War
+South Africa,$250.00 ,1,Call of Duty: Black Ops Cold War
+Japan,"$3,459,756.09 ",55,Shadowverse
+"Taiwan, Republic of China","$1,054,454.55 ",7,Shadowverse
+United States,"$237,518.18 ",28,Shadowverse
+"Korea, Republic of","$213,377.90 ",8,Shadowverse
+China,"$105,102.28 ",9,Shadowverse
+Canada,"$40,300.00 ",15,Shadowverse
+United Kingdom,"$31,271.03 ",9,Shadowverse
+Portugal,"$26,700.00 ",2,Shadowverse
+Indonesia,"$18,900.00 ",27,Shadowverse
+France,"$16,900.00 ",10,Shadowverse
+Singapore,"$11,400.00 ",15,Shadowverse
+Philippines,"$9,127.28 ",8,Shadowverse
+Austria,"$8,518.18 ",3,Shadowverse
+Greece,"$6,718.18 ",3,Shadowverse
+Australia,"$4,100.00 ",4,Shadowverse
+Malaysia,"$3,500.00 ",3,Shadowverse
+New Caledonia,"$3,300.00 ",1,Shadowverse
+Belgium,"$3,100.00 ",1,Shadowverse
+Switzerland,"$3,000.00 ",1,Shadowverse
+Brazil,"$2,700.00 ",4,Shadowverse
+Mexico,"$2,600.00 ",5,Shadowverse
+Poland,"$2,500.00 ",4,Shadowverse
+Germany,"$2,200.00 ",2,Shadowverse
+--UNDEFINED--,"$1,800.00 ",4,Shadowverse
+Bulgaria,"$1,100.00 ",1,Shadowverse
+Russian Federation,"$1,100.00 ",3,Shadowverse
+Finland,"$1,000.00 ",1,Shadowverse
+Chile,$900.00 ,2,Shadowverse
+Uruguay,$900.00 ,1,Shadowverse
+New Zealand,$800.00 ,1,Shadowverse
+Spain,$700.00 ,1,Shadowverse
+Sweden,$700.00 ,1,Shadowverse
+Italy,$600.00 ,2,Shadowverse
+Thailand,$600.00 ,2,Shadowverse
+Denmark,$500.00 ,1,Shadowverse
+Viet Nam,$500.00 ,1,Shadowverse
+Argentina,$300.00 ,1,Shadowverse
+Czech Republic,$300.00 ,1,Shadowverse
+Ukraine,$300.00 ,1,Shadowverse
+Thailand,"$1,135,885.16 ",114,Free Fire
+Indonesia,"$1,056,811.88 ",280,Free Fire
+Brazil,"$629,547.18 ",49,Free Fire
+Viet Nam,"$371,620.00 ",49,Free Fire
+Russian Federation,"$230,523.99 ",17,Free Fire
+India,"$142,950.00 ",38,Free Fire
+Malaysia,"$98,585.99 ",24,Free Fire
+Kazakhstan,"$93,166.66 ",11,Free Fire
+Portugal,"$92,500.00 ",18,Free Fire
+"Taiwan, Republic of China","$79,024.00 ",15,Free Fire
+Pakistan,"$59,600.00 ",14,Free Fire
+Morocco,"$51,666.69 ",13,Free Fire
+Bangladesh,"$40,750.00 ",5,Free Fire
+Algeria,"$40,000.00 ",4,Free Fire
+Singapore,"$40,000.00 ",4,Free Fire
+Colombia,"$34,202.66 ",8,Free Fire
+Mexico,"$30,333.33 ",7,Free Fire
+Ecuador,"$24,333.33 ",2,Free Fire
+Tunisia,"$20,000.00 ",2,Free Fire
+Venezuela,"$16,666.66 ",2,Free Fire
+Dominican Republic,"$16,000.00 ",1,Free Fire
+Nicaragua,"$16,000.00 ",1,Free Fire
+China,"$12,000.00 ",5,Free Fire
+Iraq,"$11,666.67 ",1,Free Fire
+Costa Rica,"$10,000.00 ",5,Free Fire
+Jordan,"$8,333.33 ",1,Free Fire
+"Moldova, Republic of","$8,333.33 ",1,Free Fire
+Syrian Arab Republic,"$8,333.33 ",1,Free Fire
+Argentina,"$5,024.00 ",9,Free Fire
+Ukraine,"$4,000.00 ",1,Free Fire
+Philippines,$100.00 ,2,Free Fire
+United States,"$3,251,438.02 ",104,Call of Duty: WWII
+United Kingdom,"$554,036.18 ",32,Call of Duty: WWII
+Canada,"$216,561.39 ",12,Call of Duty: WWII
+Japan,"$180,657.44 ",23,Call of Duty: WWII
+Australia,"$73,905.00 ",21,Call of Duty: WWII
+Ireland,"$33,875.00 ",1,Call of Duty: WWII
+France,"$33,750.00 ",9,Call of Duty: WWII
+Saudi Arabia,"$29,650.00 ",1,Call of Duty: WWII
+Spain,"$20,789.88 ",25,Call of Duty: WWII
+Italy,"$13,761.86 ",15,Call of Duty: WWII
+Belgium,"$11,125.00 ",3,Call of Duty: WWII
+New Zealand,"$7,875.00 ",5,Call of Duty: WWII
+Netherlands,"$3,625.00 ",1,Call of Duty: WWII
+South Africa,"$1,208.00 ",8,Call of Duty: WWII
+Malta,$298.32 ,4,Call of Duty: WWII
+Finland,$250.00 ,1,Call of Duty: WWII
+Denmark,$56.00 ,4,Call of Duty: WWII
+United States,"$2,703,625.00 ",115,Call of Duty: Infinite Warfare
+United Kingdom,"$694,696.32 ",56,Call of Duty: Infinite Warfare
+Canada,"$427,091.32 ",44,Call of Duty: Infinite Warfare
+Australia,"$123,399.23 ",37,Call of Duty: Infinite Warfare
+Ireland,"$90,450.00 ",1,Call of Duty: Infinite Warfare
+France,"$28,094.04 ",14,Call of Duty: Infinite Warfare
+Singapore,"$17,000.00 ",10,Call of Duty: Infinite Warfare
+New Zealand,"$16,058.81 ",9,Call of Duty: Infinite Warfare
+Netherlands,"$8,606.34 ",8,Call of Duty: Infinite Warfare
+Finland,"$4,125.00 ",1,Call of Duty: Infinite Warfare
+Sweden,"$4,125.00 ",1,Call of Duty: Infinite Warfare
+Belgium,"$3,633.99 ",12,Call of Duty: Infinite Warfare
+Malaysia,"$3,000.00 ",2,Call of Duty: Infinite Warfare
+South Africa,"$2,313.00 ",18,Call of Duty: Infinite Warfare
+Spain,"$1,200.00 ",5,Call of Duty: Infinite Warfare
+Germany,$812.26 ,6,Call of Duty: Infinite Warfare
+Austria,$125.00 ,1,Call of Duty: Infinite Warfare
+Switzerland,$42.21 ,1,Call of Duty: Infinite Warfare
+Russian Federation,"$1,619,431.53 ",89,World of Tanks
+Ukraine,"$717,589.70 ",48,World of Tanks
+Belarus,"$299,420.42 ",14,World of Tanks
+China,"$104,000.06 ",30,World of Tanks
+Germany,"$74,981.18 ",48,World of Tanks
+"Moldova, Republic of","$64,974.13 ",2,World of Tanks
+Poland,"$56,542.91 ",43,World of Tanks
+United States,"$44,142.90 ",21,World of Tanks
+Czech Republic,"$23,043.68 ",4,World of Tanks
+Serbia,"$21,929.14 ",17,World of Tanks
+Canada,"$11,553.58 ",3,World of Tanks
+Croatia,"$10,280.74 ",14,World of Tanks
+Slovakia,"$9,375.00 ",1,World of Tanks
+Netherlands,"$9,181.91 ",3,World of Tanks
+Kazakhstan,"$3,035.71 ",4,World of Tanks
+--UNDEFINED--,"$1,875.00 ",1,World of Tanks
+Sweden,"$1,774.14 ",2,World of Tanks
+Brazil,"$1,573.50 ",6,World of Tanks
+Latvia,"$1,412.95 ",5,World of Tanks
+Romania,"$1,056.13 ",4,World of Tanks
+Belgium,$683.92 ,1,World of Tanks
+Ireland,$666.02 ,2,World of Tanks
+France,$641.40 ,2,World of Tanks
+Hungary,$557.40 ,8,World of Tanks
+Viet Nam,$400.12 ,11,World of Tanks
+United Kingdom,$314.67 ,3,World of Tanks
+Spain,$103.16 ,9,World of Tanks
+Japan,$100.03 ,7,World of Tanks
+Bosnia and Herzegovina,$99.27 ,1,World of Tanks
+Bulgaria,$57.40 ,7,World of Tanks
+Austria,$52.46 ,3,World of Tanks
+Finland,$35.89 ,2,World of Tanks
+Slovenia,$27.57 ,2,World of Tanks
+Greece,$24.10 ,1,World of Tanks
+United States,"$2,254,984.62 ",122,Call of Duty: Black Ops III
+United Kingdom,"$894,569.76 ",86,Call of Duty: Black Ops III
+Australia,"$301,284.93 ",49,Call of Duty: Black Ops III
+Canada,"$123,344.50 ",11,Call of Duty: Black Ops III
+New Zealand,"$100,114.53 ",8,Call of Duty: Black Ops III
+Spain,"$88,737.93 ",42,Call of Duty: Black Ops III
+France,"$67,109.95 ",27,Call of Duty: Black Ops III
+Ireland,"$41,299.45 ",2,Call of Duty: Black Ops III
+Singapore,"$6,000.00 ",5,Call of Duty: Black Ops III
+Belgium,"$5,844.87 ",5,Call of Duty: Black Ops III
+Bulgaria,"$5,118.66 ",2,Call of Duty: Black Ops III
+Germany,"$4,373.96 ",15,Call of Duty: Black Ops III
+South Africa,"$4,320.00 ",4,Call of Duty: Black Ops III
+Sweden,"$4,093.56 ",3,Call of Duty: Black Ops III
+Finland,"$4,000.00 ",5,Call of Duty: Black Ops III
+Malaysia,"$3,000.00 ",3,Call of Duty: Black Ops III
+Switzerland,"$1,662.50 ",1,Call of Duty: Black Ops III
+"Taiwan, Republic of China","$1,000.00 ",4,Call of Duty: Black Ops III
+Denmark,$761.16 ,4,Call of Duty: Black Ops III
+Hong Kong,$750.00 ,3,Call of Duty: Black Ops III
+Netherlands,$583.22 ,6,Call of Duty: Black Ops III
+Italy,$266.84 ,6,Call of Duty: Black Ops III
+Philippines,$250.00 ,1,Call of Duty: Black Ops III
+Malta,$227.92 ,4,Call of Duty: Black Ops III
+Greece,$62.50 ,1,Call of Duty: Black Ops III
+United States,"$2,697,592.17 ",1731,Super Smash Bros. Melee
+Sweden,"$493,046.54 ",60,Super Smash Bros. Melee
+Canada,"$81,946.07 ",279,Super Smash Bros. Melee
+Germany,"$55,409.67 ",101,Super Smash Bros. Melee
+United Kingdom,"$35,954.21 ",52,Super Smash Bros. Melee
+Nicaragua,"$34,620.58 ",1,Super Smash Bros. Melee
+Spain,"$26,681.50 ",30,Super Smash Bros. Melee
+Japan,"$26,177.16 ",29,Super Smash Bros. Melee
+Netherlands,"$22,508.91 ",29,Super Smash Bros. Melee
+Mexico,"$11,730.17 ",32,Super Smash Bros. Melee
+France,"$10,302.84 ",75,Super Smash Bros. Melee
+Australia,"$6,692.18 ",34,Super Smash Bros. Melee
+Austria,"$4,042.59 ",37,Super Smash Bros. Melee
+Chile,"$3,916.42 ",15,Super Smash Bros. Melee
+Norway,"$3,615.20 ",29,Super Smash Bros. Melee
+Venezuela,"$2,594.00 ",4,Super Smash Bros. Melee
+New Zealand,"$2,537.77 ",1,Super Smash Bros. Melee
+Panama,"$2,100.00 ",1,Super Smash Bros. Melee
+Switzerland,"$1,905.72 ",17,Super Smash Bros. Melee
+Finland,"$1,817.63 ",23,Super Smash Bros. Melee
+Puerto Rico,"$1,202.20 ",5,Super Smash Bros. Melee
+Brazil,$995.02 ,11,Super Smash Bros. Melee
+Denmark,$512.92 ,6,Super Smash Bros. Melee
+Russian Federation,$468.35 ,1,Super Smash Bros. Melee
+Argentina,$272.59 ,11,Super Smash Bros. Melee
+Italy,$159.73 ,1,Super Smash Bros. Melee
+Israel,$115.37 ,3,Super Smash Bros. Melee
+Greece,$88.83 ,1,Super Smash Bros. Melee
+Belgium,$58.48 ,1,Super Smash Bros. Melee
+Uzbekistan,$53.43 ,1,Super Smash Bros. Melee
+Costa Rica,$30.26 ,1,Super Smash Bros. Melee
+Ireland,$18.47 ,1,Super Smash Bros. Melee
+Dominican Republic,$17.20 ,1,Super Smash Bros. Melee
+India,$13.00 ,1,Super Smash Bros. Melee
+Luxembourg,$9.14 ,1,Super Smash Bros. Melee
+Saudi Arabia,$7.45 ,1,Super Smash Bros. Melee
+United States,"$514,837.21 ",63,Clash Royale
+China,"$487,978.24 ",45,Clash Royale
+Mexico,"$394,473.37 ",17,Clash Royale
+Japan,"$338,983.31 ",24,Clash Royale
+Spain,"$307,275.85 ",33,Clash Royale
+"Korea, Republic of","$193,050.00 ",25,Clash Royale
+Germany,"$168,496.81 ",11,Clash Royale
+Netherlands,"$127,533.48 ",2,Clash Royale
+Poland,"$92,680.50 ",2,Clash Royale
+France,"$90,368.58 ",21,Clash Royale
+Hong Kong,"$73,170.23 ",5,Clash Royale
+Brazil,"$65,850.00 ",14,Clash Royale
+Viet Nam,"$58,764.01 ",5,Clash Royale
+United Kingdom,"$58,316.67 ",5,Clash Royale
+Philippines,"$43,000.00 ",7,Clash Royale
+"Taiwan, Republic of China","$41,750.00 ",7,Clash Royale
+Russian Federation,"$41,140.00 ",3,Clash Royale
+Indonesia,"$33,041.66 ",6,Clash Royale
+Colombia,"$28,333.34 ",3,Clash Royale
+Romania,"$25,416.67 ",1,Clash Royale
+Belarus,"$22,946.67 ",4,Clash Royale
+Canada,"$22,500.00 ",2,Clash Royale
+Slovakia,"$16,585.07 ",3,Clash Royale
+Israel,"$15,000.00 ",1,Clash Royale
+Finland,"$13,000.00 ",2,Clash Royale
+Hungary,"$11,585.07 ",2,Clash Royale
+Venezuela,"$10,941.67 ",4,Clash Royale
+Bosnia and Herzegovina,"$10,900.00 ",1,Clash Royale
+Italy,"$10,290.25 ",3,Clash Royale
+Czech Republic,"$8,723.38 ",3,Clash Royale
+Austria,"$8,000.00 ",1,Clash Royale
+Argentina,"$7,666.67 ",2,Clash Royale
+Bulgaria,"$5,450.00 ",1,Clash Royale
+Lebanon,"$3,357.44 ",1,Clash Royale
+Pakistan,"$2,130.00 ",1,Clash Royale
+Sweden,"$2,000.00 ",1,Clash Royale
+Belgium,"$1,812.13 ",3,Clash Royale
+Switzerland,"$1,000.00 ",1,Clash Royale
+India,"$1,000.00 ",1,Clash Royale
+Nicaragua,"$1,000.00 ",1,Clash Royale
+Portugal,"$1,000.00 ",1,Clash Royale
+Germany,"$618,212.72 ",48,FIFA 19
+United Kingdom,"$477,314.64 ",47,FIFA 19
+France,"$284,725.91 ",25,FIFA 19
+Argentina,"$242,125.00 ",5,FIFA 19
+Saudi Arabia,"$227,115.00 ",11,FIFA 19
+Denmark,"$213,200.00 ",25,FIFA 19
+Brazil,"$197,350.00 ",25,FIFA 19
+United States,"$140,700.00 ",17,FIFA 19
+Netherlands,"$129,475.00 ",12,FIFA 19
+Spain,"$112,109.56 ",13,FIFA 19
+Mexico,"$78,850.00 ",6,FIFA 19
+Portugal,"$73,682.27 ",5,FIFA 19
+Bulgaria,"$68,455.29 ",5,FIFA 19
+Poland,"$53,306.67 ",14,FIFA 19
+Ireland,"$53,076.67 ",2,FIFA 19
+Belgium,"$52,308.64 ",3,FIFA 19
+Canada,"$43,636.67 ",8,FIFA 19
+Italy,"$30,468.64 ",7,FIFA 19
+Malta,"$28,077.34 ",10,FIFA 19
+Australia,"$17,408.64 ",8,FIFA 19
+Sweden,"$15,528.94 ",3,FIFA 19
+Russian Federation,"$15,054.54 ",5,FIFA 19
+Japan,"$11,768.64 ",7,FIFA 19
+Israel,"$11,461.36 ",1,FIFA 19
+Colombia,"$10,750.00 ",4,FIFA 19
+Austria,"$7,177.81 ",6,FIFA 19
+Turkey,"$7,000.00 ",4,FIFA 19
+Ghana,"$2,808.76 ",5,FIFA 19
+"Korea, Republic of","$2,500.00 ",5,FIFA 19
+Finland,"$1,658.64 ",3,FIFA 19
+China,"$1,300.00 ",3,FIFA 19
+Norway,"$1,300.00 ",3,FIFA 19
+Hong Kong,"$1,265.00 ",1,FIFA 19
+New Zealand,"$1,105.00 ",3,FIFA 19
+Thailand,"$1,000.00 ",2,FIFA 19
+Czech Republic,$565.00 ,1,FIFA 19
+Malaysia,$500.00 ,1,FIFA 19
+Ukraine,$500.00 ,1,FIFA 19
+South Africa,$400.00 ,1,FIFA 19
+United States,"$748,374.21 ",258,Counter-Strike: Source
+United Kingdom,"$565,369.74 ",194,Counter-Strike: Source
+Canada,"$323,851.53 ",43,Counter-Strike: Source
+France,"$308,732.88 ",227,Counter-Strike: Source
+Germany,"$248,201.04 ",179,Counter-Strike: Source
+Denmark,"$153,440.39 ",97,Counter-Strike: Source
+Sweden,"$138,113.17 ",53,Counter-Strike: Source
+Finland,"$85,826.83 ",99,Counter-Strike: Source
+Netherlands,"$79,681.61 ",37,Counter-Strike: Source
+Russian Federation,"$57,499.81 ",56,Counter-Strike: Source
+Belgium,"$45,590.25 ",32,Counter-Strike: Source
+Czech Republic,"$37,191.94 ",13,Counter-Strike: Source
+Mexico,"$30,000.00 ",8,Counter-Strike: Source
+Singapore,"$30,000.00 ",5,Counter-Strike: Source
+Slovakia,"$29,981.14 ",5,Counter-Strike: Source
+Norway,"$27,612.07 ",35,Counter-Strike: Source
+Kazakhstan,"$25,000.00 ",5,Counter-Strike: Source
+Australia,"$22,500.00 ",6,Counter-Strike: Source
+Austria,"$20,378.12 ",26,Counter-Strike: Source
+Spain,"$19,553.48 ",11,Counter-Strike: Source
+Switzerland,"$11,483.91 ",16,Counter-Strike: Source
+Brazil,"$7,500.00 ",5,Counter-Strike: Source
+"Korea, Republic of","$7,500.00 ",5,Counter-Strike: Source
+Poland,"$7,411.95 ",7,Counter-Strike: Source
+Hungary,"$6,718.45 ",20,Counter-Strike: Source
+Italy,"$5,606.85 ",21,Counter-Strike: Source
+Turkey,"$4,763.14 ",1,Counter-Strike: Source
+Portugal,"$3,906.21 ",21,Counter-Strike: Source
+Romania,"$3,565.20 ",5,Counter-Strike: Source
+Ireland,"$3,268.05 ",7,Counter-Strike: Source
+Bulgaria,"$2,627.18 ",1,Counter-Strike: Source
+Belarus,$816.24 ,1,Counter-Strike: Source
+South Africa,$477.15 ,1,Counter-Strike: Source
+India,$354.15 ,1,Counter-Strike: Source
+Morocco,$83.25 ,1,Counter-Strike: Source
+United States,"$2,081,425.00 ",73,Gears of War 4
+Philippines,"$224,550.00 ",1,Gears of War 4
+Mexico,"$195,200.00 ",17,Gears of War 4
+United Kingdom,"$143,000.00 ",12,Gears of War 4
+Puerto Rico,"$101,500.00 ",2,Gears of War 4
+Canada,"$31,600.00 ",8,Gears of War 4
+France,"$17,600.00 ",7,Gears of War 4
+Australia,"$4,610.00 ",8,Gears of War 4
+Spain,"$4,400.00 ",6,Gears of War 4
+New Zealand,$500.00 ,1,Gears of War 4
+China,"$741,944.68 ",25,Call of Duty: Mobile
+Philippines,"$360,166.69 ",18,Call of Duty: Mobile
+Mexico,"$212,000.02 ",10,Call of Duty: Mobile
+Japan,"$164,999.98 ",11,Call of Duty: Mobile
+India,"$160,000.08 ",24,Call of Duty: Mobile
+United States,"$157,666.68 ",14,Call of Duty: Mobile
+Singapore,"$147,750.00 ",5,Call of Duty: Mobile
+Brazil,"$120,000.00 ",15,Call of Duty: Mobile
+United Kingdom,"$94,666.67 ",6,Call of Duty: Mobile
+France,"$55,000.00 ",3,Call of Duty: Mobile
+Malaysia,"$51,750.00 ",7,Call of Duty: Mobile
+Indonesia,"$50,000.04 ",7,Call of Duty: Mobile
+"Taiwan, Republic of China","$44,929.32 ",8,Call of Duty: Mobile
+Canada,"$44,000.00 ",2,Call of Duty: Mobile
+Spain,"$41,666.68 ",5,Call of Duty: Mobile
+Ecuador,"$36,000.00 ",1,Call of Duty: Mobile
+Myanmar,"$36,000.00 ",1,Call of Duty: Mobile
+Puerto Rico,"$36,000.00 ",1,Call of Duty: Mobile
+Belgium,"$25,000.00 ",1,Call of Duty: Mobile
+Greece,"$25,000.00 ",1,Call of Duty: Mobile
+Thailand,"$20,499.96 ",12,Call of Duty: Mobile
+Venezuela,"$14,666.67 ",2,Call of Duty: Mobile
+Argentina,"$8,000.00 ",1,Call of Duty: Mobile
+Germany,"$8,000.00 ",1,Call of Duty: Mobile
+Honduras,"$8,000.00 ",1,Call of Duty: Mobile
+Netherlands,"$8,000.00 ",1,Call of Duty: Mobile
+Viet Nam,"$8,000.00 ",1,Call of Duty: Mobile
+Mongolia,"$6,666.67 ",1,Call of Duty: Mobile
+Norway,"$716,742.12 ",3,chess24
+United States,"$553,095.94 ",12,chess24
+Russian Federation,"$491,907.20 ",11,chess24
+Azerbaijan,"$209,381.50 ",3,chess24
+Netherlands,"$197,178.61 ",2,chess24
+Armenia,"$171,589.30 ",1,chess24
+China,"$168,125.15 ",8,chess24
+France,"$92,322.72 ",2,chess24
+"Iran, Islamic Republic of","$77,021.30 ",2,chess24
+India,"$69,500.00 ",9,chess24
+Poland,"$57,300.00 ",1,chess24
+Viet Nam,"$47,474.29 ",1,chess24
+Spain,"$25,975.88 ",3,chess24
+Canada,"$14,250.00 ",1,chess24
+Germany,"$13,941.00 ",5,chess24
+Argentina,"$11,839.30 ",1,chess24
+Ukraine,"$10,920.16 ",2,chess24
+Hungary,"$9,250.00 ",2,chess24
+Czech Republic,"$7,250.00 ",1,chess24
+Israel,"$7,000.00 ",1,chess24
+Sweden,"$7,000.00 ",1,chess24
+Venezuela,"$6,318.63 ",1,chess24
+Uzbekistan,"$5,550.00 ",1,chess24
+United Kingdom,"$5,000.00 ",1,chess24
+United Arab Emirates,"$2,500.00 ",1,chess24
+Kazakhstan,"$1,845.73 ",1,chess24
+Brazil,"$1,818.63 ",2,chess24
+Peru,"$1,591.31 ",3,chess24
+Georgia,$800.00 ,1,chess24
+Bulgaria,$682.00 ,1,chess24
+Paraguay,$454.66 ,1,chess24
+Sweden,"$675,656.09 ",96,Heroes of Newerth
+Thailand,"$411,178.67 ",91,Heroes of Newerth
+United States,"$264,834.94 ",81,Heroes of Newerth
+China,"$248,498.95 ",31,Heroes of Newerth
+Denmark,"$160,561.47 ",31,Heroes of Newerth
+Russian Federation,"$156,925.23 ",262,Heroes of Newerth
+Germany,"$142,474.37 ",21,Heroes of Newerth
+Malaysia,"$36,912.27 ",32,Heroes of Newerth
+Australia,"$34,070.95 ",4,Heroes of Newerth
+Finland,"$26,517.01 ",23,Heroes of Newerth
+Hungary,"$26,378.00 ",1,Heroes of Newerth
+Kazakhstan,"$23,343.77 ",59,Heroes of Newerth
+Canada,"$20,718.77 ",5,Heroes of Newerth
+Israel,"$17,414.90 ",1,Heroes of Newerth
+Bolivia,"$16,740.55 ",1,Heroes of Newerth
+Ukraine,"$13,124.90 ",32,Heroes of Newerth
+Indonesia,"$9,781.69 ",5,Heroes of Newerth
+Norway,"$9,710.47 ",9,Heroes of Newerth
+New Zealand,"$8,529.26 ",1,Heroes of Newerth
+Poland,"$4,098.17 ",1,Heroes of Newerth
+Åland Islands,"$2,737.38 ",15,Heroes of Newerth
+Belarus,"$1,999.08 ",3,Heroes of Newerth
+Belgium,"$1,950.00 ",1,Heroes of Newerth
+Netherlands,"$1,714.80 ",2,Heroes of Newerth
+Greece,"$1,543.29 ",2,Heroes of Newerth
+Austria,"$1,422.17 ",1,Heroes of Newerth
+"Korea, Republic of","$1,200.00 ",2,Heroes of Newerth
+Estonia,$950.00 ,1,Heroes of Newerth
+Spain,$542.00 ,1,Heroes of Newerth
+Bulgaria,$410.00 ,2,Heroes of Newerth
+Costa Rica,$150.00 ,1,Heroes of Newerth
+Slovenia,$140.00 ,1,Heroes of Newerth
+"Moldova, Republic of",$80.00 ,2,Heroes of Newerth
+Romania,$60.00 ,1,Heroes of Newerth
+United States,"$781,957.88 ",139,Quake Champions
+Belarus,"$311,877.52 ",2,Quake Champions
+Sweden,"$239,969.11 ",7,Quake Champions
+Russian Federation,"$231,442.80 ",37,Quake Champions
+Netherlands,"$159,405.00 ",4,Quake Champions
+Ukraine,"$124,263.04 ",1,Quake Champions
+United Kingdom,"$116,708.19 ",11,Quake Champions
+Italy,"$104,507.19 ",5,Quake Champions
+Hungary,"$100,544.56 ",1,Quake Champions
+Poland,"$97,464.04 ",11,Quake Champions
+Canada,"$96,513.52 ",16,Quake Champions
+Germany,"$93,550.59 ",3,Quake Champions
+Austria,"$76,275.00 ",1,Quake Champions
+Australia,"$64,657.51 ",21,Quake Champions
+France,"$43,714.78 ",5,Quake Champions
+Estonia,"$23,950.00 ",1,Quake Champions
+Brazil,"$23,939.83 ",7,Quake Champions
+Argentina,"$16,190.78 ",16,Quake Champions
+Czech Republic,"$13,803.81 ",2,Quake Champions
+Portugal,"$10,375.00 ",3,Quake Champions
+Serbia,"$6,895.00 ",3,Quake Champions
+Denmark,"$4,599.19 ",6,Quake Champions
+Latvia,"$3,235.00 ",1,Quake Champions
+Chile,"$1,461.10 ",9,Quake Champions
+South Africa,"$1,303.70 ",4,Quake Champions
+Mexico,$467.50 ,1,Quake Champions
+Spain,$415.00 ,5,Quake Champions
+Kazakhstan,$395.00 ,1,Quake Champions
+Finland,$240.00 ,5,Quake Champions
+Switzerland,$112.45 ,1,Quake Champions
+Lithuania,$20.00 ,2,Quake Champions
+Germany,"$361,445.00 ",23,Clash of Clans
+China,"$358,999.99 ",30,Clash of Clans
+France,"$302,870.00 ",14,Clash of Clans
+"Korea, Republic of","$241,085.00 ",27,Clash of Clans
+Japan,"$229,450.01 ",21,Clash of Clans
+Spain,"$146,562.50 ",9,Clash of Clans
+Brazil,"$133,826.85 ",10,Clash of Clans
+Finland,"$93,185.00 ",6,Clash of Clans
+United States,"$50,131.00 ",15,Clash of Clans
+Chile,"$36,500.00 ",1,Clash of Clans
+Mexico,"$36,500.00 ",1,Clash of Clans
+Argentina,"$27,687.50 ",3,Clash of Clans
+India,"$24,200.00 ",11,Clash of Clans
+Costa Rica,"$16,500.00 ",1,Clash of Clans
+Malaysia,"$15,000.00 ",2,Clash of Clans
+Czech Republic,"$12,500.00 ",1,Clash of Clans
+Denmark,"$10,000.00 ",5,Clash of Clans
+"Taiwan, Republic of China","$7,500.00 ",1,Clash of Clans
+Norway,"$3,750.00 ",5,Clash of Clans
+Australia,"$2,250.00 ",3,Clash of Clans
+Canada,$750.00 ,1,Clash of Clans
+Italy,$750.00 ,1,Clash of Clans
+Indonesia,"$1,346,488.94 ",68,Mobile Legends: Bang Bang
+Philippines,"$763,480.00 ",51,Mobile Legends: Bang Bang
+Malaysia,"$95,181.11 ",13,Mobile Legends: Bang Bang
+Singapore,"$82,850.00 ",17,Mobile Legends: Bang Bang
+Myanmar,"$79,200.00 ",6,Mobile Legends: Bang Bang
+United States,"$64,000.00 ",4,Mobile Legends: Bang Bang
+Brazil,"$44,250.00 ",13,Mobile Legends: Bang Bang
+Russian Federation,"$21,400.00 ",4,Mobile Legends: Bang Bang
+Cambodia,"$19,250.00 ",10,Mobile Legends: Bang Bang
+Brunei Darussalam,"$17,500.00 ",1,Mobile Legends: Bang Bang
+Turkey,"$15,000.00 ",5,Mobile Legends: Bang Bang
+Japan,"$13,600.00 ",9,Mobile Legends: Bang Bang
+Ukraine,"$12,850.00 ",2,Mobile Legends: Bang Bang
+Peru,"$10,000.00 ",5,Mobile Legends: Bang Bang
+Saudi Arabia,"$10,000.00 ",5,Mobile Legends: Bang Bang
+United States,"$2,072,853.35 ",247,Call of Duty: Advanced Warfare
+United Kingdom,"$165,776.74 ",159,Call of Duty: Advanced Warfare
+Canada,"$98,465.30 ",12,Call of Duty: Advanced Warfare
+Australia,"$78,187.84 ",37,Call of Duty: Advanced Warfare
+France,"$36,154.35 ",60,Call of Duty: Advanced Warfare
+Saudi Arabia,"$35,632.25 ",1,Call of Duty: Advanced Warfare
+Spain,"$21,495.64 ",56,Call of Duty: Advanced Warfare
+Ireland,"$13,276.90 ",10,Call of Duty: Advanced Warfare
+South Africa,"$9,516.34 ",50,Call of Duty: Advanced Warfare
+Belgium,"$8,526.28 ",12,Call of Duty: Advanced Warfare
+Finland,"$4,971.36 ",6,Call of Duty: Advanced Warfare
+Brazil,"$4,500.00 ",12,Call of Duty: Advanced Warfare
+Germany,"$3,698.99 ",68,Call of Duty: Advanced Warfare
+Sweden,"$3,229.26 ",6,Call of Duty: Advanced Warfare
+New Zealand,"$2,958.16 ",6,Call of Duty: Advanced Warfare
+Bulgaria,"$1,782.94 ",2,Call of Duty: Advanced Warfare
+Netherlands,"$1,609.49 ",6,Call of Duty: Advanced Warfare
+Norway,$827.91 ,6,Call of Duty: Advanced Warfare
+Singapore,$679.63 ,7,Call of Duty: Advanced Warfare
+Switzerland,$678.51 ,2,Call of Duty: Advanced Warfare
+Denmark,$657.19 ,4,Call of Duty: Advanced Warfare
+Italy,$404.29 ,9,Call of Duty: Advanced Warfare
+Austria,$163.98 ,3,Call of Duty: Advanced Warfare
+"Korea, Republic of",$97.09 ,1,Call of Duty: Advanced Warfare
+Liechtenstein,$28.47 ,1,Call of Duty: Advanced Warfare
+United Kingdom,"$453,113.28 ",34,FIFA 20
+Germany,"$363,740.14 ",42,FIFA 20
+Brazil,"$304,318.52 ",24,FIFA 20
+Sweden,"$169,741.39 ",26,FIFA 20
+Spain,"$154,769.00 ",22,FIFA 20
+Denmark,"$140,820.87 ",37,FIFA 20
+France,"$132,908.34 ",19,FIFA 20
+United States,"$119,698.57 ",15,FIFA 20
+Italy,"$99,178.90 ",12,FIFA 20
+Netherlands,"$85,934.91 ",26,FIFA 20
+Saudi Arabia,"$84,080.63 ",8,FIFA 20
+Mexico,"$48,104.53 ",5,FIFA 20
+Poland,"$41,084.95 ",6,FIFA 20
+Australia,"$39,954.06 ",13,FIFA 20
+Argentina,"$39,211.00 ",2,FIFA 20
+Japan,"$28,357.97 ",7,FIFA 20
+Turkey,"$28,289.52 ",3,FIFA 20
+Austria,"$16,176.15 ",6,FIFA 20
+Belgium,"$16,080.00 ",2,FIFA 20
+Portugal,"$16,048.00 ",4,FIFA 20
+Colombia,"$10,974.62 ",5,FIFA 20
+Egypt,"$10,014.00 ",6,FIFA 20
+Indonesia,"$8,787.00 ",1,FIFA 20
+Singapore,"$8,748.68 ",4,FIFA 20
+Canada,"$8,245.00 ",6,FIFA 20
+Hungary,"$8,111.52 ",1,FIFA 20
+Malta,"$7,920.82 ",18,FIFA 20
+South Africa,"$6,816.53 ",1,FIFA 20
+Czech Republic,"$6,600.26 ",8,FIFA 20
+Croatia,"$6,407.39 ",1,FIFA 20
+Norway,"$5,534.00 ",3,FIFA 20
+Israel,"$4,787.00 ",1,FIFA 20
+Bulgaria,"$2,271.54 ",1,FIFA 20
+Finland,"$1,000.00 ",1,FIFA 20
+Ireland,$500.00 ,1,FIFA 20
+Japan,"$614,083.34 ",8,Brawl Stars
+Brazil,"$281,958.34 ",27,Brawl Stars
+Singapore,"$175,833.35 ",12,Brawl Stars
+Spain,"$145,266.64 ",16,Brawl Stars
+China,"$137,499.96 ",25,Brawl Stars
+United Kingdom,"$130,083.33 ",5,Brawl Stars
+France,"$120,508.33 ",16,Brawl Stars
+United States,"$116,833.31 ",17,Brawl Stars
+Russian Federation,"$113,125.02 ",13,Brawl Stars
+Italy,"$84,583.34 ",8,Brawl Stars
+Canada,"$58,999.99 ",7,Brawl Stars
+Austria,"$56,595.83 ",1,Brawl Stars
+Ukraine,"$54,916.69 ",7,Brawl Stars
+"Moldova, Republic of","$50,625.00 ",1,Brawl Stars
+Puerto Rico,"$50,558.33 ",3,Brawl Stars
+Denmark,"$48,887.51 ",1,Brawl Stars
+"Korea, Republic of","$36,833.32 ",4,Brawl Stars
+Norway,"$28,416.67 ",1,Brawl Stars
+Germany,"$20,749.98 ",5,Brawl Stars
+Hong Kong,"$12,500.01 ",3,Brawl Stars
+Malaysia,"$9,166.67 ",6,Brawl Stars
+Switzerland,"$4,891.66 ",2,Brawl Stars
+India,"$2,500.01 ",7,Brawl Stars
+Mexico,"$1,625.00 ",3,Brawl Stars
+Argentina,$658.33 ,4,Brawl Stars
+Chile,$620.83 ,2,Brawl Stars
+Costa Rica,$600.00 ,2,Brawl Stars
+Czech Republic,$333.34 ,2,Brawl Stars
+Guatemala,$333.33 ,1,Brawl Stars
+Netherlands,$333.33 ,1,Brawl Stars
+Honduras,$300.00 ,3,Brawl Stars
+Philippines,$250.00 ,1,Brawl Stars
+Venezuela,$37.50 ,1,Brawl Stars
+United States,"$1,065,418.61 ",347,Brawlhalla
+Brazil,"$236,307.93 ",120,Brawlhalla
+Germany,"$200,531.67 ",34,Brawlhalla
+Sweden,"$157,533.35 ",42,Brawlhalla
+Australia,"$118,963.45 ",92,Brawlhalla
+Canada,"$118,253.49 ",29,Brawlhalla
+France,"$83,410.00 ",18,Brawlhalla
+United Kingdom,"$58,659.56 ",39,Brawlhalla
+Singapore,"$56,355.00 ",31,Brawlhalla
+Netherlands,"$54,348.25 ",18,Brawlhalla
+Finland,"$49,135.05 ",3,Brawlhalla
+Bulgaria,"$47,574.00 ",3,Brawlhalla
+Denmark,"$41,733.81 ",6,Brawlhalla
+Argentina,"$38,671.17 ",17,Brawlhalla
+Italy,"$36,899.17 ",7,Brawlhalla
+Indonesia,"$30,477.50 ",31,Brawlhalla
+Norway,"$28,562.15 ",7,Brawlhalla
+Russian Federation,"$15,267.17 ",9,Brawlhalla
+Malaysia,"$12,505.00 ",10,Brawlhalla
+Chile,"$8,940.00 ",4,Brawlhalla
+Spain,"$8,530.00 ",12,Brawlhalla
+Bangladesh,"$8,165.00 ",1,Brawlhalla
+Hong Kong,"$3,737.50 ",5,Brawlhalla
+Portugal,"$3,665.00 ",4,Brawlhalla
+Hungary,"$3,511.60 ",5,Brawlhalla
+Japan,"$3,290.00 ",8,Brawlhalla
+Thailand,"$3,005.00 ",7,Brawlhalla
+Jordan,"$2,330.00 ",1,Brawlhalla
+Israel,"$1,870.67 ",5,Brawlhalla
+India,"$1,865.00 ",1,Brawlhalla
+Morocco,"$1,843.01 ",1,Brawlhalla
+New Zealand,"$1,552.25 ",6,Brawlhalla
+Poland,"$1,440.00 ",1,Brawlhalla
+Belgium,"$1,175.00 ",3,Brawlhalla
+Georgia,"$1,040.00 ",1,Brawlhalla
+Malta,$865.19 ,1,Brawlhalla
+Ireland,$750.00 ,3,Brawlhalla
+Czech Republic,$735.00 ,3,Brawlhalla
+--UNDEFINED--,$630.00 ,3,Brawlhalla
+Peru,$550.00 ,1,Brawlhalla
+Slovakia,$522.50 ,1,Brawlhalla
+Turkey,$515.00 ,2,Brawlhalla
+"Taiwan, Republic of China",$410.00 ,1,Brawlhalla
+Egypt,$400.00 ,1,Brawlhalla
+Mexico,$290.00 ,2,Brawlhalla
+Saudi Arabia,$250.00 ,1,Brawlhalla
+Philippines,$245.00 ,3,Brawlhalla
+"Korea, Republic of",$220.00 ,2,Brawlhalla
+Venezuela,$220.00 ,5,Brawlhalla
+Serbia,$177.14 ,1,Brawlhalla
+Albania,$150.00 ,1,Brawlhalla
+Uruguay,$60.00 ,1,Brawlhalla
+Viet Nam,$50.00 ,3,Brawlhalla
+"Kosovo, Republic of",$50.00 ,1,Brawlhalla
+Colombia,$40.00 ,2,Brawlhalla
+United States Minor Outlying Islands,$30.00 ,1,Brawlhalla
+Macao,$25.00 ,1,Brawlhalla
+Maldives,$20.00 ,1,Brawlhalla
+Romania,$10.00 ,1,Brawlhalla
+United States,"$650,310.56 ",93,Paladins
+Finland,"$199,842.45 ",7,Paladins
+Brazil,"$192,643.79 ",55,Paladins
+Netherlands,"$158,455.39 ",7,Paladins
+Australia,"$154,049.92 ",24,Paladins
+Poland,"$124,189.55 ",34,Paladins
+Bulgaria,"$108,294.38 ",5,Paladins
+Sweden,"$100,819.53 ",8,Paladins
+Russian Federation,"$79,074.93 ",110,Paladins
+United Kingdom,"$58,901.10 ",17,Paladins
+Argentina,"$56,233.40 ",18,Paladins
+Denmark,"$55,813.87 ",3,Paladins
+Norway,"$53,930.02 ",4,Paladins
+China,"$50,000.00 ",12,Paladins
+Estonia,"$47,617.91 ",2,Paladins
+France,"$45,780.26 ",41,Paladins
+"Korea, Republic of","$43,216.67 ",3,Paladins
+Canada,"$40,363.27 ",14,Paladins
+Italy,"$24,415.47 ",9,Paladins
+Belgium,"$21,400.00 ",4,Paladins
+Germany,"$18,126.66 ",11,Paladins
+Portugal,"$17,652.12 ",3,Paladins
+Peru,"$16,866.60 ",12,Paladins
+Croatia,"$12,916.67 ",3,Paladins
+Israel,"$11,430.79 ",2,Paladins
+Uruguay,"$11,133.33 ",2,Paladins
+Ukraine,"$7,730.82 ",7,Paladins
+Indonesia,"$6,800.01 ",18,Paladins
+Czech Republic,"$5,700.00 ",5,Paladins
+Japan,"$5,000.00 ",1,Paladins
+Serbia,"$2,600.00 ",2,Paladins
+Spain,"$2,288.33 ",10,Paladins
+Chile,"$2,000.00 ",3,Paladins
+Ireland,"$1,970.35 ",2,Paladins
+Philippines,"$1,750.00 ",3,Paladins
+Switzerland,"$1,718.40 ",1,Paladins
+Romania,"$1,215.98 ",3,Paladins
+Singapore,"$1,100.00 ",1,Paladins
+Colombia,$800.00 ,5,Paladins
+Malaysia,$733.34 ,4,Paladins
+Latvia,$650.00 ,1,Paladins
+Austria,$600.00 ,1,Paladins
+Egypt,$450.00 ,2,Paladins
+Venezuela,$400.00 ,2,Paladins
+Kazakhstan,$293.33 ,2,Paladins
+Belarus,$281.67 ,2,Paladins
+--UNDEFINED--,$250.00 ,1,Paladins
+Azerbaijan,$200.00 ,1,Paladins
+Guatemala,$200.00 ,1,Paladins
+Bangladesh,$100.00 ,1,Paladins
+Hungary,$100.00 ,1,Paladins
+India,$100.00 ,1,Paladins
+Lithuania,$100.00 ,1,Paladins
+"Moldova, Republic of",$100.00 ,1,Paladins
+Turkey,$100.00 ,1,Paladins
+United States,"$912,311.51 ",424,iRacing.com
+United Kingdom,"$294,255.46 ",117,iRacing.com
+Australia,"$262,956.52 ",31,iRacing.com
+Germany,"$253,326.79 ",173,iRacing.com
+Canada,"$198,922.66 ",30,iRacing.com
+Finland,"$147,091.84 ",35,iRacing.com
+Spain,"$67,918.44 ",91,iRacing.com
+Cuba,"$65,529.00 ",1,iRacing.com
+France,"$52,116.63 ",60,iRacing.com
+Netherlands,"$41,438.71 ",71,iRacing.com
+Norway,"$31,203.32 ",7,iRacing.com
+Portugal,"$27,255.66 ",14,iRacing.com
+Denmark,"$26,889.72 ",42,iRacing.com
+Brazil,"$25,828.33 ",11,iRacing.com
+Italy,"$20,119.01 ",41,iRacing.com
+Turkey,"$9,843.25 ",4,iRacing.com
+Austria,"$7,077.59 ",19,iRacing.com
+Russian Federation,"$4,491.13 ",9,iRacing.com
+Slovakia,"$3,886.00 ",3,iRacing.com
+Estonia,"$3,000.00 ",1,iRacing.com
+Argentina,"$2,874.51 ",5,iRacing.com
+Sweden,"$2,494.63 ",21,iRacing.com
+Poland,"$2,254.91 ",18,iRacing.com
+Hungary,"$2,058.98 ",12,iRacing.com
+Ireland,"$1,900.00 ",4,iRacing.com
+Singapore,"$1,518.33 ",1,iRacing.com
+Belgium,"$1,407.48 ",17,iRacing.com
+Lithuania,"$1,358.88 ",3,iRacing.com
+India,"$1,210.83 ",1,iRacing.com
+South Africa,"$1,147.50 ",2,iRacing.com
+Japan,"$1,042.65 ",6,iRacing.com
+Bulgaria,"$1,000.00 ",1,iRacing.com
+Greece,$915.00 ,3,iRacing.com
+Switzerland,$880.37 ,14,iRacing.com
+New Zealand,$537.00 ,3,iRacing.com
+Isle of Man,$485.00 ,1,iRacing.com
+Czech Republic,$356.83 ,2,iRacing.com
+North Macedonia,$143.78 ,1,iRacing.com
+Mexico,$115.00 ,1,iRacing.com
+Luxembourg,$109.48 ,3,iRacing.com
+Slovenia,$63.51 ,1,iRacing.com
+Chile,$60.00 ,2,iRacing.com
+Croatia,$44.86 ,3,iRacing.com
+Romania,$28.87 ,3,iRacing.com
+Dominican Republic,$28.57 ,1,iRacing.com
+Kazakhstan,$25.00 ,1,iRacing.com
+Serbia,$11.25 ,1,iRacing.com
+Puerto Rico,$5.82 ,1,iRacing.com
+Norway,"$277,535.61 ",35,Age of Empires II
+China,"$265,123.81 ",154,Age of Empires II
+Canada,"$182,467.14 ",43,Age of Empires II
+"Korea, Republic of","$151,951.41 ",16,Age of Empires II
+Brazil,"$150,259.43 ",79,Age of Empires II
+Austria,"$123,353.15 ",20,Age of Empires II
+Serbia,"$115,224.98 ",5,Age of Empires II
+Germany,"$106,952.22 ",158,Age of Empires II
+Spain,"$98,733.47 ",62,Age of Empires II
+Viet Nam,"$96,893.35 ",56,Age of Empires II
+Finland,"$93,685.11 ",27,Age of Empires II
+Argentina,"$81,798.70 ",77,Age of Empires II
+"Taiwan, Republic of China","$77,704.16 ",61,Age of Empires II
+United States,"$62,436.33 ",138,Age of Empires II
+Japan,"$50,259.69 ",55,Age of Empires II
+Russian Federation,"$48,298.10 ",90,Age of Empires II
+France,"$42,634.94 ",131,Age of Empires II
+Hong Kong,"$34,611.83 ",29,Age of Empires II
+United Kingdom,"$31,853.92 ",62,Age of Empires II
+Poland,"$21,458.00 ",53,Age of Empires II
+Italy,"$15,034.10 ",38,Age of Empires II
+Netherlands,"$14,668.90 ",41,Age of Empires II
+Sweden,"$13,617.26 ",33,Age of Empires II
+Turkey,"$13,160.11 ",41,Age of Empires II
+Greece,"$11,400.83 ",5,Age of Empires II
+Kazakhstan,"$11,280.00 ",16,Age of Empires II
+Czech Republic,"$11,053.90 ",30,Age of Empires II
+India,"$9,053.35 ",65,Age of Empires II
+Australia,"$9,012.14 ",44,Age of Empires II
+Belgium,"$8,594.40 ",13,Age of Empires II
+Denmark,"$6,690.72 ",12,Age of Empires II
+Peru,"$6,539.31 ",6,Age of Empires II
+Chile,"$6,221.58 ",28,Age of Empires II
+Bulgaria,"$5,865.12 ",3,Age of Empires II
+Slovenia,"$5,796.03 ",8,Age of Empires II
+Mexico,"$5,374.68 ",62,Age of Empires II
+Israel,"$5,149.89 ",7,Age of Empires II
+Ireland,"$4,977.92 ",9,Age of Empires II
+Ukraine,"$4,258.42 ",12,Age of Empires II
+Belarus,"$3,310.88 ",4,Age of Empires II
+Switzerland,"$2,349.85 ",22,Age of Empires II
+Lithuania,"$2,221.43 ",3,Age of Empires II
+Portugal,"$1,778.17 ",7,Age of Empires II
+New Zealand,"$1,419.46 ",5,Age of Empires II
+Latvia,"$1,352.84 ",3,Age of Empires II
+Pakistan,$664.88 ,9,Age of Empires II
+Hungary,$646.70 ,7,Age of Empires II
+Bosnia and Herzegovina,$627.71 ,10,Age of Empires II
+Colombia,$574.66 ,5,Age of Empires II
+Romania,$549.61 ,14,Age of Empires II
+Algeria,$525.00 ,1,Age of Empires II
+Singapore,$500.00 ,1,Age of Empires II
+Malta,$453.33 ,1,Age of Empires II
+Estonia,$451.00 ,2,Age of Empires II
+Slovakia,$336.00 ,3,Age of Empires II
+"Iran, Islamic Republic of",$312.50 ,1,Age of Empires II
+--UNDEFINED--,$299.87 ,8,Age of Empires II
+Croatia,$280.00 ,7,Age of Empires II
+Uruguay,$275.25 ,7,Age of Empires II
+Åland Islands,$250.00 ,1,Age of Empires II
+South Africa,$226.04 ,9,Age of Empires II
+Sri Lanka,$210.00 ,1,Age of Empires II
+Malaysia,$177.60 ,1,Age of Empires II
+Bahrain,$125.00 ,2,Age of Empires II
+Albania,$100.00 ,1,Age of Empires II
+United Arab Emirates,$62.50 ,1,Age of Empires II
+Bolivia,$50.00 ,1,Age of Empires II
+Luxembourg,$41.59 ,1,Age of Empires II
+Paraguay,$27.00 ,2,Age of Empires II
+Morocco,$25.59 ,1,Age of Empires II
+Lebanon,$23.50 ,1,Age of Empires II
+Macao,$20.00 ,1,Age of Empires II
+Montenegro,$17.50 ,1,Age of Empires II
+Venezuela,$0.00 ,2,Age of Empires II
+United States,"$2,153,437.10 ",137,Halo 3
+Canada,"$71,450.00 ",7,Halo 3
+United Kingdom,"$38,947.85 ",47,Halo 3
+France,"$20,156.84 ",8,Halo 3
+Sweden,"$5,414.78 ",4,Halo 3
+Netherlands,"$2,897.90 ",9,Halo 3
+Italy,"$1,500.00 ",1,Halo 3
+Finland,"$1,097.76 ",4,Halo 3
+Ireland,"$1,000.00 ",1,Halo 3
+Belgium,$470.46 ,2,Halo 3
+Norway,$457.92 ,1,Halo 3
+Switzerland,$196.02 ,1,Halo 3
+Japan,"$1,155,771.05 ",37,Street Fighter V: Arcade Edition
+United States,"$569,431.05 ",94,Street Fighter V: Arcade Edition
+United Kingdom,"$117,832.48 ",14,Street Fighter V: Arcade Edition
+France,"$81,460.13 ",25,Street Fighter V: Arcade Edition
+United Arab Emirates,"$62,022.76 ",2,Street Fighter V: Arcade Edition
+Norway,"$50,886.93 ",3,Street Fighter V: Arcade Edition
+"Korea, Republic of","$50,827.97 ",4,Street Fighter V: Arcade Edition
+"Taiwan, Republic of China","$34,757.40 ",5,Street Fighter V: Arcade Edition
+Singapore,"$23,599.00 ",2,Street Fighter V: Arcade Edition
+Dominican Republic,"$20,998.30 ",7,Street Fighter V: Arcade Edition
+Sweden,"$15,660.32 ",3,Street Fighter V: Arcade Edition
+China,"$14,815.63 ",5,Street Fighter V: Arcade Edition
+Brazil,"$14,065.03 ",18,Street Fighter V: Arcade Edition
+Netherlands,"$11,372.46 ",1,Street Fighter V: Arcade Edition
+Ireland,"$8,165.83 ",3,Street Fighter V: Arcade Edition
+Pakistan,"$4,876.33 ",4,Street Fighter V: Arcade Edition
+Canada,"$4,150.95 ",17,Street Fighter V: Arcade Edition
+Belgium,"$3,863.24 ",1,Street Fighter V: Arcade Edition
+Peru,"$3,250.00 ",1,Street Fighter V: Arcade Edition
+Panama,"$2,500.00 ",1,Street Fighter V: Arcade Edition
+Hong Kong,"$2,284.00 ",3,Street Fighter V: Arcade Edition
+Spain,$794.51 ,3,Street Fighter V: Arcade Edition
+Malaysia,$750.00 ,1,Street Fighter V: Arcade Edition
+Russian Federation,$750.00 ,1,Street Fighter V: Arcade Edition
+Mexico,$500.00 ,1,Street Fighter V: Arcade Edition
+Puerto Rico,$500.00 ,1,Street Fighter V: Arcade Edition
+Chile,$265.25 ,1,Street Fighter V: Arcade Edition
+Colombia,$225.00 ,1,Street Fighter V: Arcade Edition
+Côte D'Ivoire,$71.90 ,1,Street Fighter V: Arcade Edition
+Australia,$37.50 ,2,Street Fighter V: Arcade Edition
+United States,"$857,233.49 ",184,Chess.com
+Russian Federation,"$309,352.48 ",115,Chess.com
+India,"$142,446.00 ",74,Chess.com
+China,"$138,076.17 ",15,Chess.com
+France,"$69,871.83 ",18,Chess.com
+Armenia,"$64,251.32 ",20,Chess.com
+Ukraine,"$61,549.53 ",38,Chess.com
+Netherlands,"$58,568.24 ",13,Chess.com
+"Iran, Islamic Republic of","$51,105.50 ",14,Chess.com
+Canada,"$47,345.79 ",27,Chess.com
+United Kingdom,"$46,255.45 ",19,Chess.com
+Poland,"$43,435.69 ",23,Chess.com
+Norway,"$39,855.00 ",10,Chess.com
+Viet Nam,"$29,360.47 ",8,Chess.com
+Peru,"$28,606.44 ",8,Chess.com
+Azerbaijan,"$27,788.21 ",27,Chess.com
+Georgia,"$23,967.65 ",12,Chess.com
+Spain,"$21,714.52 ",23,Chess.com
+Germany,"$20,020.72 ",20,Chess.com
+Uzbekistan,"$16,658.84 ",9,Chess.com
+Sweden,"$15,029.50 ",10,Chess.com
+Kazakhstan,"$14,930.31 ",10,Chess.com
+Hungary,"$14,335.70 ",7,Chess.com
+Argentina,"$9,912.88 ",5,Chess.com
+Italy,"$7,966.41 ",16,Chess.com
+Belarus,"$7,739.42 ",6,Chess.com
+Greece,"$7,642.45 ",6,Chess.com
+Denmark,"$7,324.75 ",4,Chess.com
+Ireland,"$6,846.23 ",5,Chess.com
+Brazil,"$6,343.68 ",7,Chess.com
+Egypt,"$5,652.72 ",3,Chess.com
+Turkey,"$4,962.21 ",18,Chess.com
+Monaco,"$4,937.50 ",1,Chess.com
+Morocco,"$4,000.00 ",1,Chess.com
+Serbia,"$3,710.97 ",9,Chess.com
+Bulgaria,"$3,328.66 ",7,Chess.com
+Croatia,"$3,131.27 ",7,Chess.com
+Israel,"$2,499.46 ",6,Chess.com
+Romania,"$2,466.16 ",5,Chess.com
+Australia,"$2,362.29 ",2,Chess.com
+Iceland,"$2,000.00 ",1,Chess.com
+Latvia,"$1,928.92 ",6,Chess.com
+Lithuania,"$1,764.29 ",3,Chess.com
+United Arab Emirates,"$1,761.11 ",1,Chess.com
+Czech Republic,"$1,678.26 ",6,Chess.com
+Cuba,"$1,275.66 ",3,Chess.com
+Venezuela,"$1,174.93 ",3,Chess.com
+Mongolia,$900.00 ,1,Chess.com
+Chile,$815.82 ,3,Chess.com
+Japan,$800.00 ,1,Chess.com
+Ecuador,$754.17 ,3,Chess.com
+Slovakia,$675.55 ,3,Chess.com
+Andorra,$575.00 ,1,Chess.com
+Philippines,$500.33 ,5,Chess.com
+Sri Lanka,$500.00 ,1,Chess.com
+New Zealand,$500.00 ,1,Chess.com
+Colombia,$468.05 ,2,Chess.com
+Paraguay,$416.49 ,2,Chess.com
+Indonesia,$400.00 ,2,Chess.com
+Slovenia,$245.22 ,2,Chess.com
+Malaysia,$216.43 ,1,Chess.com
+Estonia,$199.00 ,2,Chess.com
+"Moldova, Republic of",$149.00 ,2,Chess.com
+Montenegro,$136.00 ,2,Chess.com
+Dominican Republic,$100.00 ,1,Chess.com
+South Africa,$100.00 ,1,Chess.com
+Finland,$99.00 ,1,Chess.com
+Jamaica,$75.75 ,1,Chess.com
+Mexico,$74.75 ,2,Chess.com
+North Macedonia,$62.50 ,1,Chess.com
+Hong Kong,$57.21 ,2,Chess.com
+Bangladesh,$50.00 ,1,Chess.com
+Switzerland,$25.00 ,1,Chess.com
+Brazil,"$242,500.00 ",24,FIFA 21
+Denmark,"$233,750.00 ",13,FIFA 21
+Germany,"$211,450.00 ",26,FIFA 21
+France,"$167,608.98 ",9,FIFA 21
+Sweden,"$148,998.60 ",10,FIFA 21
+Italy,"$134,794.91 ",14,FIFA 21
+United Kingdom,"$125,713.76 ",18,FIFA 21
+Spain,"$120,750.00 ",10,FIFA 21
+Netherlands,"$117,000.00 ",4,FIFA 21
+Saudi Arabia,"$106,750.00 ",15,FIFA 21
+Mexico,"$105,750.00 ",13,FIFA 21
+Australia,"$69,000.00 ",12,FIFA 21
+Argentina,"$63,500.00 ",5,FIFA 21
+United States,"$56,000.00 ",16,FIFA 21
+Japan,"$41,250.00 ",5,FIFA 21
+Senegal,"$40,000.00 ",1,FIFA 21
+Canada,"$23,000.00 ",4,FIFA 21
+South Africa,"$21,000.00 ",2,FIFA 21
+Malaysia,"$16,750.00 ",5,FIFA 21
+Russian Federation,"$14,250.00 ",6,FIFA 21
+Israel,"$14,000.00 ",2,FIFA 21
+Turkey,"$13,000.00 ",2,FIFA 21
+Colombia,"$12,750.00 ",2,FIFA 21
+Portugal,"$11,500.00 ",2,FIFA 21
+Indonesia,"$10,000.00 ",1,FIFA 21
+Peru,"$10,000.00 ",2,FIFA 21
+Singapore,"$7,500.00 ",1,FIFA 21
+Romania,"$6,500.00 ",1,FIFA 21
+Malta,"$4,993.28 ",10,FIFA 21
+Belgium,"$4,000.00 ",2,FIFA 21
+Switzerland,"$4,000.00 ",1,FIFA 21
+Poland,"$2,500.00 ",2,FIFA 21
+Kuwait,"$2,250.00 ",1,FIFA 21
+Finland,"$1,500.00 ",1,FIFA 21
+Norway,"$1,500.00 ",1,FIFA 21
+Uruguay,"$1,500.00 ",1,FIFA 21
+United Arab Emirates,"$1,000.00 ",1,FIFA 21
+India,"$1,000.00 ",1,FIFA 21
+Bulgaria,$625.00 ,1,FIFA 21
+Egypt,$500.00 ,1,FIFA 21
+Croatia,$200.00 ,1,FIFA 21
+Saudi Arabia,"$525,250.00 ",8,FIFA 18
+Germany,"$393,627.44 ",39,FIFA 18
+France,"$176,844.72 ",18,FIFA 18
+United Kingdom,"$149,790.43 ",23,FIFA 18
+South Africa,"$109,110.00 ",10,FIFA 18
+Denmark,"$87,102.11 ",10,FIFA 18
+Poland,"$73,269.57 ",11,FIFA 18
+Belgium,"$70,000.00 ",2,FIFA 18
+Argentina,"$69,000.00 ",3,FIFA 18
+Hungary,"$65,213.81 ",4,FIFA 18
+Brazil,"$57,000.00 ",15,FIFA 18
+United States,"$48,750.00 ",10,FIFA 18
+Netherlands,"$46,441.76 ",8,FIFA 18
+Sweden,"$40,830.48 ",4,FIFA 18
+Malta,"$38,778.70 ",7,FIFA 18
+Spain,"$30,571.31 ",10,FIFA 18
+Australia,"$29,250.00 ",6,FIFA 18
+Canada,"$25,750.00 ",3,FIFA 18
+Italy,"$19,500.00 ",7,FIFA 18
+Ireland,"$18,904.88 ",1,FIFA 18
+Mexico,"$18,000.00 ",4,FIFA 18
+Japan,"$16,500.00 ",3,FIFA 18
+Czech Republic,"$15,755.71 ",6,FIFA 18
+Austria,"$14,576.97 ",3,FIFA 18
+Colombia,"$10,000.00 ",1,FIFA 18
+Finland,"$6,112.80 ",1,FIFA 18
+Russian Federation,"$6,000.00 ",4,FIFA 18
+Indonesia,"$5,000.00 ",2,FIFA 18
+Slovakia,"$4,325.10 ",2,FIFA 18
+China,"$3,500.00 ",2,FIFA 18
+Hong Kong,"$3,500.00 ",4,FIFA 18
+Ukraine,"$3,000.00 ",1,FIFA 18
+Bulgaria,"$2,500.00 ",1,FIFA 18
+Singapore,"$2,000.00 ",2,FIFA 18
+Thailand,"$2,000.00 ",2,FIFA 18
+Turkey,"$2,000.00 ",2,FIFA 18
+Uzbekistan,"$2,000.00 ",1,FIFA 18
+"Korea, Republic of","$1,500.00 ",2,FIFA 18
+Georgia,$500.00 ,1,FIFA 18
+Malaysia,$500.00 ,1,FIFA 18
+Mauritius,$344.33 ,1,FIFA 18
+Switzerland,$242.61 ,1,FIFA 18
+United States,"$742,397.56 ",101,Street Fighter V
+Japan,"$676,080.40 ",34,Street Fighter V
+Dominican Republic,"$268,210.20 ",4,Street Fighter V
+"Korea, Republic of","$99,147.70 ",5,Street Fighter V
+United Kingdom,"$84,454.55 ",24,Street Fighter V
+Norway,"$66,611.36 ",2,Street Fighter V
+China,"$64,046.39 ",9,Street Fighter V
+France,"$37,778.19 ",17,Street Fighter V
+Canada,"$31,665.58 ",9,Street Fighter V
+"Taiwan, Republic of China","$31,554.94 ",6,Street Fighter V
+Brazil,"$24,373.53 ",7,Street Fighter V
+Singapore,"$20,176.64 ",1,Street Fighter V
+Puerto Rico,"$14,046.62 ",2,Street Fighter V
+Hong Kong,"$13,127.58 ",9,Street Fighter V
+Belgium,"$8,835.72 ",2,Street Fighter V
+Sweden,"$7,016.01 ",7,Street Fighter V
+United Arab Emirates,"$6,326.72 ",2,Street Fighter V
+Ireland,"$4,921.63 ",1,Street Fighter V
+Panama,"$4,500.00 ",1,Street Fighter V
+Chile,"$2,827.21 ",3,Street Fighter V
+Russian Federation,"$1,500.00 ",1,Street Fighter V
+Spain,"$1,295.10 ",1,Street Fighter V
+Netherlands,"$1,012.32 ",3,Street Fighter V
+Viet Nam,"$1,000.00 ",1,Street Fighter V
+Malaysia,$750.00 ,1,Street Fighter V
+Mexico,$559.00 ,1,Street Fighter V
+Thailand,$85.38 ,3,Street Fighter V
+Denmark,$70.80 ,1,Street Fighter V
+Australia,$60.00 ,1,Street Fighter V
+Colombia,$46.32 ,1,Street Fighter V
+United States,"$1,255,333.44 ",100,H1Z1
+United Kingdom,"$165,362.20 ",6,H1Z1
+"Korea, Republic of","$68,000.00 ",6,H1Z1
+Poland,"$45,000.00 ",1,H1Z1
+Norway,"$41,000.00 ",3,H1Z1
+Czech Republic,"$40,086.60 ",1,H1Z1
+France,"$37,000.00 ",8,H1Z1
+Sweden,"$36,089.76 ",5,H1Z1
+Finland,"$22,000.00 ",3,H1Z1
+Turkey,"$20,000.00 ",1,H1Z1
+Canada,"$12,650.00 ",2,H1Z1
+Germany,"$12,000.00 ",1,H1Z1
+Belgium,"$5,000.00 ",1,H1Z1
+United States,"$1,091,135.74 ",1352,Super Smash Bros. Ultimate
+Mexico,"$302,350.13 ",89,Super Smash Bros. Ultimate
+France,"$182,788.27 ",187,Super Smash Bros. Ultimate
+Canada,"$86,372.10 ",219,Super Smash Bros. Ultimate
+Japan,"$67,862.58 ",29,Super Smash Bros. Ultimate
+Germany,"$54,991.25 ",138,Super Smash Bros. Ultimate
+United Kingdom,"$54,006.73 ",146,Super Smash Bros. Ultimate
+Netherlands,"$34,885.94 ",71,Super Smash Bros. Ultimate
+Dominican Republic,"$27,858.66 ",13,Super Smash Bros. Ultimate
+Spain,"$24,137.75 ",86,Super Smash Bros. Ultimate
+Austria,"$13,928.39 ",23,Super Smash Bros. Ultimate
+Italy,"$8,067.21 ",69,Super Smash Bros. Ultimate
+India,"$8,056.37 ",23,Super Smash Bros. Ultimate
+Sweden,"$7,941.21 ",21,Super Smash Bros. Ultimate
+Switzerland,"$6,669.69 ",19,Super Smash Bros. Ultimate
+Australia,"$6,226.93 ",31,Super Smash Bros. Ultimate
+Finland,"$5,206.08 ",26,Super Smash Bros. Ultimate
+Ecuador,"$5,088.13 ",8,Super Smash Bros. Ultimate
+Belgium,"$4,895.89 ",21,Super Smash Bros. Ultimate
+Chile,"$4,705.11 ",37,Super Smash Bros. Ultimate
+China,"$4,160.71 ",12,Super Smash Bros. Ultimate
+New Zealand,"$3,819.20 ",3,Super Smash Bros. Ultimate
+Norway,"$3,485.46 ",22,Super Smash Bros. Ultimate
+Qatar,"$3,317.54 ",4,Super Smash Bros. Ultimate
+Brazil,"$3,206.57 ",28,Super Smash Bros. Ultimate
+Saudi Arabia,"$2,743.45 ",4,Super Smash Bros. Ultimate
+Luxembourg,"$2,203.66 ",13,Super Smash Bros. Ultimate
+Guatemala,"$2,052.50 ",1,Super Smash Bros. Ultimate
+Colombia,"$1,693.50 ",8,Super Smash Bros. Ultimate
+Greece,"$1,635.04 ",11,Super Smash Bros. Ultimate
+Puerto Rico,"$1,007.78 ",6,Super Smash Bros. Ultimate
+Hong Kong,$967.17 ,3,Super Smash Bros. Ultimate
+Iraq,$956.34 ,1,Super Smash Bros. Ultimate
+Costa Rica,$590.38 ,4,Super Smash Bros. Ultimate
+Philippines,$514.54 ,1,Super Smash Bros. Ultimate
+United Arab Emirates,$408.00 ,3,Super Smash Bros. Ultimate
+Israel,$312.43 ,11,Super Smash Bros. Ultimate
+Sri Lanka,$285.14 ,1,Super Smash Bros. Ultimate
+"Taiwan, Republic of China",$284.09 ,1,Super Smash Bros. Ultimate
+Peru,$283.40 ,7,Super Smash Bros. Ultimate
+Panama,$282.51 ,6,Super Smash Bros. Ultimate
+Thailand,$279.12 ,4,Super Smash Bros. Ultimate
+Lebanon,$230.00 ,1,Super Smash Bros. Ultimate
+Jamaica,$188.63 ,1,Super Smash Bros. Ultimate
+Ireland,$133.19 ,2,Super Smash Bros. Ultimate
+Singapore,$130.08 ,1,Super Smash Bros. Ultimate
+Portugal,$124.30 ,3,Super Smash Bros. Ultimate
+Argentina,$113.17 ,2,Super Smash Bros. Ultimate
+Turkey,$88.75 ,1,Super Smash Bros. Ultimate
+Venezuela,$79.50 ,3,Super Smash Bros. Ultimate
+Honduras,$76.87 ,4,Super Smash Bros. Ultimate
+Andorra,$73.62 ,1,Super Smash Bros. Ultimate
+Indonesia,$72.59 ,8,Super Smash Bros. Ultimate
+Russian Federation,$54.97 ,3,Super Smash Bros. Ultimate
+Poland,$51.25 ,5,Super Smash Bros. Ultimate
+South Africa,$49.89 ,1,Super Smash Bros. Ultimate
+Denmark,$49.35 ,2,Super Smash Bros. Ultimate
+Lithuania,$9.76 ,2,Super Smash Bros. Ultimate
+Hungary,$5.50 ,1,Super Smash Bros. Ultimate
+Uruguay,$5.00 ,1,Super Smash Bros. Ultimate
+China,"$837,247.20 ",120,League of Legends: Wild Rift
+"Korea, Republic of","$201,105.52 ",44,League of Legends: Wild Rift
+Viet Nam,"$112,500.04 ",28,League of Legends: Wild Rift
+"Taiwan, Republic of China","$106,856.00 ",13,League of Legends: Wild Rift
+Spain,"$102,489.60 ",4,League of Legends: Wild Rift
+Philippines,"$98,500.00 ",11,League of Legends: Wild Rift
+Thailand,"$62,899.98 ",14,League of Legends: Wild Rift
+Germany,"$41,585.06 ",4,League of Legends: Wild Rift
+Brazil,"$30,000.00 ",5,League of Legends: Wild Rift
+Japan,"$26,666.68 ",4,League of Legends: Wild Rift
+United States,"$24,000.00 ",4,League of Legends: Wild Rift
+Indonesia,"$22,999.96 ",17,League of Legends: Wild Rift
+Russian Federation,"$19,272.00 ",7,League of Legends: Wild Rift
+Hong Kong,"$18,999.97 ",13,League of Legends: Wild Rift
+Argentina,"$18,000.00 ",3,League of Legends: Wild Rift
+Malaysia,"$16,699.98 ",12,League of Legends: Wild Rift
+Singapore,"$15,900.00 ",9,League of Legends: Wild Rift
+France,"$13,237.33 ",3,League of Legends: Wild Rift
+Denmark,"$9,733.33 ",2,League of Legends: Wild Rift
+Czech Republic,"$6,229.33 ",1,League of Legends: Wild Rift
+United Kingdom,"$6,229.33 ",1,League of Legends: Wild Rift
+Canada,"$6,000.00 ",1,League of Legends: Wild Rift
+Chile,"$6,000.00 ",1,League of Legends: Wild Rift
+Uruguay,"$6,000.00 ",1,League of Legends: Wild Rift
+Belgium,"$3,504.00 ",1,League of Legends: Wild Rift
+Estonia,"$3,504.00 ",1,League of Legends: Wild Rift
+Kyrgyzstan,"$1,752.00 ",1,League of Legends: Wild Rift
+Romania,"$1,752.00 ",1,League of Legends: Wild Rift
+"Korea, Republic of","$843,900.19 ",59,Tekken 7
+Japan,"$404,968.49 ",35,Tekken 7
+United States,"$322,582.52 ",209,Tekken 7
+Pakistan,"$127,376.38 ",36,Tekken 7
+France,"$33,824.35 ",15,Tekken 7
+Italy,"$33,512.03 ",14,Tekken 7
+United Kingdom,"$19,189.40 ",15,Tekken 7
+Peru,"$16,800.20 ",8,Tekken 7
+Thailand,"$16,006.42 ",3,Tekken 7
+Spain,"$15,998.22 ",12,Tekken 7
+Saudi Arabia,"$14,600.00 ",7,Tekken 7
+Philippines,"$13,700.53 ",3,Tekken 7
+Ireland,"$10,215.30 ",2,Tekken 7
+Denmark,"$7,000.00 ",1,Tekken 7
+Switzerland,"$6,534.60 ",1,Tekken 7
+Canada,"$2,812.66 ",21,Tekken 7
+Puerto Rico,"$2,454.83 ",1,Tekken 7
+Netherlands,"$2,250.00 ",1,Tekken 7
+Australia,"$2,171.72 ",7,Tekken 7
+Venezuela,"$2,053.05 ",4,Tekken 7
+India,"$1,872.91 ",5,Tekken 7
+Brazil,"$1,622.45 ",6,Tekken 7
+Germany,"$1,375.70 ",4,Tekken 7
+Dominican Republic,"$1,146.30 ",5,Tekken 7
+Russian Federation,"$1,000.00 ",6,Tekken 7
+Finland,$934.61 ,5,Tekken 7
+Greece,$581.31 ,1,Tekken 7
+Bahrain,$511.25 ,1,Tekken 7
+Bolivia,$500.00 ,1,Tekken 7
+Lebanon,$500.00 ,1,Tekken 7
+Poland,$500.00 ,1,Tekken 7
+Malaysia,$480.00 ,1,Tekken 7
+Belgium,$356.07 ,2,Tekken 7
+South Africa,$350.00 ,2,Tekken 7
+Malta,$329.39 ,3,Tekken 7
+Chile,$250.00 ,1,Tekken 7
+Indonesia,$240.00 ,1,Tekken 7
+Kenya,$150.00 ,1,Tekken 7
+Kuwait,$150.00 ,1,Tekken 7
+Yemen,$120.00 ,1,Tekken 7
+Mexico,$30.00 ,1,Tekken 7
+Belarus,$0.00 ,1,Tekken 7
+Thailand,"$652,920.02 ",28,FIFA Online 4
+"Korea, Republic of","$625,000.03 ",46,FIFA Online 4
+China,"$205,666.61 ",41,FIFA Online 4
+Viet Nam,"$199,833.37 ",32,FIFA Online 4
+Singapore,"$72,999.99 ",4,FIFA Online 4
+Malaysia,"$37,333.33 ",2,FIFA Online 4
+Indonesia,"$11,999.99 ",7,FIFA Online 4
+Hong Kong,"$5,000.00 ",1,FIFA Online 4
+United States,"$990,050.00 ",76,Gears 5
+Mexico,"$367,900.00 ",35,Gears 5
+United Kingdom,"$169,600.00 ",23,Gears 5
+Philippines,"$67,200.00 ",1,Gears 5
+France,"$58,400.00 ",5,Gears 5
+Spain,"$53,100.00 ",9,Gears 5
+Puerto Rico,"$29,250.00 ",2,Gears 5
+Canada,"$21,000.00 ",2,Gears 5
+Italy,"$15,000.00 ",1,Gears 5
+Colombia,"$5,600.00 ",1,Gears 5
+Ireland,"$2,400.00 ",1,Gears 5
+Austria,$900.00 ,1,Gears 5
+Germany,$900.00 ,1,Gears 5
+Russian Federation,$900.00 ,1,Gears 5
+Kuwait,$800.00 ,1,Gears 5
+Netherlands,"$335,168.00 ",59,rFactor 2
+Germany,"$192,056.31 ",43,rFactor 2
+Finland,"$153,873.67 ",16,rFactor 2
+United Kingdom,"$124,999.50 ",55,rFactor 2
+Italy,"$108,074.53 ",44,rFactor 2
+Sweden,"$103,200.10 ",7,rFactor 2
+France,"$92,730.76 ",21,rFactor 2
+Slovenia,"$74,646.34 ",7,rFactor 2
+North Macedonia,"$65,061.69 ",2,rFactor 2
+Brazil,"$54,728.58 ",7,rFactor 2
+Poland,"$53,723.67 ",20,rFactor 2
+Denmark,"$37,674.55 ",29,rFactor 2
+Croatia,"$36,839.52 ",5,rFactor 2
+Argentina,"$34,400.00 ",3,rFactor 2
+Czech Republic,"$27,492.49 ",9,rFactor 2
+Estonia,"$25,617.67 ",23,rFactor 2
+Portugal,"$24,657.67 ",7,rFactor 2
+Switzerland,"$22,529.25 ",3,rFactor 2
+Belgium,"$21,626.86 ",5,rFactor 2
+China,"$20,800.00 ",1,rFactor 2
+New Zealand,"$20,229.83 ",3,rFactor 2
+Hungary,"$19,033.58 ",13,rFactor 2
+United States,"$11,497.08 ",12,rFactor 2
+Spain,"$9,925.72 ",13,rFactor 2
+Australia,"$9,052.25 ",9,rFactor 2
+Greece,"$8,704.66 ",5,rFactor 2
+Norway,"$5,859.26 ",4,rFactor 2
+South Africa,"$5,135.00 ",3,rFactor 2
+Bulgaria,"$4,690.21 ",5,rFactor 2
+Austria,"$3,845.50 ",4,rFactor 2
+Canada,"$2,916.45 ",6,rFactor 2
+Luxembourg,"$2,500.00 ",1,rFactor 2
+Ireland,"$2,399.95 ",7,rFactor 2
+Indonesia,"$1,344.32 ",3,rFactor 2
+Serbia,"$1,194.09 ",3,rFactor 2
+Russian Federation,"$1,141.62 ",2,rFactor 2
+Turkey,$966.20 ,2,rFactor 2
+Malaysia,$400.00 ,2,rFactor 2
+Lithuania,$375.00 ,1,rFactor 2
+Colombia,$250.00 ,1,rFactor 2
+Slovakia,$231.54 ,2,rFactor 2
+Philippines,$200.00 ,1,rFactor 2
+Singapore,$200.00 ,1,rFactor 2
+Peru,$196.87 ,3,rFactor 2
+Chile,$50.89 ,1,rFactor 2
+India,$3.39 ,1,rFactor 2
+United States,"$1,529,657.62 ",143,Halo 2
+Canada,"$22,304.92 ",18,Halo 2
+France,"$5,000.00 ",3,Halo 2
+Germany,$0.00 ,1,Halo 2
+Netherlands,$0.00 ,1,Halo 2
+China,"$471,054.00 ",23,Teamfight Tactics
+United States,"$304,175.00 ",46,Teamfight Tactics
+France,"$136,200.00 ",19,Teamfight Tactics
+"Korea, Republic of","$119,050.00 ",9,Teamfight Tactics
+Brazil,"$115,014.65 ",16,Teamfight Tactics
+Germany,"$66,900.00 ",13,Teamfight Tactics
+Poland,"$45,449.00 ",18,Teamfight Tactics
+Turkey,"$39,750.00 ",6,Teamfight Tactics
+Japan,"$38,500.00 ",3,Teamfight Tactics
+Australia,"$37,950.00 ",5,Teamfight Tactics
+Canada,"$33,975.00 ",7,Teamfight Tactics
+Denmark,"$30,625.00 ",3,Teamfight Tactics
+Argentina,"$24,425.00 ",4,Teamfight Tactics
+Colombia,"$18,000.00 ",2,Teamfight Tactics
+United Kingdom,"$16,000.00 ",1,Teamfight Tactics
+Russian Federation,"$13,875.00 ",6,Teamfight Tactics
+Spain,"$13,775.00 ",6,Teamfight Tactics
+--UNDEFINED--,"$10,750.00 ",1,Teamfight Tactics
+Belgium,"$8,225.00 ",3,Teamfight Tactics
+Czech Republic,"$7,500.00 ",1,Teamfight Tactics
+Mexico,"$7,500.00 ",1,Teamfight Tactics
+Peru,"$5,000.00 ",1,Teamfight Tactics
+Tunisia,"$5,000.00 ",1,Teamfight Tactics
+Costa Rica,"$4,500.00 ",1,Teamfight Tactics
+Sweden,"$3,325.00 ",2,Teamfight Tactics
+Netherlands,"$3,225.00 ",1,Teamfight Tactics
+Viet Nam,"$3,025.00 ",1,Teamfight Tactics
+Ukraine,"$2,875.00 ",2,Teamfight Tactics
+Hong Kong,"$2,725.00 ",1,Teamfight Tactics
+Italy,"$1,600.00 ",1,Teamfight Tactics
+Morocco,"$1,450.00 ",1,Teamfight Tactics
+Finland,"$1,350.00 ",1,Teamfight Tactics
+Chile,"$1,175.00 ",1,Teamfight Tactics
+Hungary,"$1,175.00 ",1,Teamfight Tactics
+Portugal,$150.00 ,1,Teamfight Tactics
+United States,"$1,136,779.78 ",77,Call of Duty: Ghosts
+Canada,"$208,514.26 ",9,Call of Duty: Ghosts
+Australia,"$79,612.52 ",17,Call of Duty: Ghosts
+United Kingdom,"$72,519.53 ",33,Call of Duty: Ghosts
+France,"$24,088.27 ",22,Call of Duty: Ghosts
+Spain,"$8,354.48 ",30,Call of Duty: Ghosts
+Ireland,"$7,821.51 ",1,Call of Duty: Ghosts
+Bulgaria,$982.88 ,2,Call of Duty: Ghosts
+Sweden,$406.20 ,4,Call of Duty: Ghosts
+Netherlands,$270.80 ,4,Call of Duty: Ghosts
+"Korea, Republic of","$1,400,444.84 ",151,StarCraft: Remastered
+China,"$47,826.12 ",14,StarCraft: Remastered
+Poland,"$30,285.44 ",16,StarCraft: Remastered
+Russian Federation,"$27,717.94 ",9,StarCraft: Remastered
+United States,"$21,567.74 ",19,StarCraft: Remastered
+Peru,"$16,591.05 ",7,StarCraft: Remastered
+Canada,"$10,867.80 ",6,StarCraft: Remastered
+Sweden,"$4,838.05 ",4,StarCraft: Remastered
+Spain,"$3,846.88 ",1,StarCraft: Remastered
+Chile,"$3,706.00 ",4,StarCraft: Remastered
+Italy,"$2,000.00 ",2,StarCraft: Remastered
+Hungary,"$1,551.12 ",1,StarCraft: Remastered
+Denmark,$450.00 ,1,StarCraft: Remastered
+United Kingdom,$445.00 ,1,StarCraft: Remastered
+Norway,$125.00 ,2,StarCraft: Remastered
+Kazakhstan,$100.00 ,1,StarCraft: Remastered
+North Macedonia,$100.00 ,1,StarCraft: Remastered
+Bolivia,$65.00 ,1,StarCraft: Remastered
+Germany,$50.00 ,1,StarCraft: Remastered
+Finland,$25.00 ,1,StarCraft: Remastered
+France,$25.00 ,1,StarCraft: Remastered
+United States,"$879,917.51 ",1104,Super Smash Bros. for Wii U
+Chile,"$171,396.32 ",3,Super Smash Bros. for Wii U
+Canada,"$115,135.52 ",115,Super Smash Bros. for Wii U
+Mexico,"$111,458.53 ",26,Super Smash Bros. for Wii U
+Japan,"$85,845.94 ",39,Super Smash Bros. for Wii U
+Netherlands,"$47,602.01 ",29,Super Smash Bros. for Wii U
+France,"$23,368.03 ",48,Super Smash Bros. for Wii U
+United Kingdom,"$21,158.09 ",64,Super Smash Bros. for Wii U
+Germany,"$16,186.81 ",35,Super Smash Bros. for Wii U
+Spain,"$13,209.72 ",56,Super Smash Bros. for Wii U
+Australia,"$7,853.05 ",37,Super Smash Bros. for Wii U
+Norway,"$2,712.31 ",16,Super Smash Bros. for Wii U
+United Arab Emirates,"$2,436.64 ",3,Super Smash Bros. for Wii U
+Kuwait,"$2,178.00 ",1,Super Smash Bros. for Wii U
+Puerto Rico,"$2,167.00 ",8,Super Smash Bros. for Wii U
+Argentina,"$2,116.69 ",21,Super Smash Bros. for Wii U
+Sweden,"$1,955.16 ",25,Super Smash Bros. for Wii U
+Switzerland,"$1,689.76 ",12,Super Smash Bros. for Wii U
+Brazil,"$1,347.58 ",13,Super Smash Bros. for Wii U
+Saudi Arabia,"$1,326.61 ",1,Super Smash Bros. for Wii U
+Italy,$475.26 ,21,Super Smash Bros. for Wii U
+Finland,$414.22 ,15,Super Smash Bros. for Wii U
+Venezuela,$366.49 ,2,Super Smash Bros. for Wii U
+Colombia,$316.13 ,6,Super Smash Bros. for Wii U
+Austria,$280.98 ,2,Super Smash Bros. for Wii U
+Lebanon,$265.32 ,1,Super Smash Bros. for Wii U
+Belgium,$200.41 ,4,Super Smash Bros. for Wii U
+Andorra,$151.93 ,2,Super Smash Bros. for Wii U
+Guatemala,$105.00 ,1,Super Smash Bros. for Wii U
+Dominican Republic,$90.00 ,1,Super Smash Bros. for Wii U
+Peru,$82.60 ,1,Super Smash Bros. for Wii U
+Ecuador,$48.00 ,1,Super Smash Bros. for Wii U
+Costa Rica,$30.00 ,1,Super Smash Bros. for Wii U
+Paraguay,$20.65 ,1,Super Smash Bros. for Wii U
+"Korea, Republic of",$17.40 ,1,Super Smash Bros. for Wii U
+United Kingdom,"$382,513.48 ",14,FIFA 17
+France,"$244,921.17 ",7,FIFA 17
+Germany,"$219,116.56 ",20,FIFA 17
+United States,"$116,000.00 ",13,FIFA 17
+Saudi Arabia,"$103,833.14 ",7,FIFA 17
+Brazil,"$74,000.00 ",4,FIFA 17
+Australia,"$44,000.00 ",11,FIFA 17
+Denmark,"$40,139.98 ",13,FIFA 17
+Italy,"$34,000.00 ",1,FIFA 17
+Netherlands,"$30,000.00 ",5,FIFA 17
+Japan,"$27,500.00 ",2,FIFA 17
+Mexico,"$27,500.00 ",3,FIFA 17
+Hong Kong,"$22,000.00 ",4,FIFA 17
+Sweden,"$14,217.83 ",16,FIFA 17
+Chile,"$13,500.00 ",1,FIFA 17
+Colombia,"$13,500.00 ",1,FIFA 17
+Russian Federation,"$12,799.30 ",4,FIFA 17
+Canada,"$6,500.00 ",3,FIFA 17
+New Zealand,"$6,000.00 ",1,FIFA 17
+Malta,"$4,423.53 ",6,FIFA 17
+Jordan,"$2,000.00 ",1,FIFA 17
+Ukraine,"$1,886.30 ",2,FIFA 17
+Poland,"$1,777.94 ",7,FIFA 17
+Uzbekistan,"$1,500.00 ",1,FIFA 17
+Argentina,"$1,000.00 ",1,FIFA 17
+Croatia,$593.03 ,5,FIFA 17
+Slovenia,$104.65 ,1,FIFA 17
+Bulgaria,$0.00 ,1,FIFA 17
+Czech Republic,$0.00 ,1,FIFA 17
+United States,"$1,058,289.30 ",46,Call of Duty: Black Ops 2
+Canada,"$174,676.04 ",4,Call of Duty: Black Ops 2
+United Kingdom,"$98,252.62 ",34,Call of Duty: Black Ops 2
+Ireland,"$49,735.62 ",3,Call of Duty: Black Ops 2
+Italy,"$24,825.53 ",22,Call of Duty: Black Ops 2
+France,"$24,250.33 ",25,Call of Duty: Black Ops 2
+Spain,"$5,210.42 ",19,Call of Duty: Black Ops 2
+Netherlands,"$4,422.82 ",8,Call of Duty: Black Ops 2
+Germany,"$3,498.87 ",8,Call of Duty: Black Ops 2
+Greece,"$3,252.40 ",10,Call of Duty: Black Ops 2
+Belgium,"$1,523.03 ",1,Call of Duty: Black Ops 2
+Austria,$485.84 ,1,Call of Duty: Black Ops 2
+Sweden,$200.00 ,4,Call of Duty: Black Ops 2
+Morocco,$139.97 ,1,Call of Duty: Black Ops 2
+Bulgaria,$135.42 ,1,Call of Duty: Black Ops 2
+"Korea, Republic of","$621,372.88 ",14,FIFA Online 3
+Thailand,"$176,087.55 ",13,FIFA Online 3
+Singapore,"$134,438.75 ",5,FIFA Online 3
+China,"$104,055.52 ",33,FIFA Online 3
+Viet Nam,"$21,020.94 ",8,FIFA Online 3
+Indonesia,"$17,186.67 ",9,FIFA Online 3
+Malaysia,"$17,146.72 ",8,FIFA Online 3
+Ukraine,"$15,980.99 ",1,FIFA Online 3
+Sweden,"$7,315.54 ",1,FIFA Online 3
+France,"$6,321.47 ",1,FIFA Online 3
+India,"$2,414.88 ",1,FIFA Online 3
+United States,"$810,561.11 ",86,Lichess
+Norway,"$168,631.76 ",2,Lichess
+Russian Federation,"$101,180.61 ",40,Lichess
+Armenia,"$79,373.75 ",11,Lichess
+"Iran, Islamic Republic of","$27,405.09 ",3,Lichess
+France,"$24,200.00 ",3,Lichess
+India,"$19,017.08 ",9,Lichess
+Ukraine,"$6,810.00 ",6,Lichess
+Viet Nam,"$5,145.00 ",2,Lichess
+Netherlands,"$3,290.00 ",4,Lichess
+Azerbaijan,"$2,763.33 ",6,Lichess
+Belarus,"$2,320.42 ",5,Lichess
+Indonesia,"$2,272.43 ",106,Lichess
+Switzerland,"$1,725.00 ",1,Lichess
+United Kingdom,"$1,675.00 ",1,Lichess
+Germany,"$1,160.00 ",4,Lichess
+Uzbekistan,$855.00 ,5,Lichess
+Finland,$820.00 ,2,Lichess
+Cuba,$550.00 ,1,Lichess
+Italy,$500.00 ,1,Lichess
+Qatar,$500.00 ,1,Lichess
+Turkey,$415.00 ,4,Lichess
+Peru,$370.00 ,2,Lichess
+Colombia,$350.00 ,2,Lichess
+Canada,$340.00 ,1,Lichess
+Hungary,$300.00 ,1,Lichess
+Israel,$230.42 ,5,Lichess
+Romania,$220.00 ,1,Lichess
+Kazakhstan,$178.38 ,5,Lichess
+Argentina,$150.00 ,2,Lichess
+Spain,$135.00 ,2,Lichess
+--UNDEFINED--,$125.00 ,1,Lichess
+Egypt,$125.00 ,1,Lichess
+Croatia,$90.00 ,1,Lichess
+Czech Republic,$85.00 ,1,Lichess
+Georgia,$50.00 ,2,Lichess
+Paraguay,$50.00 ,1,Lichess
+Bosnia and Herzegovina,$35.00 ,1,Lichess
+Serbia,$35.00 ,1,Lichess
+Saint Kitts and Nevis,$20.00 ,1,Lichess
+Greece,$15.00 ,1,Lichess
+Philippines,$3.40 ,1,Lichess
+United States,"$446,000.00 ",55,Magic: The Gathering Online
+Russian Federation,"$104,000.00 ",3,Magic: The Gathering Online
+Denmark,"$72,000.00 ",5,Magic: The Gathering Online
+Japan,"$72,000.00 ",10,Magic: The Gathering Online
+Netherlands,"$52,000.00 ",3,Magic: The Gathering Online
+Germany,"$49,000.00 ",7,Magic: The Gathering Online
+Portugal,"$49,000.00 ",4,Magic: The Gathering Online
+Sweden,"$48,000.00 ",3,Magic: The Gathering Online
+Brazil,"$41,000.00 ",3,Magic: The Gathering Online
+Spain,"$41,000.00 ",4,Magic: The Gathering Online
+Italy,"$40,000.00 ",1,Magic: The Gathering Online
+Canada,"$27,000.00 ",5,Magic: The Gathering Online
+Czech Republic,"$25,000.00 ",3,Magic: The Gathering Online
+Finland,"$23,000.00 ",2,Magic: The Gathering Online
+France,"$23,000.00 ",4,Magic: The Gathering Online
+Thailand,"$12,000.00 ",2,Magic: The Gathering Online
+Poland,"$10,000.00 ",2,Magic: The Gathering Online
+Austria,"$9,000.00 ",2,Magic: The Gathering Online
+Hungary,"$9,000.00 ",1,Magic: The Gathering Online
+Serbia,"$9,000.00 ",1,Magic: The Gathering Online
+Belgium,"$6,000.00 ",1,Magic: The Gathering Online
+Estonia,"$6,000.00 ",1,Magic: The Gathering Online
+United Kingdom,"$6,000.00 ",1,Magic: The Gathering Online
+Norway,"$6,000.00 ",1,Magic: The Gathering Online
+Slovakia,"$6,000.00 ",1,Magic: The Gathering Online
+Uruguay,"$6,000.00 ",1,Magic: The Gathering Online
+Argentina,"$4,000.00 ",1,Magic: The Gathering Online
+Australia,"$4,000.00 ",1,Magic: The Gathering Online
+China,"$4,000.00 ",1,Magic: The Gathering Online
+Hong Kong,"$4,000.00 ",1,Magic: The Gathering Online
+Germany,"$436,686.87 ",21,Gwent
+Poland,"$250,651.13 ",56,Gwent
+United Kingdom,"$173,183.11 ",9,Gwent
+China,"$79,567.52 ",22,Gwent
+"Moldova, Republic of","$78,700.00 ",1,Gwent
+Austria,"$45,428.70 ",5,Gwent
+Russian Federation,"$27,123.71 ",35,Gwent
+Canada,"$20,052.62 ",3,Gwent
+Ukraine,"$19,950.45 ",10,Gwent
+United States,"$17,237.69 ",34,Gwent
+Brazil,"$11,352.64 ",15,Gwent
+Belarus,"$9,152.24 ",7,Gwent
+Denmark,"$9,035.00 ",2,Gwent
+Spain,"$3,786.78 ",7,Gwent
+Finland,"$3,758.47 ",3,Gwent
+Colombia,"$3,525.00 ",1,Gwent
+Romania,"$3,195.00 ",3,Gwent
+Netherlands,"$2,983.46 ",4,Gwent
+Czech Republic,"$2,454.84 ",6,Gwent
+Belgium,"$1,360.00 ",3,Gwent
+Italy,"$1,317.90 ",6,Gwent
+Hungary,"$1,005.89 ",2,Gwent
+Australia,$898.58 ,6,Gwent
+Serbia,$745.99 ,2,Gwent
+Slovenia,$710.94 ,5,Gwent
+Japan,$578.57 ,9,Gwent
+France,$569.74 ,17,Gwent
+"Korea, Republic of",$480.39 ,8,Gwent
+Slovakia,$162.31 ,4,Gwent
+Norway,$120.00 ,1,Gwent
+New Zealand,$94.33 ,2,Gwent
+Ireland,$88.74 ,1,Gwent
+Bulgaria,$80.72 ,3,Gwent
+South Africa,$75.00 ,3,Gwent
+Lithuania,$56.17 ,1,Gwent
+Turkey,$35.70 ,3,Gwent
+Malaysia,$30.00 ,1,Gwent
+Portugal,$20.00 ,1,Gwent
+Greece,$10.00 ,1,Gwent
+Latvia,$5.97 ,1,Gwent
+Argentina,$5.00 ,1,Gwent
+United States,"$684,635.70 ",49,Call of Duty: Modern Warfare 3
+United Kingdom,"$403,785.35 ",41,Call of Duty: Modern Warfare 3
+France,"$29,962.94 ",23,Call of Duty: Modern Warfare 3
+Spain,"$13,835.28 ",52,Call of Duty: Modern Warfare 3
+Canada,"$7,649.30 ",2,Call of Duty: Modern Warfare 3
+Australia,"$6,376.01 ",20,Call of Duty: Modern Warfare 3
+Ireland,"$1,759.76 ",2,Call of Duty: Modern Warfare 3
+Netherlands,"$1,430.94 ",5,Call of Duty: Modern Warfare 3
+New Zealand,$957.91 ,11,Call of Duty: Modern Warfare 3
+Bulgaria,$583.82 ,1,Call of Duty: Modern Warfare 3
+Belgium,$258.64 ,1,Call of Duty: Modern Warfare 3
+Italy,$116.30 ,1,Call of Duty: Modern Warfare 3
+Croatia,$104.63 ,1,Call of Duty: Modern Warfare 3
+"Korea, Republic of","$515,267.34 ",33,Auto Chess
+China,"$352,000.00 ",11,Auto Chess
+United States,"$96,672.00 ",51,Auto Chess
+Pakistan,"$50,000.00 ",1,Auto Chess
+Japan,"$22,000.00 ",2,Auto Chess
+Germany,"$20,500.00 ",1,Auto Chess
+Spain,"$14,000.00 ",1,Auto Chess
+Viet Nam,"$12,000.00 ",2,Auto Chess
+Canada,"$10,047.00 ",7,Auto Chess
+United Kingdom,"$8,500.00 ",2,Auto Chess
+Belarus,"$8,000.00 ",2,Auto Chess
+Hong Kong,"$8,000.00 ",1,Auto Chess
+Thailand,"$8,000.00 ",1,Auto Chess
+Bolivia,"$4,000.00 ",1,Auto Chess
+Brazil,"$4,000.00 ",1,Auto Chess
+Turkey,"$1,400.00 ",3,Auto Chess
+Austria,$800.00 ,1,Auto Chess
+Russian Federation,$325.00 ,2,Auto Chess
+--UNDEFINED--,$100.00 ,1,Auto Chess
+Norway,$75.00 ,1,Auto Chess
+Ukraine,$75.00 ,1,Auto Chess
+United States,"$535,775.91 ",112,Quake III Arena
+Sweden,"$161,120.68 ",33,Quake III Arena
+Russian Federation,"$115,419.20 ",59,Quake III Arena
+United Kingdom,"$44,669.46 ",13,Quake III Arena
+Germany,"$31,253.04 ",16,Quake III Arena
+Canada,"$30,870.00 ",13,Quake III Arena
+France,"$27,960.44 ",11,Quake III Arena
+China,"$27,127.90 ",5,Quake III Arena
+Belarus,"$27,104.38 ",9,Quake III Arena
+"Korea, Republic of","$13,975.30 ",3,Quake III Arena
+Spain,"$10,300.00 ",1,Quake III Arena
+Australia,"$10,135.30 ",4,Quake III Arena
+Poland,"$9,570.30 ",3,Quake III Arena
+Ukraine,"$4,554.35 ",5,Quake III Arena
+Brazil,"$2,039.67 ",6,Quake III Arena
+Netherlands,"$1,624.30 ",1,Quake III Arena
+Belgium,"$1,556.75 ",2,Quake III Arena
+Venezuela,"$1,300.00 ",2,Quake III Arena
+South Africa,"$1,300.00 ",2,Quake III Arena
+Austria,$940.32 ,1,Quake III Arena
+Hungary,$927.74 ,2,Quake III Arena
+Turkey,$750.00 ,1,Quake III Arena
+Norway,$600.61 ,1,Quake III Arena
+Cuba,$585.58 ,1,Quake III Arena
+New Zealand,$500.00 ,1,Quake III Arena
+Croatia,$438.17 ,1,Quake III Arena
+Ireland,$408.23 ,1,Quake III Arena
+Singapore,$400.00 ,1,Quake III Arena
+Estonia,$390.38 ,1,Quake III Arena
+Northern Mariana Islands,$300.00 ,1,Quake III Arena
+Argentina,$205.84 ,1,Quake III Arena
+Denmark,$200.00 ,1,Quake III Arena
+Finland,$123.34 ,1,Quake III Arena
+"Korea, Republic of","$438,968.26 ",23,WarCraft III: Reforged
+China,"$402,592.50 ",40,WarCraft III: Reforged
+Russian Federation,"$118,502.97 ",14,WarCraft III: Reforged
+Germany,"$47,069.68 ",14,WarCraft III: Reforged
+United States,"$38,718.09 ",9,WarCraft III: Reforged
+Ukraine,"$30,278.57 ",3,WarCraft III: Reforged
+France,"$20,308.01 ",9,WarCraft III: Reforged
+Spain,"$8,875.00 ",1,WarCraft III: Reforged
+Canada,"$8,325.00 ",4,WarCraft III: Reforged
+"Moldova, Republic of","$5,852.70 ",1,WarCraft III: Reforged
+Sweden,"$3,225.00 ",4,WarCraft III: Reforged
+Australia,"$1,400.00 ",2,WarCraft III: Reforged
+Austria,"$1,068.13 ",3,WarCraft III: Reforged
+United Kingdom,$600.00 ,1,WarCraft III: Reforged
+Greece,$500.00 ,1,WarCraft III: Reforged
+Croatia,$400.00 ,1,WarCraft III: Reforged
+Poland,$400.00 ,2,WarCraft III: Reforged
+Peru,$200.00 ,1,WarCraft III: Reforged
+Slovenia,$200.00 ,1,WarCraft III: Reforged
+Lithuania,$75.00 ,1,WarCraft III: Reforged
+United States,"$790,749.95 ",89,Call of Duty: Vanguard
+United Kingdom,"$190,458.34 ",26,Call of Duty: Vanguard
+Canada,"$118,625.00 ",10,Call of Duty: Vanguard
+Denmark,"$11,000.00 ",1,Call of Duty: Vanguard
+France,"$4,333.33 ",1,Call of Duty: Vanguard
+Saudi Arabia,"$3,333.33 ",1,Call of Duty: Vanguard
+Poland,"$2,083.33 ",1,Call of Duty: Vanguard
+Russian Federation,"$2,000.00 ",4,Call of Duty: Vanguard
+Germany,"$1,333.33 ",1,Call of Duty: Vanguard
+Belgium,"$1,000.00 ",1,Call of Duty: Vanguard
+Italy,"$1,000.00 ",4,Call of Duty: Vanguard
+Afghanistan,$333.33 ,1,Call of Duty: Vanguard
+United States,"$299,225.00 ",14,Painkiller
+Netherlands,"$231,675.00 ",2,Painkiller
+Italy,"$178,225.00 ",4,Painkiller
+Germany,"$146,325.00 ",6,Painkiller
+Sweden,"$82,400.00 ",6,Painkiller
+Canada,"$37,925.00 ",4,Painkiller
+United Kingdom,"$18,675.00 ",3,Painkiller
+Russian Federation,"$12,150.00 ",1,Painkiller
+Finland,"$2,750.00 ",2,Painkiller
+Japan,"$1,925.00 ",1,Painkiller
+China,"$1,625.00 ",2,Painkiller
+Norway,"$1,100.00 ",1,Painkiller
+Spain,$625.00 ,1,Painkiller
+Chile,$375.00 ,1,Painkiller
+United States,"$1,004,000.00 ",42,Madden NFL 2017
+United States,"$940,633.24 ",84,NBA 2K18
+Canada,"$31,933.33 ",4,NBA 2K18
+Puerto Rico,"$21,766.67 ",1,NBA 2K18
+Germany,"$2,833.33 ",1,NBA 2K18
+United Kingdom,"$2,833.33 ",1,NBA 2K18
+United States,"$800,000.00 ",16,Turbo Racing League
+China,"$454,766.87 ",81,Defense of the Ancients
+Russian Federation,"$52,678.88 ",22,Defense of the Ancients
+Malaysia,"$43,991.85 ",28,Defense of the Ancients
+Kazakhstan,"$43,830.58 ",173,Defense of the Ancients
+Philippines,"$41,261.10 ",28,Defense of the Ancients
+Sweden,"$23,049.56 ",20,Defense of the Ancients
+Denmark,"$20,440.53 ",12,Defense of the Ancients
+Singapore,"$19,458.38 ",16,Defense of the Ancients
+Ukraine,"$14,202.93 ",13,Defense of the Ancients
+Kyrgyzstan,"$11,281.99 ",8,Defense of the Ancients
+United States,"$11,045.35 ",14,Defense of the Ancients
+Macao,"$8,127.10 ",1,Defense of the Ancients
+Germany,"$6,802.56 ",3,Defense of the Ancients
+Romania,"$5,000.00 ",5,Defense of the Ancients
+Norway,"$4,804.83 ",13,Defense of the Ancients
+Thailand,"$3,198.85 ",5,Defense of the Ancients
+Mongolia,"$2,000.00 ",5,Defense of the Ancients
+Viet Nam,"$1,338.35 ",6,Defense of the Ancients
+Estonia,"$1,070.06 ",1,Defense of the Ancients
+Canada,"$1,064.82 ",2,Defense of the Ancients
+Uzbekistan,$591.29 ,3,Defense of the Ancients
+France,$500.00 ,1,Defense of the Ancients
+Indonesia,$318.35 ,5,Defense of the Ancients
+Belarus,$187.44 ,3,Defense of the Ancients
+United States,"$639,135.88 ",49,Injustice 2
+Canada,"$77,926.15 ",5,Injustice 2
+United Kingdom,"$58,669.35 ",3,Injustice 2
+Bahrain,"$34,793.20 ",1,Injustice 2
+Dominican Republic,"$15,330.96 ",3,Injustice 2
+Ireland,"$2,700.00 ",1,Injustice 2
+France,"$2,050.00 ",1,Injustice 2
+Chile,"$1,250.00 ",1,Injustice 2
+Germany,"$1,092.90 ",1,Injustice 2
+Greece,"$1,000.00 ",1,Injustice 2
+Australia,$716.13 ,6,Injustice 2
+Brazil,$500.00 ,1,Injustice 2
+Israel,$500.00 ,1,Injustice 2
+Lebanon,$500.00 ,1,Injustice 2
+Russian Federation,$500.00 ,1,Injustice 2
+Zambia,$411.24 ,2,Injustice 2
+Saudi Arabia,$200.00 ,1,Injustice 2
+South Africa,$171.35 ,2,Injustice 2
+United Kingdom,"$251,033.37 ",36,Forza Motorsport 7
+France,"$164,083.31 ",13,Forza Motorsport 7
+Germany,"$136,166.66 ",9,Forza Motorsport 7
+United States,"$126,049.99 ",13,Forza Motorsport 7
+Brazil,"$58,999.98 ",17,Forza Motorsport 7
+Canada,"$20,033.33 ",17,Forza Motorsport 7
+Poland,"$15,000.01 ",5,Forza Motorsport 7
+Australia,"$13,666.67 ",8,Forza Motorsport 7
+China,"$8,000.01 ",6,Forza Motorsport 7
+Japan,"$6,000.00 ",3,Forza Motorsport 7
+"Korea, Republic of","$4,833.33 ",1,Forza Motorsport 7
+Mexico,"$4,666.67 ",1,Forza Motorsport 7
+Netherlands,"$4,333.33 ",3,Forza Motorsport 7
+Belgium,"$2,666.67 ",1,Forza Motorsport 7
+Ireland,"$1,666.67 ",1,Forza Motorsport 7
+Spain,$833.33 ,1,Forza Motorsport 7
+Italy,$666.66 ,2,Forza Motorsport 7
+Norway,$500.00 ,1,Forza Motorsport 7
+Indonesia,$333.33 ,1,Forza Motorsport 7
+Philippines,$333.33 ,1,Forza Motorsport 7
+Singapore,$333.33 ,1,Forza Motorsport 7
+Russian Federation,$0.00 ,3,Forza Motorsport 7
+Japan,"$460,748.79 ",37,Ultra Street Fighter IV
+United States,"$89,288.09 ",132,Ultra Street Fighter IV
+Singapore,"$70,987.11 ",3,Ultra Street Fighter IV
+France,"$49,951.26 ",6,Ultra Street Fighter IV
+"Korea, Republic of","$48,454.82 ",7,Ultra Street Fighter IV
+"Taiwan, Republic of China","$28,384.90 ",2,Ultra Street Fighter IV
+United Kingdom,"$19,032.30 ",14,Ultra Street Fighter IV
+Sweden,"$8,285.57 ",8,Ultra Street Fighter IV
+China,"$6,194.70 ",5,Ultra Street Fighter IV
+Brazil,"$5,925.92 ",1,Ultra Street Fighter IV
+Puerto Rico,"$5,189.75 ",1,Ultra Street Fighter IV
+Hong Kong,"$4,042.85 ",1,Ultra Street Fighter IV
+Norway,"$3,898.15 ",2,Ultra Street Fighter IV
+Finland,"$3,000.00 ",1,Ultra Street Fighter IV
+Malaysia,"$2,455.75 ",3,Ultra Street Fighter IV
+Canada,"$2,133.86 ",18,Ultra Street Fighter IV
+Romania,"$2,000.00 ",1,Ultra Street Fighter IV
+Saudi Arabia,"$1,500.00 ",1,Ultra Street Fighter IV
+Kuwait,"$1,250.00 ",2,Ultra Street Fighter IV
+Australia,"$1,088.04 ",5,Ultra Street Fighter IV
+Netherlands,$951.83 ,1,Ultra Street Fighter IV
+Mexico,$542.00 ,1,Ultra Street Fighter IV
+Belgium,$6.00 ,1,Ultra Street Fighter IV
+United States,"$215,343.28 ",44,Vainglory
+"Korea, Republic of","$185,603.87 ",53,Vainglory
+China,"$62,807.51 ",14,Vainglory
+Germany,"$54,172.81 ",29,Vainglory
+Russian Federation,"$42,451.62 ",19,Vainglory
+Iraq,"$24,646.99 ",1,Vainglory
+France,"$21,719.82 ",5,Vainglory
+Portugal,"$20,312.49 ",1,Vainglory
+Italy,"$20,072.68 ",2,Vainglory
+Japan,"$18,808.26 ",14,Vainglory
+Singapore,"$15,600.14 ",6,Vainglory
+Brazil,"$13,671.33 ",7,Vainglory
+Malaysia,"$11,164.46 ",3,Vainglory
+Sri Lanka,"$11,010.97 ",1,Vainglory
+Viet Nam,"$10,020.50 ",4,Vainglory
+Hong Kong,"$6,287.67 ",5,Vainglory
+Norway,"$3,812.49 ",1,Vainglory
+Ukraine,"$3,770.83 ",1,Vainglory
+Sweden,"$2,704.17 ",1,Vainglory
+"Moldova, Republic of","$2,633.33 ",1,Vainglory
+Netherlands,"$2,462.84 ",3,Vainglory
+Denmark,"$2,433.33 ",2,Vainglory
+Switzerland,"$2,341.67 ",2,Vainglory
+United Kingdom,"$2,083.33 ",1,Vainglory
+Austria,"$1,718.52 ",2,Vainglory
+Algeria,"$1,437.50 ",1,Vainglory
+Canada,"$1,110.67 ",2,Vainglory
+India,"$1,004.50 ",1,Vainglory
+Thailand,"$1,004.50 ",1,Vainglory
+Philippines,"$1,000.00 ",1,Vainglory
+Uruguay,$910.67 ,1,Vainglory
+"Taiwan, Republic of China",$866.00 ,5,Vainglory
+Turkey,$500.00 ,4,Vainglory
+Finland,$333.33 ,1,Vainglory
+Lithuania,$333.33 ,1,Vainglory
+Czech Republic,$264.81 ,3,Vainglory
+Spain,$55.68 ,3,Vainglory
+Poland,$18.29 ,1,Vainglory
+United States,"$696,112.60 ",80,Halo: Reach
+Canada,"$28,875.00 ",2,Halo: Reach
+United Kingdom,"$15,692.48 ",17,Halo: Reach
+Netherlands,"$1,985.01 ",7,Halo: Reach
+Finland,"$1,267.92 ",8,Halo: Reach
+Belgium,"$1,205.62 ",3,Halo: Reach
+Switzerland,$905.69 ,1,Halo: Reach
+Australia,$207.68 ,1,Halo: Reach
+France,$80.64 ,2,Halo: Reach
+Norway,$80.64 ,2,Halo: Reach
+United Kingdom,"$148,750.00 ",5,F1 2021
+Italy,"$126,250.00 ",5,F1 2021
+Spain,"$100,000.00 ",2,F1 2021
+Netherlands,"$93,750.00 ",1,F1 2021
+Germany,"$86,739.00 ",10,F1 2021
+Denmark,"$75,000.00 ",1,F1 2021
+Hungary,"$43,750.00 ",2,F1 2021
+Chile,"$25,000.00 ",1,F1 2021
+France,"$25,000.00 ",1,F1 2021
+"Iran, Islamic Republic of","$18,750.00 ",1,F1 2021
+Finland,"$12,500.00 ",1,F1 2021
+Greece,"$6,250.00 ",1,F1 2021
+Netherlands,"$150,000.00 ",3,F1 2020
+Germany,"$94,241.67 ",4,F1 2020
+Denmark,"$93,750.00 ",1,F1 2020
+Hungary,"$75,000.00 ",1,F1 2020
+Italy,"$68,750.00 ",3,F1 2020
+France,"$61,367.99 ",5,F1 2020
+United Kingdom,"$57,814.67 ",4,F1 2020
+Chile,"$42,500.00 ",1,F1 2020
+"Iran, Islamic Republic of","$32,500.00 ",1,F1 2020
+Spain,"$25,707.99 ",13,F1 2020
+Slovakia,"$25,000.00 ",1,F1 2020
+Finland,"$18,750.00 ",1,F1 2020
+Greece,"$6,564.67 ",1,F1 2020
+Croatia,$208.00 ,2,F1 2020
+Albania,$80.00 ,1,F1 2020
+Japan,"$392,121.49 ",44,Street Fighter V: Champion Edition
+United States,"$107,627.33 ",69,Street Fighter V: Champion Edition
+Australia,"$19,000.00 ",5,Street Fighter V: Champion Edition
+Dominican Republic,"$14,606.28 ",5,Street Fighter V: Champion Edition
+United Arab Emirates,"$14,500.00 ",3,Street Fighter V: Champion Edition
+France,"$13,047.68 ",3,Street Fighter V: Champion Edition
+Russian Federation,"$12,500.00 ",3,Street Fighter V: Champion Edition
+Singapore,"$12,500.00 ",2,Street Fighter V: Champion Edition
+United Kingdom,"$12,349.23 ",5,Street Fighter V: Champion Edition
+Mexico,"$12,066.41 ",5,Street Fighter V: Champion Edition
+Brazil,"$11,500.00 ",4,Street Fighter V: Champion Edition
+Argentina,"$9,500.00 ",2,Street Fighter V: Champion Edition
+"Korea, Republic of","$9,500.00 ",2,Street Fighter V: Champion Edition
+Norway,"$9,022.38 ",1,Street Fighter V: Champion Edition
+Hong Kong,"$9,000.00 ",2,Street Fighter V: Champion Edition
+"Taiwan, Republic of China","$9,000.00 ",3,Street Fighter V: Champion Edition
+Canada,"$7,474.83 ",13,Street Fighter V: Champion Edition
+China,"$7,000.00 ",3,Street Fighter V: Champion Edition
+Puerto Rico,"$6,730.00 ",2,Street Fighter V: Champion Edition
+Belgium,"$6,522.38 ",1,Street Fighter V: Champion Edition
+Algeria,"$5,500.00 ",3,Street Fighter V: Champion Edition
+Lithuania,"$5,000.00 ",1,Street Fighter V: Champion Edition
+Malaysia,"$4,500.00 ",2,Street Fighter V: Champion Edition
+Spain,"$3,608.95 ",1,Street Fighter V: Champion Edition
+Morocco,"$3,500.00 ",2,Street Fighter V: Champion Edition
+Poland,"$3,500.00 ",3,Street Fighter V: Champion Edition
+Venezuela,"$3,000.00 ",1,Street Fighter V: Champion Edition
+Indonesia,"$2,000.00 ",2,Street Fighter V: Champion Edition
+New Zealand,"$2,000.00 ",2,Street Fighter V: Champion Edition
+Thailand,"$2,000.00 ",1,Street Fighter V: Champion Edition
+Bulgaria,"$1,500.00 ",1,Street Fighter V: Champion Edition
+French Polynesia,"$1,500.00 ",1,Street Fighter V: Champion Edition
+Philippines,"$1,500.00 ",1,Street Fighter V: Champion Edition
+Sweden,"$1,500.00 ",1,Street Fighter V: Champion Edition
+Chile,"$1,000.00 ",1,Street Fighter V: Champion Edition
+United States,"$348,469.14 ",746,Team Fortress 2
+United Kingdom,"$74,872.32 ",120,Team Fortress 2
+Canada,"$65,167.72 ",104,Team Fortress 2
+Finland,"$42,765.31 ",61,Team Fortress 2
+Sweden,"$28,913.17 ",37,Team Fortress 2
+France,"$24,771.30 ",64,Team Fortress 2
+Germany,"$17,772.79 ",41,Team Fortress 2
+Denmark,"$10,638.18 ",10,Team Fortress 2
+Australia,"$8,538.09 ",47,Team Fortress 2
+Netherlands,"$7,897.66 ",14,Team Fortress 2
+Belgium,"$5,939.07 ",13,Team Fortress 2
+Russian Federation,"$4,548.03 ",37,Team Fortress 2
+Spain,"$3,708.58 ",5,Team Fortress 2
+Portugal,"$3,497.92 ",5,Team Fortress 2
+Iceland,"$2,556.00 ",2,Team Fortress 2
+Latvia,"$2,515.04 ",5,Team Fortress 2
+Lithuania,"$2,103.43 ",6,Team Fortress 2
+Ireland,"$1,982.15 ",9,Team Fortress 2
+Slovakia,"$1,885.79 ",3,Team Fortress 2
+Poland,"$1,884.80 ",7,Team Fortress 2
+Austria,"$1,057.24 ",2,Team Fortress 2
+Italy,$501.96 ,2,Team Fortress 2
+Norway,$416.86 ,3,Team Fortress 2
+Ukraine,$408.48 ,6,Team Fortress 2
+Czech Republic,$359.25 ,2,Team Fortress 2
+Israel,$313.53 ,3,Team Fortress 2
+Belarus,$187.06 ,1,Team Fortress 2
+Luxembourg,$167.87 ,1,Team Fortress 2
+Hungary,$139.29 ,2,Team Fortress 2
+Mexico,$116.66 ,3,Team Fortress 2
+Romania,$107.03 ,1,Team Fortress 2
+Switzerland,$98.69 ,1,Team Fortress 2
+Panama,$47.50 ,1,Team Fortress 2
+Brazil,$41.67 ,1,Team Fortress 2
+Bulgaria,$33.83 ,1,Team Fortress 2
+Argentina,$10.00 ,1,Team Fortress 2
+Russian Federation,"$212,436.26 ",120,Point Blank
+Thailand,"$152,000.00 ",20,Point Blank
+Indonesia,"$80,000.00 ",24,Point Blank
+Brazil,"$58,543.15 ",33,Point Blank
+Ukraine,"$26,381.94 ",17,Point Blank
+Azerbaijan,"$17,756.40 ",20,Point Blank
+Turkey,"$6,400.00 ",9,Point Blank
+India,"$4,000.00 ",10,Point Blank
+Philippines,"$4,000.00 ",6,Point Blank
+United States,"$4,000.00 ",6,Point Blank
+Belarus,"$2,255.52 ",4,Point Blank
+"Korea, Republic of","$2,000.00 ",5,Point Blank
+Peru,"$2,000.00 ",5,Point Blank
+Singapore,"$2,000.00 ",5,Point Blank
+Venezuela,"$2,000.00 ",5,Point Blank
+Portugal,"$1,200.00 ",2,Point Blank
+United Kingdom,$800.00 ,1,Point Blank
+Italy,$400.00 ,1,Point Blank
+Netherlands,$400.00 ,1,Point Blank
+Romania,$400.00 ,1,Point Blank
+"Moldova, Republic of",$376.00 ,1,Point Blank
+Germany,$15.30 ,1,Point Blank
+United States,"$236,381.12 ",65,Quake Live
+Belarus,"$104,242.27 ",7,Quake Live
+Russian Federation,"$80,985.14 ",11,Quake Live
+Sweden,"$50,329.50 ",9,Quake Live
+France,"$47,874.61 ",9,Quake Live
+Poland,"$32,983.31 ",16,Quake Live
+Germany,"$22,734.62 ",17,Quake Live
+Italy,"$19,658.48 ",6,Quake Live
+Canada,"$17,582.04 ",14,Quake Live
+Netherlands,"$11,864.15 ",7,Quake Live
+Australia,"$9,200.56 ",13,Quake Live
+Czech Republic,"$7,018.00 ",10,Quake Live
+Austria,"$6,817.64 ",1,Quake Live
+United Kingdom,"$4,204.49 ",6,Quake Live
+Norway,"$3,486.04 ",6,Quake Live
+China,"$3,083.43 ",1,Quake Live
+Hungary,"$2,000.00 ",1,Quake Live
+Belgium,"$1,779.69 ",3,Quake Live
+Finland,"$1,700.00 ",1,Quake Live
+Lithuania,$986.71 ,1,Quake Live
+Ukraine,$738.46 ,6,Quake Live
+Japan,$700.00 ,2,Quake Live
+Ireland,$647.62 ,2,Quake Live
+Slovakia,$597.66 ,1,Quake Live
+India,$250.00 ,1,Quake Live
+Spain,$200.62 ,1,Quake Live
+New Zealand,$181.39 ,4,Quake Live
+Malaysia,$150.00 ,1,Quake Live
+"Taiwan, Republic of China",$150.00 ,1,Quake Live
+Estonia,$36.75 ,1,Quake Live
+Bulgaria,$21.19 ,1,Quake Live
+Singapore,$17.88 ,1,Quake Live
+Peru,$13.37 ,1,Quake Live
+Kazakhstan,$13.27 ,1,Quake Live
+Czech Republic,"$134,090.09 ",9,Assetto Corsa
+Switzerland,"$84,983.95 ",43,Assetto Corsa
+Germany,"$78,292.00 ",46,Assetto Corsa
+United Kingdom,"$61,143.13 ",11,Assetto Corsa
+Spain,"$59,885.93 ",28,Assetto Corsa
+Italy,"$52,588.73 ",23,Assetto Corsa
+Netherlands,"$34,807.08 ",6,Assetto Corsa
+Slovenia,"$28,108.40 ",3,Assetto Corsa
+Poland,"$25,271.07 ",10,Assetto Corsa
+Greece,"$17,734.70 ",1,Assetto Corsa
+France,"$10,418.15 ",5,Assetto Corsa
+Australia,"$9,705.00 ",1,Assetto Corsa
+Finland,"$8,125.50 ",1,Assetto Corsa
+Canada,"$8,024.40 ",2,Assetto Corsa
+Turkey,"$4,963.13 ",2,Assetto Corsa
+Lithuania,"$3,853.09 ",31,Assetto Corsa
+Kazakhstan,"$3,000.00 ",1,Assetto Corsa
+North Macedonia,"$2,250.00 ",1,Assetto Corsa
+Sweden,"$1,600.00 ",3,Assetto Corsa
+Argentina,"$1,163.80 ",2,Assetto Corsa
+Mongolia,"$1,000.00 ",1,Assetto Corsa
+Brazil,$952.70 ,2,Assetto Corsa
+Russian Federation,$623.40 ,3,Assetto Corsa
+Ukraine,$500.00 ,1,Assetto Corsa
+United States,$480.05 ,5,Assetto Corsa
+Latvia,$303.50 ,4,Assetto Corsa
+Hungary,$120.10 ,2,Assetto Corsa
+Belarus,$100.00 ,1,Assetto Corsa
+Puerto Rico,$100.00 ,1,Assetto Corsa
+Croatia,$90.10 ,1,Assetto Corsa
+Estonia,$80.50 ,2,Assetto Corsa
+Georgia,$70.00 ,1,Assetto Corsa
+Ireland,$28.25 ,1,Assetto Corsa
+Indonesia,$24.40 ,1,Assetto Corsa
+Algeria,$22.60 ,1,Assetto Corsa
+Slovakia,$21.35 ,1,Assetto Corsa
+Monaco,$1.17 ,1,Assetto Corsa
+United States,"$429,158.72 ",135,Call of Duty: Blackout
+Canada,"$62,725.00 ",8,Call of Duty: Blackout
+United Kingdom,"$40,589.64 ",15,Call of Duty: Blackout
+Russian Federation,"$13,100.00 ",9,Call of Duty: Blackout
+France,"$7,050.00 ",6,Call of Duty: Blackout
+Turkey,"$6,075.00 ",4,Call of Duty: Blackout
+Afghanistan,"$3,375.00 ",1,Call of Duty: Blackout
+Sweden,"$2,200.00 ",3,Call of Duty: Blackout
+Spain,"$1,750.00 ",5,Call of Duty: Blackout
+Poland,"$1,250.00 ",2,Call of Duty: Blackout
+Estonia,"$1,175.00 ",1,Call of Duty: Blackout
+Finland,"$1,175.00 ",1,Call of Duty: Blackout
+Italy,$800.00 ,2,Call of Duty: Blackout
+Hungary,$675.00 ,1,Call of Duty: Blackout
+Saudi Arabia,$125.00 ,1,Call of Duty: Blackout
+"Korea, Republic of","$560,130.35 ",94,KartRider
+Sweden,"$232,475.67 ",23,Quake 4
+United States,"$97,279.27 ",28,Quake 4
+Russian Federation,"$53,721.28 ",14,Quake 4
+Poland,"$34,276.74 ",5,Quake 4
+Italy,"$26,300.00 ",3,Quake 4
+United Kingdom,"$24,636.86 ",10,Quake 4
+Belarus,"$22,790.05 ",2,Quake 4
+France,"$17,697.33 ",2,Quake 4
+Netherlands,"$12,687.92 ",4,Quake 4
+China,"$5,611.47 ",3,Quake 4
+Ukraine,"$5,177.87 ",3,Quake 4
+Germany,"$4,729.43 ",3,Quake 4
+Australia,"$4,687.50 ",1,Quake 4
+Canada,"$4,612.50 ",3,Quake 4
+Finland,"$1,146.07 ",4,Quake 4
+South Africa,$770.71 ,5,Quake 4
+Norway,$588.62 ,2,Quake 4
+Venezuela,$200.00 ,1,Quake 4
+Spain,$150.00 ,1,Quake 4
